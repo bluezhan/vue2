@@ -67,23 +67,29 @@ JSP 的语法就是在HTML里加入自定义的东西和加入了动态语言
 就是很棒，别说了        
 
 我想说的就是：
+
 - 分离
 - HTML动态解析模板
 - 结构化
 - 模块化
 - 工程化
 
-#### ...
+#### Vue 基础
+
+  有个Vue社区 http://www.vue-js.com/  
+
+  2.0中文社区，上面有提到，再来再次给出《[Vue 2.0 中文版](https://vuefe.cn/)》  
+  
+  看一下2.0的API：https://vuefe.github.io/api/  
+
+### 还需要一些周边知识
+
+Node+npm Es6 Sass webpack gulp   
 
 
+### 项目 
 
-
-
-
-
-
-
-
+ [豆瓣API](https://developers.douban.com/wiki/?title=guide) [聚合数据](https://www.juhe.cn) 
 
 
 
