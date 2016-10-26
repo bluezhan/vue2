@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hello Vue-2.0.0.js!</title>
+    <!-- <script src="Vue-2.0.0.js"></script> -->
+    <script src="https://unpkg.com/vue@next/dist/vue.js"></script>
+    <!-- <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js"></script>
+    <script >hljs.initHighlightingOnLoad();</script> -->
+    <style type="text/css">
+    .content {
+        position: relative;
+        width: 960px;
+        height: auto;
+        margin: 0 auto;
+        padding: 20px 0;
+    }
+    
+    fieldset {
+        position: relative;
+        display: block;
+        margin-bottom: 20px;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <!-- ============================================ -->
+        <!-- 声明式渲染 -->
+        <!-- ============================================ -->
+        <fieldset>
+            <legend>声明式渲染</legend>
+            <div id="app">
+                <p v-bind:title="title">message: {{ message }}</p>
+            </div>
+            <script type="text/javascript">
+            new Vue({
+                el: '#app',
+                data: {
+                    message: 'Hello Vue-2.0.0.js!',
+                    title: 'this title!!!'
+                }
+            })
+            </script>
+            <p>这里我们遇到点新东西。你看到的 v-bind 属性被称为指令。指令带有前缀 v-，以表示它们是 Vue.js 提供的特殊属性。可能你已经猜到了，它们会在渲染过的 DOM 上应用特殊的响应式行为。这个指令的简单含义是说：将这个元素节点的 title 属性和 Vue 实例的 message 属性绑定到一起。
+                <br /> 你再次打开浏览器的控制台输入 app2.message = 'some new message'，你就会再一次看到这个绑定了title属性的HTML已经进行了更新。</p>
+        </fieldset>
+        <!-- ============================================ -->
+        <!-- 条件与循环 -->
+        <!-- ============================================ -->
+        <fieldset>
+            <legend>条件与循环</legend>
+            <h3>条件:v-if</h3>
+            <div id="app-3">
+                <p v-if="seen">Now you see me</p>
+            </div>
+            <script type="text/javascript">
+            var app3 = new Vue({
+                el: '#app-3',
+                data: {
+                    seen: true
+                }
+            })
+            </script>
+            <p>继续在控制台设置 app3.seen = false，你会发现 “Now you see me” 消失了。</p>
+            <h3>循环:v-for</h3>
+            <div id="app-4">
+                <ol>
+                    <li v-for="todo in todos">
+                        {{ todo.text }}
+                    </li>
+                </ol>
+                <ul>
+                    <li v-for="item in items">
+                        {{item}}
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+            var app4 = new Vue({
+                el: '#app-4',
+                data: {
+                    todos: [{
+                        text: 'Learn JavaScript'
+                    }, {
+                        text: 'Learn Vue'
+                    }, {
+                        text: 'Build something awesome'
+                    }],
+                    items: [3, 4, 5, 6, 7]
+                }
+            })
+            </script>
+            <p>在控制台里，输入 app4.todos.push({ text: 'New item' })。你会发现列表中多了一栏新内容。</p>
+        </fieldset>
+        <!-- ============================================ -->
+        <!-- 处理用户输入 -->
+        <!-- ============================================ -->
+        <fieldset>
+            <legend>处理用户输入</legend>
+            <div id="app-5">
+                <p>{{ message }}</p>
+                <button v-on:click="reverseMessage">Reverse Message</button>
+            </div>
+            <script type="text/javascript">
+            var app5 = new Vue({
+                el: '#app-5',
+                data: {
+                    message: 'Hello Vue.js!'
+                },
+                methods: {
+                    reverseMessage: function() {
+                        this.message = this.message.split('').reverse().join('')
+                    }
+                }
+            })
+            </script>
+            <p>在 reverseMessage 方法中，我们在没有接触 DOM 的情况下更新了应用的状态 - 所有的 DOM 操作都由 Vue 来处理，你写的代码只需要关注基本逻辑。
+                <br /> Vue 也提供了 v-model 指令，它使得在表单输入和应用状态中做双向数据绑定变得非常轻巧。</p>
+            <div id="app-6">
+                <p>{{ message }}</p>
+                <input v-model="message">
+            </div>
+            <script type="text/javascript">
+            var app6 = new Vue({
+                el: '#app-6',
+                data: {
+                    message: 'Hello Vue!'
+                }
+            })
+            </script>
+            <p>input的value绑定了message~~~</p>
+        </fieldset>
+        <b>总结上面：<br />
+             - new Vue({}) <br />
+             - 看源代码的strats对象（el,name,data,watch,props,methods,computed）<br />
+             - 数据和动作是个怎么样对应的？<br />
+        </b>
+        <br />
+        <br />
+
+        <fieldset>
+            <legend>组件</legend>
+
+            <div id="app-7">
+						  <ol>
+						    <!--
+						    Now we provide each todo-item with the todo object
+						    it's representing, so that its content can be dynamic
+						    -->
+						    <todo-item v-for="todo in todos" v-bind:todo="todo"></todo-item>
+						  </ol>
+						</div>
+            <script type="text/javascript">
+
+								Vue.component('todo-item', {
+								  props: ['todo'],
+								  template: '<li>{{ todo.text }}</li>'
+								});
+
+								var app7 = new Vue({
+								  el: '#app-7',
+								  data: {
+								    todos: [
+								      { text: 'Learn JavaScript' },
+								      { text: 'Learn Vue' },
+								      { text: 'Build something awesome' }
+								    ]
+								  }
+								});
+            </script>
+        </fieldset>
+
+        <b>
+        	思考：<br />
+        	  - JavaScript库有什么能力去解析HTML  <br />
+        	  - 将HTML结构化已经归为自己所有  <br />
+        	  - 而且像模块化一样（request和sea）,对文件的处理  <br />
+        	  - 浏览器和V8或者解析前端代码的机制  <br /> <br />
+        	后来有了Node，工程化，各种预处理器，动态植入。  <br />
+        </b>
+
+    </div>
+</body>
+
+</html>
