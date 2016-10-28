@@ -88,12 +88,65 @@ JSP 的语法就是在HTML里加入自定义的东西和加入了动态语言
 
 #### vue-router
 
+来，链接在这里：[vue-router 2](http://router.vuejs.org/zh-cn/)  
+
+
+__路由对象和路由匹配__  
+
+路由对象，即$router会被注入每个组件中，可以利用它进行一些信息的获取。如
+
+|属性|说明|
+|-----------------------------------|:-------------------------------:|
+|$route.path	|当前路由对象的路径，如'/view/a'|
+|$rotue.params	|关于动态片段（如/user/:username)的键值对信息,如{username: 'paolino'}|
+|$route.query	|请求参数，如/foo?user=1获取到query.user = 1|
+|$route.router	|所属路由器以及所属组件信息|
+|$route.matched	|数组，包含当前匹配的路径中所包含的所有片段所对应的配置参数对象。|
+|$route.name	|当前路径名字|
+
+__路由选项__
+
+|路由选项名|	默认值|	作用|
+|---------------|:-------------------:|:-------------------------------:|
+|hashbang	|true	|将路径格式化为#!开头|
+|history	|false	|启用HTML5 history模式，可以使用pushState和replaceState来管理记录|
+|abstract	|false|	使用一个不依赖于浏览器的浏览历史虚拟管理后端。|
+|transitionOnLoad|	false	|初次加载是否启用场景切换|
+|saveScrollPosition|	false|	在启用html5 history模式的时候生效，用于后退操作的时候记住之前的滚动条位置|
+|linkActiveClass	|"v-link-active"	|链接被点击时候需要添加到v-link元素上的class类,默认为active|
+
+如，我想采用一个有路径格式化并启用Html5 history功能的路由器，则可以在路由器初始化的时候，指定这些参数:
+
+```javascript
+var router = new VueRouter({
+  hashbang: true,
+  history: true
+});
+```
+
+
+
+请暂时参考这篇文章[VueJs路由跳转——vue-router的使用](http://www.jianshu.com/p/cb918fe14dc6#)  
+
+
+
+
+
+
+
+
 #### 动画过渡
 
 #### 项目目录
 
 #### webpack
 
+### Vue-cli 构建工具
+
+```v
+npm install -g vue-cli  
+vue init webpack my-project
+```
 
 
 
