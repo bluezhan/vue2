@@ -131,7 +131,7 @@ var router = new VueRouter({
 
 
 
-
+#### vuex 状态管理
 
 
 
