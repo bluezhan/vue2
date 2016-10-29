@@ -124,15 +124,61 @@ var router = new VueRouter({
 });
 ```
 
-
-
 请暂时参考这篇文章[VueJs路由跳转——vue-router的使用](http://www.jianshu.com/p/cb918fe14dc6#)  
+
+
+__注意项__
+
+- 响应路由参数的变化(组件内部跳同一个组件)
+- 嵌套路径的 children 
+- 编程式的导航  
+  1、声明式：router-link :to="..." || 编程式：router.push(...)    
+     这个方法会向 history 栈添加一个新的记录
+    ```javascript
+      // 字符串
+      router.push('home')
+
+      // 对象
+      router.push({ path: 'home' })
+
+      // 命名的路由
+      router.push({ name: 'user', params: { userId: 123 }})
+
+      // 带查询参数，变成 /register?plan=private
+      router.push({ path: 'register', query: { plan: 'private' }})
+      
+    ```
+  2、声明式：router-link :to="..." replace || 编程式：router.replace(...)  
+    不会向 history 添加新记录，替换掉当前的 history 记录
+  
+  3、router.go(n)
+   ```javascript
+    // 在浏览器记录中前进一步，等同于 history.forward()
+    router.go(1)
+
+    // 后退一步记录，等同于 history.back()
+    router.go(-1)
+
+    // 前进 3 步记录
+    router.go(3)
+
+    // 如果 history 记录不够用，那就默默地失败呗
+    router.go(-100)
+    router.go(100)
+   ```
+   
+   4、操作 History
+
+    你也许注意到 router.push、 router.replace 和 router.go 跟 window.history.pushState、 window.history.replaceState 和 window.history.go好像， 实际上它们确实是效仿 window.history API 的。    
+    还有值得提及的，vue-router 的导航方法 （push、 replace、 go） 在各类路由模式（history、 hash 和 abstract）下表现一致。
+  
+
+
 
 
 
 
 #### vuex 状态管理
-
 
 
 #### 动画过渡
