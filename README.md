@@ -217,16 +217,18 @@ __注意项__
   结合 Vue 的 异步组件 和 Webpack 的 code splitting feature, 轻松实现路由组件的懒加载。  
 
 
-#### vuex 状态管理  
+#### Vuex 状态管理  
   
   登录状态，信息储存、暂存，操作状态。
   
-  
+  有空可以去解读源码：http://vuex.vuejs.org/en/index.html   
+  有中文版： https://segmentfault.com/a/1190000007108052  
+
+#### Vue-resource
+
 #### 动画过渡
 
   http://vuejs.org/guide/transitions.html  
-
-
 
 
 
