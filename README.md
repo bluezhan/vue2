@@ -133,7 +133,7 @@ __注意项__
 - 嵌套路径的 children 
 - 编程式的导航  
 
-  1、声明式：router-link :to="..." || 编程式：router.push(...)    
+  1、声明式：router-link :to="..." || 编程式：router.push(...)     
      这个方法会向 history 栈添加一个新的记录
      
   ```javascript
@@ -152,8 +152,8 @@ __注意项__
       
    ```
     
-  2、声明式：router-link :to="..." replace || 编程式：router.replace(...)  
-     不会向 history 添加新记录，替换掉当前的 history 记录
+  2、声明式：router-link :to="..." replace || 编程式：router.replace(...)   
+    不会向 history 添加新记录，替换掉当前的 history 记录
   
   3、router.go(n)  
   
@@ -175,6 +175,7 @@ __注意项__
   ```
    
    4、操作 History  
+   
      你也许注意到 router.push、 router.replace 和 router.go 跟 window.history.pushState、 window.history.replaceState 和 window.history.go好像， 实际上它们确实是效仿 window.history API 的。 还有值得提及的，vue-router 的导航方法 （push、 replace、 go） 在各类路由模式（history、 hash 和 abstract）下表现一致。
   
 - 命名路由 和 命名视图
@@ -200,11 +201,34 @@ __注意项__
   这个给个链接自己去玩 http://router.vuejs.org/zh-cn/essentials/history-mode.html   
   因为这个比较复杂和需要后台来配合...    
 
+- 导航钩子（路由ing锁）        
+  正如其名，vue-router 提供的导航钩子主要用来拦截导航，让它完成跳转或取消。有多种方式可以在路由导航发生时执行钩子：全局的, 单个路由独享的, 或者组件级的。
+  来来来：http://router.vuejs.org/zh-cn/advanced/navigation-guards.html   
 
-#### vuex 状态管理
+- 路由元信息 （就是标志过滤处理）
+- 过渡动效 ... 
+- 数据获取      
+  1、导航完成之后获取：先完成导航，然后在接下来的组件生命周期钩子中获取数据。在数据获取期间显示『加载中』之类的指示。   
+  2、导航完成之前获取：导航完成前，在路由的 enter 钩子中获取数据，在数据获取成功后执行导航。
+- 滚动行为      
+  注意: 这个功能只在 HTML5 history 模式下可用。
+- 路由懒加载    
+  说白了就是模块化加载   
+  结合 Vue 的 异步组件 和 Webpack 的 code splitting feature, 轻松实现路由组件的懒加载。  
 
 
+#### vuex 状态管理  
+  
+  登录状态，信息储存、暂存，操作状态。
+  
+  
 #### 动画过渡
+
+  http://vuejs.org/guide/transitions.html  
+
+
+
+
 
 #### 项目目录
 
