@@ -136,7 +136,7 @@ __注意项__
   1、声明式：router-link :to="..." || 编程式：router.push(...)    
      这个方法会向 history 栈添加一个新的记录
      
-```javascript
+  ```javascript
 
       // 字符串  
       router.push('home')
@@ -150,14 +150,14 @@ __注意项__
       // 带查询参数，变成 /register?plan=private
       router.push({ path: 'register', query: { plan: 'private' }})
       
- ```
+   ```
     
   2、声明式：router-link :to="..." replace || 编程式：router.replace(...)  
      不会向 history 添加新记录，替换掉当前的 history 记录
   
   3、router.go(n)  
   
-```javascript
+  ```javascript
 
     // 在浏览器记录中前进一步，等同于 history.forward()
     router.go(1)
@@ -172,17 +172,33 @@ __注意项__
     router.go(-100)
     router.go(100)
     
-```
+  ```
    
-   4、操作 History
-
-    你也许注意到 router.push、 router.replace 和 router.go 跟 window.history.pushState、 window.history.replaceState 和 window.history.go好像， 实际上它们确实是效仿 window.history API 的。    
-    还有值得提及的，vue-router 的导航方法 （push、 replace、 go） 在各类路由模式（history、 hash 和 abstract）下表现一致。
+   4、操作 History  
+     你也许注意到 router.push、 router.replace 和 router.go 跟 window.history.pushState、 window.history.replaceState 和 window.history.go好像， 实际上它们确实是效仿 window.history API 的。 还有值得提及的，vue-router 的导航方法 （push、 replace、 go） 在各类路由模式（history、 hash 和 abstract）下表现一致。
   
+- 命名路由 和 命名视图
+  命名路由就是在路由加个 name 的标签  
+  命名视图就是在视图加个 name 的标签，可以设置默认值  
+  
+- 重定向 和 别名  
+  重定向：内部跳转  
+  ```javascript 
+    { path: '/a', redirect: '/b' }  
+    { path: '/a', redirect: { name: 'foo' }}  
+    { path: '/a', redirect: to => {
+        // 方法接收 目标路由 作为参数
+        // return 重定向的 字符串路径/路径对象
+    }}
+  ```
+  别名：保持当前路由去访问另一个路由  
+  ```javascript
+    { path: '/a', component: A, alias: '/b' }
+  ```
+- HTML5 History 模式  
 
-
-
-
+  这个给个链接自己去玩 http://router.vuejs.org/zh-cn/essentials/history-mode.html   
+  因为这个比较复杂和需要后台来配合...    
 
 
 #### vuex 状态管理
