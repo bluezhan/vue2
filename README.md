@@ -132,10 +132,13 @@ __注意项__
 - 响应路由参数的变化(组件内部跳同一个组件)
 - 嵌套路径的 children 
 - 编程式的导航  
+
   1、声明式：router-link :to="..." || 编程式：router.push(...)    
      这个方法会向 history 栈添加一个新的记录
-    ```javascript
-      // 字符串
+     
+```javascript
+
+      // 字符串  
       router.push('home')
 
       // 对象
@@ -147,12 +150,15 @@ __注意项__
       // 带查询参数，变成 /register?plan=private
       router.push({ path: 'register', query: { plan: 'private' }})
       
-    ```
-  2、声明式：router-link :to="..." replace || 编程式：router.replace(...)  
-    不会向 history 添加新记录，替换掉当前的 history 记录
+ ```
+    
+  2、声明式：router-link :to="..." replace || 编程式：router.replace(...)  
+     不会向 history 添加新记录，替换掉当前的 history 记录
   
-  3、router.go(n)
-   ```javascript
+  3、router.go(n)  
+  
+```javascript
+
     // 在浏览器记录中前进一步，等同于 history.forward()
     router.go(1)
 
@@ -165,7 +171,8 @@ __注意项__
     // 如果 history 记录不够用，那就默默地失败呗
     router.go(-100)
     router.go(100)
-   ```
+    
+```
    
    4、操作 History
 
