@@ -224,6 +224,8 @@ __注意项__
   有空可以去解读源码：http://vuex.vuejs.org/en/index.html   
   有中文版： https://segmentfault.com/a/1190000007108052  
 
+#### Vue-loading
+
 #### Vue-resource
 
 #### 动画过渡
