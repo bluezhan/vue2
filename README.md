@@ -1,6 +1,5 @@
 
-## 集React+Vue+TyleScript+Webpack+...开发的资源  
-
+## 集Vue+TyleScript+Webpack+...开发的资源流水线  
 
 
 ### Vue+  
