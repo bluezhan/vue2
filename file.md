@@ -7,6 +7,15 @@ this 是 JavaScript 中的一个关键字，当一个函数被调用时，除了
 
 上网找关于JavaScript的this一大把，哪里都有。  
 
+
+### 项目
+
+vue ts node webpack koa
+
+https://mp.weixin.qq.com/s/p2Uc9IV284MXbRHhV2Vf-g
+https://segmentfault.com/a/1190000010324395
+
+
 ### 平台发布
 
 个人网站 github
@@ -16,7 +25,13 @@ sf.gg 简书 cnblog 知乎
 
 ===========================================================
 
+大话大前端时代(一) —— Vue 与 iOS 的组件化 https://segmentfault.com/a/1190000010122331
+
 ## Vue2.x 坑坑洼洼
+
+vue2实践（持续更新）https://segmentfault.com/a/1190000008688050
+
+刺破vue的心脏之——响应式源码分析 http://www.tuicool.com/articles/BbMbYfq
 
 #### Vue2.x 坑坑洼洼(一) - 本想搭了个建 
 
@@ -43,11 +58,9 @@ sf.gg 简书 cnblog 知乎
 在vue2.x里，废弃自带过滤器了，想用得自己定义了。
 http://www.jianshu.com/p/29b7eaabd1ba
 
-
 #### Vue2.x 坑坑洼洼(三) - github层出不穷的高仿项目
 
 https://www.zhihu.com/question/38213423
-
 
 #### 来个Vue2.x版 http://qingmang.me/
 
@@ -82,6 +95,15 @@ v-model,v-html,v-text,v-bind,v-if,v-show,v-for,v-on:click,组件,过滤器
 #### 三、Vue2.x 动画处理
 
 #### 三、Vue2.x 插件和组件
+
+#### 三、Vue2.x 组件上的东东
+
+
+$children,$refs,$parent,$emit
+props/state
+
+Vue.js 组件编码规范 https://pablohpsilva.github.io/vuejs-component-style-guide/  
+https://cn.vuejs.org/v2/guide/
 
 #### 四、Vue2.x 提高熟练程度
 
