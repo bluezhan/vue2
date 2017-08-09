@@ -7,13 +7,12 @@ this 是 JavaScript 中的一个关键字，当一个函数被调用时，除了
 
 上网找关于JavaScript的this一大把，哪里都有。  
 
-
 ### 项目
 
 vue ts node webpack koa
 
-https://mp.weixin.qq.com/s/p2Uc9IV284MXbRHhV2Vf-g
-https://segmentfault.com/a/1190000010324395
+vuejs+ts+webpack2框架的项目实践 https://mp.weixin.qq.com/s/p2Uc9IV284MXbRHhV2Vf-g
+用 TS + Vue 重写 APlayer HTML5 音乐播放器 https://segmentfault.com/a/1190000010324395
 
 
 ### 平台发布

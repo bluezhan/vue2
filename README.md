@@ -4,8 +4,10 @@
 ### Vue2+
 
 官网：https://cn.vuejs.org  
-github: https://github.com/vuejs/vue  
-vuefe：https://vuefe.cn
+github: https://github.com/vuejs/vue   
+vuefe：https://vuefe.cn  
+
+版本 v2.4.x 是目前最新版本(2017.8)
 
 #### 专题目录
 
@@ -15,7 +17,7 @@ Vue2+Koa2 实现后台管理系统
 Vue2 SSR服务器端的渲染
 Vue2 异步组件
 Vue2 内存优化
-
+Vue2 插件和组件
 npx
 
 #### 更新项目
@@ -28,13 +30,13 @@ npx
 Node爬虫接口: https://ecitlm.github.io/SpliderApi/#/
 
 #### 关注
+
 []()
 [某熊的全栈之路](https://zhuanlan.zhihu.com/wxyyxc1992)
 [掘金官方-收藏夹](http://www.jianshu.com/u/5fc9b6410f4f)  
 []()  
 []()  
 []()  
-
 
 #### 平台
 
@@ -49,18 +51,16 @@ Stack Overflow
 [国内外有哪些好的前端实战网站](https://www.zhihu.com/question/21034316)
 [国外的前端开发社区有哪些](https://segmentfault.com/q/1010000002899648)
 
-好奇心和逻辑
+好奇心和清晰逻辑
 国内外技术网站
-写代码和demo
+撸代码和Demo
 解决问题和bug
 了解产品和设计
 
 看别人的代码
 看框架代码
 看网站的代码
-看书
-看直播
-
+看书看直播看教程
 
 #### 周刊
 
@@ -69,6 +69,7 @@ Stack Overflow
 极乐技术周报
 奇舞周刊
 前端周刊 https://zhuanlan.zhihu.com/feweekly
+橙汁绿茶-前端日报 https://segmentfault.com/blog/timlee 
 
 前端联盟官网 http://jsfront.org/month/2017/201704.html
 前端资源分享 https://segmentfault.com/blog/tobyshare

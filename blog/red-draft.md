@@ -233,7 +233,6 @@ __注意项__
   http://vuejs.org/guide/transitions.html  
 
 
-
 #### 项目目录
 
 #### webpack
@@ -246,11 +245,9 @@ vue init webpack my-project
 ```
 
 
-
 ### 还需要一些周边知识
 
 Node+npm Es6 Sass webpack gulp   
-
 
 ### 项目 
 
