@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="keywords" content="web前端,HTML CSS,JavaScript"> 
+  <meta name="description" content="技术文章专题，标题取于web前端内容；专注 JavaScript 相关及周边技术！">
+  <meta name="robots" content="all"> 
+  <meta name="author" content="bluezhan">
+  <title>Vue2.x沉睡的凶猛在苏醒|bluezhan</title>
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="shortcut icon" href="https://github.com/bluezhan/weeky/raw/master/images/favicon.ico" >
+</head>
+<body>
+  <div data-app id="app"></div>
+</body>
+<script>
+  var _basePath = '';
+  if (window.location.hostname == "bluezhan.me") {
+    _basePath = 'http://bluezhan.me/Vue2.0';
+  }
+  window.$docsify = {
+    basePath: _basePath+'/path/',
+    name: '《Vue2.x完全为你现形》',
+    repo: 'http://bluezhan.me',
+    auto2top: true,
+    // coverpage: true,
+    homepage: '_home.md',
+    loadSidebar: true
+  }
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js" data-sidebar-toggle>
+</script>
+</html>
