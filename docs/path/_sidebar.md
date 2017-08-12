@@ -1,4 +1,5 @@
 - __目了个录__
+  - [Vue2.x周报](/weekly)  
   - [【Vue2.x第一天】还恃住年少气盛](/cources-1)  
   - [【Vue2.x第二天】混忘自己的姓](/cources-2)  
   - [【Vue2.x第三天】沉睡的凶猛在苏醒](/cources-3)  

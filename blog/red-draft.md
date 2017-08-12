@@ -29,6 +29,14 @@ B 站的三个项目 _(•̀ω•́ 」∠)_：
 
 上面的信息基本来自知乎》https://www.zhihu.com/question/33264609  
 
+#### 更新项目
+
+简书  
+饿了吗  
+网易云音乐  
+知乎日报  
+
+Node爬虫接口: https://ecitlm.github.io/SpliderApi/#/
 
 ### 开始Vue
 
