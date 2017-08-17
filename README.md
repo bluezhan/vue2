@@ -1,5 +1,5 @@
 
-![](https://github.com/bluezhan/Vue2.0/raw/master/blog/logo.png)
+![](https://github.com/bluezhan/vue2/raw/master/blog/logo.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
