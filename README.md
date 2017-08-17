@@ -1,6 +1,12 @@
 
-
 ![](https://github.com/bluezhan/Vue2.0/raw/master/blog/logo.png)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
+  <img src="https://img.shields.io/badge/vue-2+-orange.svg">
+  <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
+  <img src="https://img.shields.io/badge/$%^*-better-ff69b4.svg">
+</p>
 
 # 集 Vue2+ 开发生态圈 
 
@@ -26,21 +32,26 @@ vuefe：https://vuefe.cn
 
 第二周(13~19):    
 
-* []()
+* [某熊的全栈之路-前端每周清单半年盘点之 Vue.js 篇](https://zhuanlan.zhihu.com/p/28528640)
 * [关于大漠穷秋的angular和Vue的那些事时间轴]()
 
 第一周(06~12): 
 
+
+
 *`七月`：兰月，巧月，早秋之月*  
+
 
 
 *`六月`：荷月，暑月，暮夏之月*  
 
-__更多Vue2+周报>>> [点我](http://bluezhan.me/Vue2.0/#/)__  
+
+
+__更多Vue2+周报>>> [点我](http://bluezhan.me/Vue2.0/#/weekly)__  
 
 ### 关注平台
 
-github、知乎、简书、掘金、sf.gg、博客园  
+github、知乎、简书、掘金、sf.gg、博客园、伯乐在线   
 众成翻译（zcfy.cc）  
 medium、Codrops、CSSWizardry、Smashing Magazine   
 SmaCSS、CSS-Tricks、TGideas、Frontend Masters 
@@ -52,7 +63,7 @@ Stack Overflow
 
 ### 周刊&收藏夹
  
-阿里云前端周刊、掘金精华周报、极乐技术周报、奇舞周刊   
+阿里云前端周刊、掘金精华周报、极乐技术周报、奇舞周刊、百度外卖     
 
 [nodeweekly](nodeweekly.com)、[webopsweekly](webopsweekly.com)、[html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)、[javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
 
