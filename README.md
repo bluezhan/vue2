@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/vue-2+-orange.svg">
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
-  <img src="https://img.shields.io/badge/$%^*-better-ff69b4.svg">
+  <img src="https://img.shields.io/badge/vuefe-better-ff69b4.svg">
 </p>
 
 # 集 Vue2+ 开发生态圈 
