@@ -10,7 +10,7 @@
 
 # 集 Vue2+ 开发生态圈 
 
-### Vue2+
+## Vue2+
 
 **Vue.js**（读音 /vjuː/，类似于 view）
 
@@ -22,13 +22,13 @@ vuefe：https://vuefe.cn
 
 版本 v2.4.x 是目前最新版本(2017.8)  
 
-### Vue2+周报
+## Vue2+周报
 
 > **不积跬步，无以至千里；不积小流，无以成江海**
 
-#### 丁酉年 【鸡年】
+### 丁酉年 【鸡年】
 
-*`八月`：桂月，壮月，仲秋之月*  
+#### *`八月`：桂月，壮月，仲秋之月*  
 
 第二周(13~19):    
 
@@ -39,17 +39,17 @@ vuefe：https://vuefe.cn
 
 
 
-*`七月`：兰月，巧月，早秋之月*  
+#### *`七月`：兰月，巧月，早秋之月*  
 
 
 
-*`六月`：荷月，暑月，暮夏之月*  
+#### *`六月`：荷月，暑月，暮夏之月*  
 
 
 
 __更多Vue2+周报>>> [点我](http://bluezhan.me/Vue2.0/#/weekly)__  
 
-### 关注平台
+## 关注平台
 
 github、知乎、简书、掘金、sf.gg、博客园、伯乐在线   
 众成翻译（zcfy.cc）  
@@ -61,11 +61,13 @@ Stack Overflow
 [国内外有哪些好的前端实战网站](https://www.zhihu.com/question/21034316)  
 [国外的前端开发社区有哪些](https://segmentfault.com/q/1010000002899648)
 
-### 周刊&收藏夹
+## 周刊&收藏夹
  
 阿里云前端周刊、掘金精华周报、极乐技术周报、奇舞周刊、百度外卖     
 
-[nodeweekly](nodeweekly.com)、[webopsweekly](webopsweekly.com)、[html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)、[javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
+[nodeweekly](nodeweekly.com)、[webopsweekly](webopsweekly.com)    
+[html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)    
+[javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
 
 [前端周刊](https://zhuanlan.zhihu.com/feweekly)  
 [橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee) 
@@ -74,7 +76,7 @@ Stack Overflow
 [前端联盟官网](http://jsfront.org/month/2017/201704.html)  
 [前端资源分享](https://segmentfault.com/blog/tobyshare)
 
-### 保持该有的姿势
+## 保持该有的姿势
 
 好奇心和清晰逻辑  
 国内外技术网站  
