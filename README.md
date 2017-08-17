@@ -1,5 +1,5 @@
 
-![](https://github.com/itemsets/all-better-vue/raw/master/blog/logo.png)
+![](https://github.com/itemsets/vue2/raw/master/blog/logo.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
