@@ -30,26 +30,49 @@ vuefe：https://vuefe.cn
 
 #### *`八月`：桂月，壮月，仲秋之月*  
 
-第二周(8.14~8.20):    
+第三周(8.14~8.20):    
 
 * [某熊的全栈之路-前端每周清单半年盘点之 Vue.js 篇](https://zhuanlan.zhihu.com/p/28528640)
-* [关于大漠穷秋的angular和Vue的那些事时间轴]()
+* [Framework for building universal Vue.js app](https://github.com/ream/ream)
+* [由大漠穷秋对vue的攻击说说技术和开源精神](https://acejoy.com/2017/08/05/%E7%94%B1%E5%A4%A7%E6%BC%A0%E7%A9%B7%E7%A7%8B%E5%AF%B9vue%E7%9A%84%E6%94%BB%E5%87%BB%E8%AF%B4%E8%AF%B4%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E/)
+* [基于 vue2 + vuex + vue-router 构建的移动端微应用](https://github.com/JohnsenZhou/vue-mobile-starter)
+* [【翻译】Vue.js源码分析：计算属性如何工作](https://ssshooter.github.io/time-record/2017/08/03/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91Vue.js%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%EF%BC%9A%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C/)
 
-第一周(8.07~8.13): 
+第二周(8.07~8.13): 
 
+* [Angular、Vue、React 和前端的未来](https://zhuanlan.zhihu.com/p/28357490)
+* [【mock.js】后端不来过夜半，闲敲mock落灯花 （mockjs+Vuex+Vue实战）](http://www.cnblogs.com/penghuwan/p/7295176.html)
+* [vue ＋ node ＋ lumen 开发重构总结](http://div.io/topic/2024)
+* [基于 Vue.js 的消息气泡插件](https://juejin.im/post/598832486fb9a03c594587fd)
+* [Vue2源码分析-逻辑梳理](http://web.jobbole.com/92013/)
+* [vuejs使用FormData，ajax上传图片文件](https://segmentfault.com/a/1190000010539269)
 
 第一周(7.31~8.06): 
 
+* [Vue.js 很好，但是比 Angular 或 React 更好吗？](http://zcfy.cc/article/vue-js-is-good-but-is-it-better-than-angular-or-react-valuecoders-hire-dedicated-software-development-team-3760.html)
+* [基于文本相似度算法，分析 Vue 是抄出来的框架吗？](http://ewind.us/2017/nlp-framwork-analysis/)
+* [深刻理解Vue中的组件](https://segmentfault.com/a/1190000010527064)
+* [前端清单：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨，深入 React 动画](https://zhuanlan.zhihu.com/p/28348537)
+* [Angular、Vue、React 和前端的未来](https://zhuanlan.zhihu.com/p/28357490)
 
+<!--
 #### *`七月`：兰月，巧月，早秋之月*  
 
 
+* []()
 
 #### *`六月`：荷月，暑月，暮夏之月*  
 
+* []()
 
+-->
 
-__更多Vue2+周报>>> [点我](http://bluezhan.me/Vue2.0/#/weekly)__  
+<!-- __更多Vue2+周报>>> [点我](http://bluezhan.me/Vue2.0/#/weekly)__  -->
+
+__TODO__
+
+- 更多Vue2+周报的docsify
+- Node爬虫
 
 ## 关注平台
 
