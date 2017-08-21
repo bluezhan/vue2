@@ -30,6 +30,17 @@ vuefe：https://vuefe.cn
 
 #### *`八月`：桂月，壮月，仲秋之月*  
 
+第四周(8.21~8.27):  
+
+* [Integrate TypeScript in your Vue project](https://alexjoverm.github.io/2017/06/28/Integrate-TypeScript-in-your-Vue-project/)
+* [用Vue、Vuex、Immutable做俄罗斯方块](https://github.com/binaryify/vue-tetris/blob/master/README.md)
+* [Mastering Large Lists with the vue-recyclerview](https://github.com/hilongjw/vue-recyclerview)
+* [Data Driven Vue.js](https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f)
+* [Best Mobile Components for Vue.js PWAs](https://mobilewebweekly.com/link/20581/web)
+* [探索 vue-spa 全家桶项目,解析配置,目录结构,路由以及状态管理的实现,附源码](https://juejin.im/post/59916da2f265da3e154b202c)
+* [小型 Web 页项目打包优化方案](http://mp.weixin.qq.com/s/v8GMAgLmUzD8TWhkT1jDuQ)
+* [重温vue双向绑定原理解析](https://github.com/linzx1993/APS-ng-vue/issues/1)
+
 第三周(8.14~8.20):    
 
 * [某熊的全栈之路-前端每周清单半年盘点之 Vue.js 篇](https://zhuanlan.zhihu.com/p/28528640)
