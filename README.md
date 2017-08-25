@@ -94,6 +94,8 @@ SmaCSS、CSS-Tricks、TGideas、Frontend Masters
 Stack Overflow  
 等等...  
 
+[js-the-right-way](http://jstherightway.org/)  
+
 [国内外有哪些好的前端实战网站](https://www.zhihu.com/question/21034316)  
 [国外的前端开发社区有哪些](https://segmentfault.com/q/1010000002899648)
 
@@ -105,6 +107,7 @@ Stack Overflow
 [html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)    
 [javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
 
+[FEX 技术周刊](http://fex.baidu.com/weekly/)   
 [前端周刊](https://zhuanlan.zhihu.com/feweekly)  
 [橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee) 
 [某熊的全栈之路](https://zhuanlan.zhihu.com/wxyyxc1992)  
