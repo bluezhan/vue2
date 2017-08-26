@@ -85,6 +85,47 @@ __TODO__
 - 更多Vue2+周报的docsify
 - Node爬虫
 
+## Vue2+仿站集合
+
+最近Vue搞得红红火火，这里汇总了Github的Vue仿站前十个Star项目，方便以后自己或别人更便捷地找到并好好练手一把，感兴趣的可以到GitHub上给个star。   
+仿的比较经典是：饿了么  、网易云音乐   、豆瓣电影  、知乎日报  、CNode   、Vue.js专业中文社区 ... 
+
+#### 1、ustbhuangyi/vue-sell  ★1.1K   ::[[源码](https://github.com/ustbhuangyi/vue-sell)]::
+> Vue.js高仿饿了么外卖App课程源码 http://coding.imooc.com/class/74.html     
+
+#### 2、liangxiaojuan/eleme  ★1K   ::[[源码](https://github.com/liangxiaojuan/eleme)]::
+> vue2 +vue-router2 + es6 +webpack 高仿饿了么app商家详情，demo：http://yangyi1024.com/elem 还有我最新的实战项目,点它=》
+
+#### 3、bailichen/vue-weixin  ★944K   ::[[源码](https://github.com/bailichen/vue-weixin)]::
+> Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
+
+#### 4、zhaohaodang/vue-WeChat  ★727   ::[[源码](https://github.com/zhaohaodang/vue-WeChat)]::
+> :fire: 一款基于Vue2.0高仿微信App的单页应用
+
+#### 5、andylei18/vue-shopping  ★441   ::[[源码](https://github.com/andylei18/vue-shopping)]::
+> 基于Vue模仿蘑菇街的单页应用http://andylei18.github.io/vue-shopping/
+
+#### 6、jiangqizheng/vue2-MiniQQ  ★423   ::[[源码](https://github.com/jiangqizheng/vue2-MiniQQ)]::
+> 基于vue2全家桶实现的，仿移动端QQ
+
+#### 7、wendaosanshou/mi-by-vue  ★ 329  ::[[源码](https://github.com/wendaosanshou/mi-by-vue)]::
+> 使用vue.js模仿小米官网
+
+#### 8、Awheat/vue2-douban-market  ★272   ::[[源码](https://github.com/Awheat/vue2-douban-market)]::
+> 这是基于vue2 + vue-router2 + vuex + axios 仿(豆瓣市集)的一个webapp项目！
+
+#### 9、ChuckCZC/vue-demo-maizuo  ★ 232  ::[[源码](https://github.com/ChuckCZC/vue-demo-maizuo)]::
+> 用vue2模仿卖座网：http://m.maizuo.com/v4/?co=maizuo
+
+#### 10、hua1995116/musiccloudWebapp  ★190   ::[[源码](https://github.com/hua1995116/musiccloudWebapp)]::
+> vuejs仿网易云音乐
+
+__TODO__
+
+* 每周动态更新列表
+* 提炼里面经典代码片段
+* 玩一玩
+
 ## 关注平台
 
 github、知乎、简书、掘金、sf.gg、博客园、伯乐在线   
