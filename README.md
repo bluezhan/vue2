@@ -87,8 +87,11 @@ __TODO__
 
 ## Vue2+仿站集合
 
-最近Vue搞得红红火火，这里汇总了Github的Vue仿站前十个Star项目，方便以后自己或别人更便捷地找到并好好练手一把，感兴趣的可以到GitHub上给个star。   
+最近Vue搞得红红火火，这里汇总了Github的Vue仿站前十几个Star项目，方便以后自己或别人更便捷地找到并好好练手一把，感兴趣的可以到GitHub上给个star。   
 仿的比较经典是：饿了么  、网易云音乐   、豆瓣电影  、知乎日报  、CNode   、Vue.js专业中文社区 ... 
+
+#### 0、shinygang/Vue-cnodejs  ★2.6K   ::[[源码](https://github.com/shinygang/Vue-cnodejs)]::
+> 基于vue.js重写Cnodejs.org社区的webapp http://shinygang.coding.me/   
 
 #### 1、ustbhuangyi/vue-sell  ★1.1K   ::[[源码](https://github.com/ustbhuangyi/vue-sell)]::
 > Vue.js高仿饿了么外卖App课程源码 http://coding.imooc.com/class/74.html     
@@ -138,7 +141,9 @@ Stack Overflow
 [js-the-right-way](http://jstherightway.org/)  
 
 [国内外有哪些好的前端实战网站](https://www.zhihu.com/question/21034316)  
-[国外的前端开发社区有哪些](https://segmentfault.com/q/1010000002899648)
+[国外的前端开发社区有哪些](https://segmentfault.com/q/1010000002899648)  
+[有哪些好的前端社区？](https://www.zhihu.com/question/39503897)    
+[如何帮助前端新人入门和提高？](https://www.zhihu.com/question/19637373)
 
 ## 周刊&收藏夹
  
