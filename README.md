@@ -33,7 +33,7 @@ vuefe：https://vuefe.cn
 
 第五周(8.28~9.03):  
 
-* [Vue开发者网站-vuejsdevelopers](ttps://vuejsdevelopers.com)  
+* [Vue开发者网站-vuejsdevelopers](https://vuejsdevelopers.com)  
 * [Vue 折腾记 - (9) 写一个挺靠谱的typeahead组件](http://blog.csdn.net/crper/article/details/77572576)  
 * [vue源码阅读笔记(8)](https://www.brooch.me/2017/08/25/vue-source-notes-8/)  
 * [A Vue.js upload component powered by simple-uploader.js](https://github.com/simple-uploader/vue-uploader)  
