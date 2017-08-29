@@ -30,6 +30,18 @@ vuefe：https://vuefe.cn
 
 #### *`八月`：桂月，壮月，仲秋之月*  
 
+
+第五周(8.28~9.03):  
+
+* [Vue开发者网站-vuejsdevelopers](ttps://vuejsdevelopers.com)  
+* [Vue 折腾记 - (9) 写一个挺靠谱的typeahead组件](http://blog.csdn.net/crper/article/details/77572576)  
+* [vue源码阅读笔记(8)](https://www.brooch.me/2017/08/25/vue-source-notes-8/)  
+* [A Vue.js upload component powered by simple-uploader.js](https://github.com/simple-uploader/vue-uploader)  
+* [允许你定义飙车过程的集中式状态管理模式](https://github.com/medatc/vuet)  
+* [Vue-Layout : vue可视化布局、自动生成代码](https://cnodejs.org/topic/5993e5acf36051a45246c07a)  
+* [4 AJAX Patterns For Vue.js Apps](https://vuejsdevelopers.com/2017/08/28/vue-js-ajax-recipes/)  
+* [Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)
+
 第四周(8.21~8.27):  
 
 * [Integrate TypeScript in your Vue project](https://alexjoverm.github.io/2017/06/28/Integrate-TypeScript-in-your-Vue-project/)
@@ -153,6 +165,7 @@ Stack Overflow
 [html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)    
 [javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
 
+[码农周刊](http://weekly.manong.io/)  
 [FEX 技术周刊](http://fex.baidu.com/weekly/)   
 [前端周刊](https://zhuanlan.zhihu.com/feweekly)  
 [橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee) 
