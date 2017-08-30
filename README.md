@@ -143,7 +143,7 @@ __TODO__
 github、知乎、简书、掘金、sf.gg、博客园、伯乐在线   
 众成翻译（zcfy.cc）  
 medium、Codrops、CSSWizardry、Smashing Magazine   
-SmaCSS、CSS-Tricks、TGideas、Frontend Masters 
+SmaCSS、CSS-Tricks、TGideas、Frontend Masters   
 Stack Overflow、hackernews、hackernoon    
 等等...  
 
