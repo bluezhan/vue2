@@ -30,10 +30,19 @@ vuefe：https://vuefe.cn
 
 #### *`八月`：桂月，壮月，仲秋之月*  
 
+几个国外Vue学习网站：
+
+* [conf.vuejs.org](http://conf.vuejs.org/)
+* [vue-hackernews-2.0](https://vue-hn.now.sh)
+* [Weekly dose of handpicked Vue.js news!](http://vue-newsletter.com/)
+* [vuejsdevelopers-Vue开发者网站还是个人的?](https://vuejsdevelopers.com)  
+* [vuejsfeed-最新的Vue.js新闻、教程、插件等等](https://vuejsfeed.com/)
+* [vuecomponents-Vue.js组件集合社区](https://vuecomponents.com/)
+* [madewithvuejs-收藏了用Vue.js实现的网站](https://madewithvuejs.com/)
+* [vuejsexamples-Vue.js的Demo满满的](https://vuejsexamples.com/)
 
 第五周(8.28~9.03):  
 
-* [Vue开发者网站-vuejsdevelopers](ttps://vuejsdevelopers.com)  
 * [Vue 折腾记 - (9) 写一个挺靠谱的typeahead组件](http://blog.csdn.net/crper/article/details/77572576)  
 * [vue源码阅读笔记(8)](https://www.brooch.me/2017/08/25/vue-source-notes-8/)  
 * [A Vue.js upload component powered by simple-uploader.js](https://github.com/simple-uploader/vue-uploader)  
@@ -77,18 +86,6 @@ vuefe：https://vuefe.cn
 * [深刻理解Vue中的组件](https://segmentfault.com/a/1190000010527064)
 * [前端清单：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨，深入 React 动画](https://zhuanlan.zhihu.com/p/28348537)
 * [Angular、Vue、React 和前端的未来](https://zhuanlan.zhihu.com/p/28357490)
-
-<!--
-#### *`七月`：兰月，巧月，早秋之月*  
-
-
-* []()
-
-#### *`六月`：荷月，暑月，暮夏之月*  
-
-* []()
-
--->
 
 <!-- __更多Vue2+周报>>> [点我](http://bluezhan.me/Vue2.0/#/weekly)__  -->
 
@@ -147,7 +144,7 @@ github、知乎、简书、掘金、sf.gg、博客园、伯乐在线
 众成翻译（zcfy.cc）  
 medium、Codrops、CSSWizardry、Smashing Magazine   
 SmaCSS、CSS-Tricks、TGideas、Frontend Masters 
-Stack Overflow  
+Stack Overflow、hackernews、hackernoon    
 等等...  
 
 [js-the-right-way](http://jstherightway.org/)  
