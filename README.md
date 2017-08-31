@@ -165,7 +165,7 @@ Stack Overflow、hackernews、hackernoon
 [码农周刊](http://weekly.manong.io/)  
 [FEX 技术周刊](http://fex.baidu.com/weekly/)   
 [前端周刊](https://zhuanlan.zhihu.com/feweekly)  
-[橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee) 
+[橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee)  
 [某熊的全栈之路](https://zhuanlan.zhihu.com/wxyyxc1992)  
 [掘金官方-收藏夹](http://www.jianshu.com/u/5fc9b6410f4f)  
 [前端联盟官网](http://jsfront.org/month/2017/201704.html)  
