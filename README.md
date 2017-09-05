@@ -39,7 +39,6 @@ vuefe：https://vuefe.cn
 * [madewithvuejs-收藏了用Vue.js实现的网站](https://madewithvuejs.com/)
 * [vuejsexamples-Vue.js的Demo满满的](https://vuejsexamples.com/)
 
-
 #### *`九月`：菊月，霜月，暮秋之月*  
 
 第一周(9.04~9.10): 
@@ -56,6 +55,7 @@ vuefe：https://vuefe.cn
 * [Vue.js数据绑定原理](https://juejin.im/post/599aac10f265da24874cffef)
 * [基于 vue + nuxt 打造 o2o 教育商城系统（触屏版） 服务端渲染SSR](https://github.com/github1586/vue-bnhcp)
 * [Vue 插件编写与实战](https://juejin.im/post/599c18b2f265da249823f21f)
+* [2017年国外最佳Vue.js书籍，教程，课程和视频](https://reactdom.com/blog/vuejs-books)
 * [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)
 * [Use TypeScript to Develop Vue.js Web Applications](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)
 * [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
@@ -63,6 +63,11 @@ vuefe：https://vuefe.cn
 * [Reactivity In Vue.js (And Its Pitfalls)](https://medium.com/js-dojo/reactivity-in-vue-js-and-its-pitfalls-de07a29c9407)
 * [ue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable)
 * [Conference for the community in the surrounding regions](http://vuejs.london/)
+* [Write the first Vue.js Component Unit Test in Jest](https://alexjoverm.github.io/2017/08/21/Write-the-first-Vue-js-Component-Unit-Test-in-Jest)
+* [Quickly integrate Bootstrap 4 Components with Vue.js](https://github.com/bootstrap-vue/bootstrap-vue)
+* [Vuetify - Material Component Framework](https://vuetifyjs.com/)
+* [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)
+
 
 #### *`八月`：桂月，壮月，仲秋之月*  
 
