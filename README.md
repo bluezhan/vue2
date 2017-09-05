@@ -28,8 +28,6 @@ vuefe：https://vuefe.cn
 
 ### 丁酉年 【鸡年】
 
-#### *`八月`：桂月，壮月，仲秋之月*  
-
 几个国外Vue学习网站：
 
 * [conf.vuejs.org](http://conf.vuejs.org/)
@@ -40,6 +38,33 @@ vuefe：https://vuefe.cn
 * [vuecomponents-Vue.js组件集合社区](https://vuecomponents.com/)
 * [madewithvuejs-收藏了用Vue.js实现的网站](https://madewithvuejs.com/)
 * [vuejsexamples-Vue.js的Demo满满的](https://vuejsexamples.com/)
+
+
+#### *`九月`：菊月，霜月，暮秋之月*  
+
+第一周(9.04~9.10): 
+
+* [Vue.js 2.0 快速上手精华梳理](https://juejin.im/post/59aa1248518825392656a86a)
+* [Vuex 源码分析](https://github.com/dwqs/blog/issues/58)
+* [扩展 VueJS 组件 – Vue.js Developers – Medium](http://zcfy.baomitu.com/article/extending-vuejs-components-vue-js-developers-medium-3974.html)
+* [如何创建一个 Vue.js Photo Gallery – Hacker Noon](http://zcfy.baomitu.com/article/how-to-build-a-vue-js-photo-gallery-hacker-noon-3917.html)
+* [在 vue 项目中使用各种 javascript 类库 – Vue.js Developers – Medium](http://zcfy.baomitu.com/article/use-any-javascript-library-with-vue-js-vue-js-developers-medium-4001.html)
+* [服务端与客户端同构 —— Vue.js 应用框架 Nuxt.js](http://zcfy.baomitu.com/article/nuxt-js-a-universal-vue-js-application-framework-mdash-sitepoint-4036.html)
+* [MVVM 开发 —— Vue 组件（如何管理并完善自己的模版库）](https://juejin.im/post/59aa362151882524363c647b)
+* [从Vue.js源码角度再看数据绑定](https://my.oschina.net/u/3161824/blog/1528289)
+* [Vue 组件间的样式污染](https://juejin.im/post/59a6d8116fb9a024836400a3)
+* [Vue.js数据绑定原理](https://juejin.im/post/599aac10f265da24874cffef)
+* [基于 vue + nuxt 打造 o2o 教育商城系统（触屏版） 服务端渲染SSR](https://github.com/github1586/vue-bnhcp)
+* [Vue 插件编写与实战](https://juejin.im/post/599c18b2f265da249823f21f)
+* [Testing with Vue.js](http://himarsh.org/testing-with-vuejs/)
+* [Use TypeScript to Develop Vue.js Web Applications](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)
+* [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+* [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.org/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
+* [Reactivity In Vue.js (And Its Pitfalls)](https://medium.com/js-dojo/reactivity-in-vue-js-and-its-pitfalls-de07a29c9407)
+* [ue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable)
+* [Conference for the community in the surrounding regions](http://vuejs.london/)
+
+#### *`八月`：桂月，壮月，仲秋之月*  
 
 第五周(8.28~9.03):  
 
