@@ -28,7 +28,7 @@ vuefe：https://vuefe.cn
 
 ### 丁酉年 【鸡年】
 
-几个国外Vue学习网站：
+几个值得收藏的国外有关Vue.js网站：  
 
 * [conf.vuejs.org](http://conf.vuejs.org/)
 * [vue-hackernews-2.0](https://vue-hn.now.sh)
