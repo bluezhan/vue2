@@ -31,6 +31,8 @@ vuefe：https://vuefe.cn
 几个值得收藏的国外有关Vue.js网站：  
 
 * [conf.vuejs.org](http://conf.vuejs.org/)
+* [国外一个Vue.js视频教程](http://school.edusavecoupon.net/vuejs)
+* [scotch网站的技术视频教程](https://scotch.io/courses)
 * [vue-hackernews-2.0](https://vue-hn.now.sh)
 * [Weekly dose of handpicked Vue.js news!](http://vue-newsletter.com/)
 * [vuejsdevelopers-Vue开发者网站还是个人的?](https://vuejsdevelopers.com)  
@@ -38,6 +40,14 @@ vuefe：https://vuefe.cn
 * [vuecomponents-Vue.js组件集合社区](https://vuecomponents.com/)
 * [madewithvuejs-收藏了用Vue.js实现的网站](https://madewithvuejs.com/)
 * [vuejsexamples-Vue.js的Demo满满的](https://vuejsexamples.com/)
+
+最新vueNYC资讯：
+
+* [VueNYC](https://www.meetup.com/vueJsNYC/)
+* [VueNYC - Vue.js: the Progressive Framework - Evan You](https://www.youtube.com/watch?v=p2P3z7p_zTI&utm_content=bufferf5029)
+* [twitter-search-VueNYC](https://twitter.com/search?vertical=default&q=VueNYC&src=typd)
+
+尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
 ### *`九月`：菊月，霜月，暮秋之月*  
 
