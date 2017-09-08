@@ -45,6 +45,7 @@ vuefe：https://vuefe.cn
 
 * [VueNYC](https://www.meetup.com/vueJsNYC/)
 * [VueNYC - Vue.js: the Progressive Framework - Evan You](https://www.youtube.com/watch?v=p2P3z7p_zTI&utm_content=bufferf5029)
+* [twitter-search-VueNYC](https://twitter.com/search?vertical=default&q=VueNYC&src=typd)
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
