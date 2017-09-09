@@ -28,7 +28,7 @@ vuefe：https://vuefe.cn
 
 ### 丁酉年 【鸡年】
 
-几个国外Vue学习网站：
+几个值得收藏的国外有关Vue.js网站：  
 
 * [conf.vuejs.org](http://conf.vuejs.org/)
 * [国外一个Vue.js视频教程](http://school.edusavecoupon.net/vuejs)
@@ -49,7 +49,7 @@ vuefe：https://vuefe.cn
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
-#### *`九月`：菊月，霜月，暮秋之月*  
+### *`九月`：菊月，霜月，暮秋之月*  
 
 第一周(9.04~9.10): 
 
@@ -79,7 +79,7 @@ vuefe：https://vuefe.cn
 * [Code Splitting With Vue.js And Webpack](https://medium.com/js-dojo/code-splitting-with-vue-js-and-webpack-c9830b29d557)
 
 
-#### *`八月`：桂月，壮月，仲秋之月*  
+### *`八月`：桂月，壮月，仲秋之月*  
 
 第五周(8.28~9.03):  
 
