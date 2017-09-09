@@ -202,6 +202,8 @@ Stack Overflow、hackernews、hackernoon
 [html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)    
 [javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
 
+https://inside.com/
+
 [码农周刊](http://weekly.manong.io/)  
 [FEX 技术周刊](http://fex.baidu.com/weekly/)   
 [前端周刊](https://zhuanlan.zhihu.com/feweekly)  

@@ -172,7 +172,13 @@ console.log(obj); //浏览器首次打印和刷新页面后打印的结果不一
 - [理解构造函数与原型对象](https://mp.weixin.qq.com/s/egP8jkUDLSUknwu1Ms__jg)
 - [【第1050期】前端校招面试该考察什么？](http://mp.weixin.qq.com/s/GtPwOzlKZFAP2-oFTF5nNQ)
 - [web图片响应式自适应结合懒加载的最佳方案](http://mp.weixin.qq.com/s/E7jrI56qafxmXSDdK4F3pA)
-- []()
+- [一道Javascript面试题引发的血案](http://www.igeekbar.com/igeekbar/post/374.htm)
+- [从这两套题，重新认识JS的this、作用域、闭包、对象](https://juejin.im/post/59aa71d56fb9a0248d24fae3)
+- [20个必会的JavaScript面试题](https://segmentfault.com/a/1190000008785931)
+- [javascript中那些折磨人的面试题](https://segmentfault.com/a/1190000006129337)
+- [一道经典的JavaScript面试题分析](http://www.jianshu.com/p/e833e554bcf5)
+- [80%应聘者都不及格的JS面试题](http://www.jb51.net/article/109005.htm)
+- [个人小结--javascript实用技巧和写法建议](https://segmentfault.com/a/1190000011031658)
 
 
 
