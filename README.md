@@ -51,6 +51,23 @@ vuefe：https://vuefe.cn
 
 ### *`九月`：菊月，霜月，暮秋之月*  
 
+第二周(9.11~9.17): 
+
+* [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)  
+* [Bootstrap Vue new release](https://bootstrap-vue.js.org/)  
+* [How to Build a Vue.js Photo Gallery](https://cosmicjs.com/blog/how-to-build-a-vuejs-photo-gallery)  
+* [Vue is now on OpenCollective!](https://medium.com/the-vue-point/vue-is-now-on-opencollective-1ef89ca1334b)  
+* [Fastest way to publish a Vue.js component on NPM](https://codeburst.io/fastest-way-to-publish-a-vue-js-component-on-npm-d58f59e185f8)  
+* [NativeScript and Vue.js](https://blog.paulhalliday.io/2017/09/08/nativescript-and-vue-js/)  
+* [vue源码阅读笔记(9)](https://www.brooch.me/2017/09/08/vue-source-notes-9/)  
+* [Vue.js 2 高仿饿了么开发及解注三：star 评分件组](http://laker.me/blog/2017/09/08/17_0908_vuejs_eleme_3)  
+* [vue2.0 项目开发小结](https://segmentfault.com/a/1190000011066120)  
+* [从event loop看vue的nextTick](https://juejin.im/post/59b499e86fb9a00a4e677825)  
+* [](http://www.csdn.net/article/1970-01-01/2825439)  
+* [如何学习Vue2源码](http://rapheal.sinaapp.com/2017/09/07/how-to-learn-vue2)
+* [JavaScript Event Loop 机制详解与 Vue.js 中实践应用](https://zhuanlan.zhihu.com/p/29116364)
+* [【源资讯 第43期】大 JS 又被黑；Rust 学习曲线是最大痛点](https://my.oschina.net/editorial-story/blog/1532167)
+
 第一周(9.04~9.10): 
 
 * [Vue.js 2.0 快速上手精华梳理](https://juejin.im/post/59aa1248518825392656a86a)

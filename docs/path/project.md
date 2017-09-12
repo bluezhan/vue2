@@ -1,6 +1,4 @@
 
-
-
 github vue-2048
 github vue-progressbar
 github vue-clearH5
