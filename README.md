@@ -59,14 +59,19 @@ vuefe：https://vuefe.cn
 * [Vue is now on OpenCollective!](https://medium.com/the-vue-point/vue-is-now-on-opencollective-1ef89ca1334b)  
 * [Fastest way to publish a Vue.js component on NPM](https://codeburst.io/fastest-way-to-publish-a-vue-js-component-on-npm-d58f59e185f8)  
 * [NativeScript and Vue.js](https://blog.paulhalliday.io/2017/09/08/nativescript-and-vue-js/)  
+* [5 Vuex Plugins For Your Next VueJS Project](https://vuejsdevelopers.com/2017/09/11/vue-js-vuex-plugins)
+* [Mixins and Plugins in VueJS](https://medium.com/@denny.headrick/mixins-and-plugins-in-vuejs-ecee9b37d1bd)
 * [vue源码阅读笔记(9)](https://www.brooch.me/2017/09/08/vue-source-notes-9/)  
 * [Vue.js 2 高仿饿了么开发及解注三：star 评分件组](http://laker.me/blog/2017/09/08/17_0908_vuejs_eleme_3)  
 * [vue2.0 项目开发小结](https://segmentfault.com/a/1190000011066120)  
 * [从event loop看vue的nextTick](https://juejin.im/post/59b499e86fb9a00a4e677825)  
-* [](http://www.csdn.net/article/1970-01-01/2825439)  
 * [如何学习Vue2源码](http://rapheal.sinaapp.com/2017/09/07/how-to-learn-vue2)
 * [JavaScript Event Loop 机制详解与 Vue.js 中实践应用](https://zhuanlan.zhihu.com/p/29116364)
 * [【源资讯 第43期】大 JS 又被黑；Rust 学习曲线是最大痛点](https://my.oschina.net/editorial-story/blog/1532167)
+* [vue.js引入微信sdk？](https://mp.weixin.qq.com/s?src=11&timestamp=1505467780&ver=394&signature=adKq29z8vwBF9q-SC8vlel6hmFPMEElGh9okOvyoYwMhpcksug3RonPhhOJN9ODVfo*WUrxbbbSl*7t*rrHfcoO7hFG0c74gj-7Puj0CAREZDFtfKIvwBWiFwnspmYaL)
+* [解析vue2.0的diff算法](https://github.com/aooy/blog/issues/2)
+* [前端每周清单第 30 期：WebVR 指南，Vue 代码分割范式，理想的 React 架构特性](https://zhuanlan.zhihu.com/p/29246843)
+* [Vue组件库的那些事儿，你都知道吗？](https://mp.weixin.qq.com/s?src=11&timestamp=1505467824&ver=394&signature=p*3mB2XJApjmk2i7PZ3EhSog9JdymplhwP6TE7AZgnefdsEYoKsmjSscWygqZ*yLiPDFQKbQLeiMpP7*pnKXxQQ8tev3aTZJwQgYIa65Y6LhHv3xt*DzwoUyh2gE25bj)
 
 第一周(9.04~9.10): 
 
