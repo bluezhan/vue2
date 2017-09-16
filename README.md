@@ -51,6 +51,15 @@ vuefe：https://vuefe.cn
 
 ### *`九月`：菊月，霜月，暮秋之月*  
 
+第三周(9.18~9.24): 
+
+* [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button)
+* [Vue 2 Simple Alert Component (SweetAlert Inspired) ](https://github.com/mazipan/vue2-simplert)
+* [Building a movie app interface with Vue.js](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b)
+* [Basic Single Page application using Vue.js and Firebase — Part 2](https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f)
+* [Laravel API + Vue SPA Authentication](https://medium.com/carbono/laravel-api-vue-spa-authentication-354dbd9ef1b0)
+* [如何快速把 Vue 项目升级到 webpack3](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247483859&idx=1&sn=e460ba96a83dac8146685db09204d3e0)
+
 第二周(9.11~9.17): 
 
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)  
@@ -201,13 +210,28 @@ __TODO__
 * 玩一玩
 
 ## 关注平台
+ 
+|名称|说明|
+|-----------------------------------|:-------------------------------:|
+|[github](https://github.com/)|GitHub是一个通过Git进行版本控制的软件源代码托管服务|
+|[知乎](https://www.zhihu.com/)|社会化问答网站,口号：与世界分享你的知识、经验和见解|
+|[简书](https://www.jianshu.com/)|简书是一款写作阅读类软件，是一个基于内容分享的社区|
+|[掘金](https://juejin.im)|掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium|
+|[SegmentFault](www.sf.gg)|SegmentFault ( www.sf.gg ) 是中国领先的开发者技术社区|
+|[博客园](https://www.cnblogs.com/)|博客园是一个面向开发者的知识分享社区|
+|[伯乐在线](http://www.jobbole.com/)|做最专业的IT互联网职业社区|
+|[众成翻译](http://www.zcfy.cc/)|众成翻译(zcfy.cc),中国最好的技术翻译社区,最懂译者的翻译平台,奇虎360最大前端团队“奇舞团”出品|
+|[medium](https://www.medium.com/)|Medium 是一个轻量级内容发行的平台，允许单一用户或多人协作，将自己创作的内容以主题的形式结集为专辑（Collection），分享给用户进行消费和阅读|
+|[Codrops](https://tympanus.net/codrops/)|codrops是一个网页设计和开发的博客，发布最新的互联网趋势的文章和教程，技术…|
+|[CSSWizardry](https://csswizardry.com/)|Articles on CSS, OOCSS, front-end architecture, scalability and performance|
+|[Smashing Magazine](https://www.smashingmagazine.com/)|Smashing Magazine — for web designers and developers|
+|[CSS-Tricks](https://css-tricks.com/)|Tips, Tricks, and Techniques on using Cascading Style Sheets|
+|[Frontend Masters](https://frontendmasters.com/)|Awesome JavaScript and React JS training -- Master building quality web apps, node.js APIs from leading web development experts|
+|[Stack Overflow](https://stackoverflow.com/)|Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers|
+|[hackernews](https://news.ycombinator.com/)|Hacker News is a social news website focusing on computer science and entrepreneurship|
+|[hackernoon](https://hackernoon.com/)|how hackers start their afternoons|
+|[inside](https://inside.com/)|Real news, curated by real humans|
 
-github、知乎、简书、掘金、sf.gg、博客园、伯乐在线   
-众成翻译（zcfy.cc）  
-medium、Codrops、CSSWizardry、Smashing Magazine   
-SmaCSS、CSS-Tricks、TGideas、Frontend Masters   
-Stack Overflow、hackernews、hackernoon    
-等等...  
 
 [js-the-right-way](http://jstherightway.org/)  
 
@@ -217,23 +241,33 @@ Stack Overflow、hackernews、hackernoon
 [如何帮助前端新人入门和提高？](https://www.zhihu.com/question/19637373)
 
 ## 周刊&收藏夹
- 
-阿里云前端周刊、掘金精华周报、极乐技术周报、奇舞周刊、百度外卖     
 
-[nodeweekly](nodeweekly.com)、[webopsweekly](webopsweekly.com)    
-[html5weekly](html5weekly.com)、[cssweekly](cssweekly.com)    
-[javascriptweekly](javascriptweekly.com)、[mobilewebweekly](mobilewebweekly.com)、[frontendfoc](frontendfoc.us)  
+掘金精华周报、...
+其实掘金在知乎、简书、sf.gg到处都有收藏集系列。
 
-https://inside.com/
-
+对于掘金暂且介绍这两个:  
+[掘金官方](http://www.jianshu.com/u/5fc9b6410f4f)  
+[精选文集推荐](http://www.jianshu.com/nb/12023435)  
+  
+[前端开发博客](http://caibaojian.com/c/news)
+[阿里云前端周刊](https://zhuanlan.zhihu.com/aliyun) 
+[极乐技术周报](https://zhuanlan.zhihu.com/dreawer)  
+[奇舞周刊](https://weekly.75team.com/)  
+[百度外卖前端](https://zhuanlan.zhihu.com/bdwmfe)  
 [码农周刊](http://weekly.manong.io/)  
 [FEX 技术周刊](http://fex.baidu.com/weekly/)   
-[前端周刊](https://zhuanlan.zhihu.com/feweekly)  
+[前端周刊:在前端领域跟上时代的脚步](http://www.feweekly.com/)  
+[开发者头条](http://hao.caibaojian.com/)
+[前端外刊评论](https://zhuanlan.zhihu.com/FrontendMagazine)
+[众成翻译每周精选](http://zcfy.baomitu.com/translate/discovery)  
+[开发者头条和码农周刊](https://toutiao.io/c/fe)  
+[DDFE 技术周刊](https://zhuanlan.zhihu.com/ddfe-weekly)  
+
 [橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee)  
 [某熊的全栈之路](https://zhuanlan.zhihu.com/wxyyxc1992)  
-[掘金官方-收藏夹](http://www.jianshu.com/u/5fc9b6410f4f)  
 [前端联盟官网](http://jsfront.org/month/2017/201704.html)  
 [前端资源分享](https://segmentfault.com/blog/tobyshare)
+[Web前端导航](http://fen.linxins.com/)
 
 ## 保持该有的姿势
 
