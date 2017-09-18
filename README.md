@@ -58,7 +58,16 @@ vuefe：https://vuefe.cn
 * [Building a movie app interface with Vue.js](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b)
 * [Basic Single Page application using Vue.js and Firebase — Part 2](https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f)
 * [Laravel API + Vue SPA Authentication](https://medium.com/carbono/laravel-api-vue-spa-authentication-354dbd9ef1b0)
+* [Version 2.4.4 of Vue.js has been released](https://github.com/vuejs/vue/releases/tag/v2.4.4)
+* [Playing with a Tag Picker for Vue.js](https://vuejsfeed.com/blog/playing-with-a-tag-picker-for-vue-js)
 * [如何快速把 Vue 项目升级到 webpack3](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247483859&idx=1&sn=e460ba96a83dac8146685db09204d3e0)
+* [填坑：注册登录项目--Token以及Github第三方登录（Vue + Koa2）](https://juejin.im/post/59ba2abc6fb9a00a4d53bf4b)
+* [vue-bnhcp：基于 Vue + Nuxt 打造的 O2O 教育商城系统](https://github.com/github1586/vue-bnhcp)
+* [『翻译』基于 Vue.js 与 Webpack 的三种代码分割范式](https://juejin.im/post/59bb73336fb9a00a3c4b08d9)
+* [Vue组件库的那些事儿，你都知道吗？](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247483865&idx=1&sn=3f53f995130b38a43caa3274d4dd4bec)
+* [vue学习总结](https://segmentfault.com/a/1190000011093973)
+* [Vue.js项目模板搭建](http://www.heeroluo.net/article/detail/137/vuejs-project-template)
+* [vue-webpack-boilerplate分析](http://www.cnblogs.com/mafeifan/p/7532612.html)
 
 第二周(9.11~9.17): 
 
@@ -268,6 +277,7 @@ __TODO__
 [前端联盟官网](http://jsfront.org/month/2017/201704.html)  
 [前端资源分享](https://segmentfault.com/blog/tobyshare)
 [Web前端导航](http://fen.linxins.com/)
+[前端资源](https://github.com/poppinlp/fe-store-house)
 
 ## 保持该有的姿势
 
