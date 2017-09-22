@@ -141,6 +141,23 @@ JavaScript中构造函数与new操作符的实例详解 http://www.php.cn/js-tut
 深入理解 new 操作符 http://www.cnblogs.com/onepixel/p/5043523.html
 
 
+## __proto__ 和 prototype 、constructor
+
+#### prototype
+
+我们每创建一个函数，就会有一个prototype属性，这个属性是一个指针，指向一个对象，而这个对象的用途是包含由特定类型或者实例共享的属性和方法。
+
+
+
+Parent.prototype指向了原型对象，而Parent.prototype.construtor又指回了Parent；Parent的每一个实例都包含一个内部属性__proto__，该属性指向Parent.prototype。实例虽然不包含方法和属性，但却可以通过查找获得。
+
+注意事项：
+
+1、用新对象替换prototype属性，会删除默认构造函数属性。也就会破坏construtor属性的值。
+2、用新对象替换prototype属性不会更新以前的实例。
+
+
+
 ## 解析URL并生成对象
 
 

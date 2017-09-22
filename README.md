@@ -53,6 +53,12 @@ vuefe：https://vuefe.cn
 
 第三周(9.18~9.24): 
 
+* [How to achieve Styles Binding in Vue.js?](https://thewebjuice.com/how-to-achieve-styles-binding-in-vue-js/)
+* [Vue: The Next Big Thing in JavaScript](http://slides.com/burke/deck?utm_content=buffer07daf#/)
+* [Pretty button animations with VueStar](https://vuejsfeed.com/blog/pretty-button-animations-with-vuestar)
+* [Upcoming TypeScript Changes in Vue 2.5](https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08)
+* [VueJs-Tips Vuex CheatSheet](https://vuejs-tips.github.io/vuex-cheatsheet/)
+* [Vue.js drag & drop uploader based on Dropzone.js](https://github.com/alexsasharegan/vue-transmit)
 * [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button)
 * [Vue 2 Simple Alert Component (SweetAlert Inspired) ](https://github.com/mazipan/vue2-simplert)
 * [Building a movie app interface with Vue.js](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b)
