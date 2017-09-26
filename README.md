@@ -51,8 +51,25 @@ vuefe：https://vuefe.cn
 
 ### *`九月`：菊月，霜月，暮秋之月*  
 
+第四周(9.25~10.01): 
+
+* [a lot of choices of widget libraries for Vue.js](https://abotar.com/site/wiki/vuejs/)
+* [Vue.js Single-File JavaScript Components In The Browser](https://vuejsdevelopers.com/2017/09/24/vue-js-single-file-javascript-components/)
+* [移动Web前端高效开发实战：HTML 5 + CSS 3 + JavaScript + Webpack + React Native + Vue.js + Node.js](https://www.amazon.cn/gp/product/B0753YGDKW)
+* [Code 好事：基于 Laravel 5.5 + Vue 2.1 构建的开发笔记记录系统](https://github.com/Ucer/codehaoshi)
+* [如何写出简洁、优雅、可维护的组件。](https://segmentfault.com/a/1190000011294511)
+* [从 Template 到 DOM（Vue.js 源码角度看内部运行机制）](https://blog.souche.com/vuesource/)
+* [从Vue.js源码看异步更新DOM策略及nextTick](https://juejin.im/post/59c7b25a5188257a125d7a98)
+* [V2EX›问与答: 为什么用 React 的看不起用 Vue 的？](https://www.v2ex.com/t/393628)
+* [V2EX›程序员: 请过来人讲一下 AgularJS, React.js, Vue.JS 三者的优缺点和对比？](https://www.v2ex.com/t/393665)
+* [Vue事件机制](https://github.com/answershuto/learnVue/blob/master/docs/Vue事件机制.MarkDown)
+* [Vue 2.0学习笔记：v-on](http://www.w3cplus.com/vue/v-on.html)
+* [vue封装第三方插件并发布到npm](https://juejin.im/post/59c7c3436fb9a00a600f7899)
+* [一步步带你做vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
+
 第三周(9.18~9.24): 
 
+* [Vue.JS Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-sep-2017-c6c57d373ad)
 * [How to achieve Styles Binding in Vue.js?](https://thewebjuice.com/how-to-achieve-styles-binding-in-vue-js/)
 * [Vue: The Next Big Thing in JavaScript](http://slides.com/burke/deck?utm_content=buffer07daf#/)
 * [Pretty button animations with VueStar](https://vuejsfeed.com/blog/pretty-button-animations-with-vuestar)
