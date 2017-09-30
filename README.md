@@ -53,6 +53,9 @@ vuefe：https://vuefe.cn
 
 第四周(9.25~10.01): 
 
+* [Reactivity in Vue.js 2 vs Vue.js 3](https://medium.com/@denny.headrick/reactivity-in-vue-js-2-vs-vue-js-3-dcdd0728dcdf)
+* [The curated Vue packages list](https://curated.vuejs.org/)
+* [Vue.js Newsletter #63: Vue v2.5 Incoming; New VueConf videos; Articles and Tutorials!](https://www.getrevue.co/profile/vuenewsletter/issues/vue-js-newsletter-63-vue-v2-5-incoming-new-vueconf-videos-articles-and-tutorials-74924)
 * [a lot of choices of widget libraries for Vue.js](https://abotar.com/site/wiki/vuejs/)
 * [Vue.js Single-File JavaScript Components In The Browser](https://vuejsdevelopers.com/2017/09/24/vue-js-single-file-javascript-components/)
 * [移动Web前端高效开发实战：HTML 5 + CSS 3 + JavaScript + Webpack + React Native + Vue.js + Node.js](https://www.amazon.cn/gp/product/B0753YGDKW)
@@ -66,6 +69,12 @@ vuefe：https://vuefe.cn
 * [Vue 2.0学习笔记：v-on](http://www.w3cplus.com/vue/v-on.html)
 * [vue封装第三方插件并发布到npm](https://juejin.im/post/59c7c3436fb9a00a600f7899)
 * [一步步带你做vue后台管理框架](https://github.com/herozhou/vue-framework-wz)
+* [深入 Vue2.x 的虚拟 DOM diff 原理](https://www.qcloud.com/community/article/648055)
+* [[译] 使用Vue.js创建自定义输入框](http://jdc.jd.com/archives/4681)  
+* [Vant - 高效的 Vue 组件库，再造一个有赞移动商城也不在话下](https://juejin.im/post/59cb19d95188257e84671938)  
+* [Vue 生产项目链接 -- 上线项目大集合](https://juejin.im/post/59cb05556fb9a00a4a4cdb5c)  
+* [vue中eventbus被多次触发（vue中使用eventbus踩过的坑）](http://www.jianshu.com/p/fde85549e3b0)  
+* [vue.js与其他前端框架的对比](https://zhuanlan.zhihu.com/p/29676197)  
 
 第三周(9.18~9.24): 
 
