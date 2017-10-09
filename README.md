@@ -49,9 +49,34 @@ vuefe：https://vuefe.cn
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
+### *`十月`：寒露，大月，霜秋之月*  
+
+第一、二周(10.01~10.15): 
+
+* [Building server-rendered apps in Vue using Nuxt.js](https://blog.logrocket.com/building-server-rendered-apps-in-vue-using-nuxt-js-c12c6c253274)
+* [TheCatAPI.com Documentation](http://thecatapi.com/docs.html)
+* [5 Great Talks From VueConf 2017, The First Vue.js Conference](https://vuejsdevelopers.com/2017/06/25/vue-conf-2017/)
+* [vue.js Style Guide](https://vuejs.org/v2/style-guide/)
+* [DevTools extension for debugging Vue.js applications](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+* [I did not like Vuex. So I write my own state management library](https://codeburst.io/i-did-not-like-vuex-so-i-write-my-own-state-management-library-d4bae49d7f4c)
+* [Vue:（1）从80%搭建个人管理后台](http://www.jianshu.com/p/00b33ddc4bf4)
+* [国庆节用vue2全家桶+koa2+mongodb搭了个简单伪全栈博客](http://www.jianshu.com/p/f25a7bc31a38)
+* [VUE踩坑日记 — 组件篇](http://www.jianshu.com/p/90f7c6efb9f1)
+* [聊聊Vue.js的template编译](http://www.jianshu.com/p/63ac3b9ede5d)
+* [中国开发者的 Vue 成为 WordPress 弃用 React 后的最佳选择](http://wpchina.org/vue-js-be-the-best-choice-for-wordpress-5495/)
+* [Vue.js源码剖析](https://github.com/answershuto/learnVue)
+* [vue移动助手实践（三）————结合vue和localstorage的移动端记账demo](http://www.jianshu.com/p/21769f7dd8b8)
+* [vue移动助手实践（二）——基于vue的头像更换指令](http://www.jianshu.com/p/ba6e4ed82dfd)
+* [vue移动助手实践（一）——基于vue的换肤功能](https://juejin.im/post/59dae969f265da064c389644)
+* [Vue的作用域插槽](https://www.w3cplus.com/vue/vue-js-scoped-slots.html)
+* [Vue 2.0学习笔记：Vue的模板](https://www.w3cplus.com/vue/vue-template.html)
+* [从 Template 到 DOM（Vue.js 源码角度看内部运行机制）](https://blog.souche.com/vuesource/)
+* [nuxt(vue) + koa + mongo 写blog的一次小结](https://juejin.im/post/59ce4c6e6fb9a00a5e35fc0e)
+* [在Vue中有条件地使用CSS类](http://www.w3cplus.com/vue/conditionally-applying-css-class-vue-js.html)
+
 ### *`九月`：菊月，霜月，暮秋之月*  
 
-第四周(9.25~10.01): 
+第四周(9.25~9.30): 
 
 * [Reactivity in Vue.js 2 vs Vue.js 3](https://medium.com/@denny.headrick/reactivity-in-vue-js-2-vs-vue-js-3-dcdd0728dcdf)
 * [The curated Vue packages list](https://curated.vuejs.org/)
@@ -290,26 +315,26 @@ __TODO__
 [掘金官方](http://www.jianshu.com/u/5fc9b6410f4f)  
 [精选文集推荐](http://www.jianshu.com/nb/12023435)  
   
-[前端开发博客](http://caibaojian.com/c/news)
-[阿里云前端周刊](https://zhuanlan.zhihu.com/aliyun) 
-[极乐技术周报](https://zhuanlan.zhihu.com/dreawer)  
+[前端开发博客](http://caibaojian.com/c/news)  
+[阿里云前端周刊](https://zhuanlan.zhihu.com/aliyun)  
+[极乐技术周报](https://zhuanlan.zhihu.com/dreawer)   
 [奇舞周刊](https://weekly.75team.com/)  
 [百度外卖前端](https://zhuanlan.zhihu.com/bdwmfe)  
 [码农周刊](http://weekly.manong.io/)  
-[FEX 技术周刊](http://fex.baidu.com/weekly/)   
+[FEX 技术周刊](http://fex.baidu.com/weekly/)  
 [前端周刊:在前端领域跟上时代的脚步](http://www.feweekly.com/)  
-[开发者头条](http://hao.caibaojian.com/)
-[前端外刊评论](https://zhuanlan.zhihu.com/FrontendMagazine)
+[开发者头条](http://hao.caibaojian.com/)  
+[前端外刊评论](https://zhuanlan.zhihu.com/FrontendMagazine)  
 [众成翻译每周精选](http://zcfy.baomitu.com/translate/discovery)  
 [开发者头条和码农周刊](https://toutiao.io/c/fe)  
 [DDFE 技术周刊](https://zhuanlan.zhihu.com/ddfe-weekly)  
-
+   
 [橙汁绿茶-前端日报](https://segmentfault.com/blog/timlee)  
 [某熊的全栈之路](https://zhuanlan.zhihu.com/wxyyxc1992)  
 [前端联盟官网](http://jsfront.org/month/2017/201704.html)  
-[前端资源分享](https://segmentfault.com/blog/tobyshare)
-[Web前端导航](http://fen.linxins.com/)
-[前端资源](https://github.com/poppinlp/fe-store-house)
+[前端资源分享](https://segmentfault.com/blog/tobyshare)  
+[Web前端导航](http://fen.linxins.com/)  
+[前端资源](https://github.com/poppinlp/fe-store-house)  
 
 ## 保持该有的姿势
 
