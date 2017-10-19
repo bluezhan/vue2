@@ -51,6 +51,38 @@ vuefe：https://vuefe.cn
 
 ### *`十月`：寒露，大月，霜秋之月*  
 
+第三周(10.16~10.22): 
+
+* [Animation and Data Visualization with Vue](https://x-team.com/blog/vue-animation-data-visualization/?utm_content=buffer0798c)
+* [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input)
+* [Webpack Monitor Module](https://github.com/nuxt-community/webpackmonitor-module)
+* [The future of Vuetify](https://github.com/vuetifyjs/vuetify/issues/2240)
+* [Awesome CSS list scroll effects for Vue.js](https://xiaoluoboding.github.io/vue-stroll/)
+* [Algolia components for building search UIs with Vue.js ](https://github.com/algolia/vue-instantsearch)
+* [Create a (micro)calendar with VueJS and good old Bootstrap in a breeze](https://codeburst.io/create-a-micro-calendar-with-vuejs-and-good-old-bootstrap-in-a-breeze-8d33bd5ae814)
+* [Code Splitting With Vue.js And Webpack](https://www.codementor.io/vuejsdevelopers/code-splitting-with-vue-js-and-webpack-9mopipo13)
+* [The Lazy Developer's Guide to Authentication With Vue.js](https://dzone.com/articles/the-lazy-developers-guide-to-authentication-with-v-1)
+* [Vue.js Wordpress Theme Starter](https://vuejsfeed.com/blog/vue-js-wordpress-theme-starter)
+* [Plugin Vue.js for error tracking with Sentry](https://github.com/ktquez/vue2-sentry)
+* [Vue.js + Brunch: The Webpack Alternative You've Been Hungry For](https://vuejsdevelopers.com/2017/08/20/vue-js-brunch/?utm_content=buffer8e575)
+* [Build A Real-Time Chat App With VueJS, Vuex & Cloud Firestore](https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/)
+* [Exploring Data with Serverless and Vue: Filtering and Using the Data](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-2/)
+* [Webpack 核心开发者 Sean Larkin 盛赞 Vue](https://juejin.im/post/59e058ab51882549fc510b28)
+* [Vue 2.5中将迎来有关TypeScript的改进！](https://segmentfault.com/a/1190000011474717)
+* [前端每周清单第 35 期：Vue.js 2.5 发布、微前端概念详解、浏览器扩展开发实践](http://www.infoq.com/cn/news/2017/10/arch-weekly-35)
+* [[译]Vue 2.5 发布了](https://segmentfault.com/a/1190000011563461)
+* [滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)
+* [Vue v2.5 调整和更新不完全详解](https://mp.weixin.qq.com/s/cce6YE6_tIJU7b2u2n1ngA)
+* [《京东E维》基于VUE+Webpack的单页面实践](http://jdc.jd.com/archives/4622)
+* [超小手势库alloyfinger及其vue版实现深入解析](https://juejin.im/post/59dda150f265da43310ccc1e)
+* [Vue.js 3数据响应机制的变化](https://mp.weixin.qq.com/s/OUNqGGojvJh-BDnvDTZgCQ)
+* [性能优化之组件懒加载: Vue Lazy Component 介绍](https://zhuanlan.zhihu.com/p/29433875)
+* [Vue.js 2 vs Vue.js 3的实现 – 云栖社区](http://zcfy.baomitu.com/article/reactivity-in-vue-js-2-vs-vue-js-3-cloudboost-4369.html)
+* [关于Vue服务端渲染（nuxt）的简单学习](https://juejin.im/post/59e018dbf265da4309442b4e)
+* [vue模拟携程官网的搭建](https://segmentfault.com/a/1190000011556978)
+* [Vue + TypeScript 尝鲜体验](https://zhuanlan.zhihu.com/p/29971290)
+* [前端表单进阶之路：通过 Vue.js 实现表单可配置化](https://juejin.im/post/59e4740251882578cb511d3e)
+
 第一、二周(10.01~10.15): 
 
 * [Building server-rendered apps in Vue using Nuxt.js](https://blog.logrocket.com/building-server-rendered-apps-in-vue-using-nuxt-js-c12c6c253274)
