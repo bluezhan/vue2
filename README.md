@@ -53,7 +53,7 @@ vuefe：https://vuefe.cn
 
 第三周(10.16~10.22): 
 
-![](https://github.com/itemsets/vue2/raw/master/blog/Vue-postman.png.png)
+![](https://github.com/itemsets/vue2/raw/master/blog/Vue-postman.png)
 
 * [Animation and Data Visualization with Vue](https://x-team.com/blog/vue-animation-data-visualization/?utm_content=buffer0798c)
 * [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input)
@@ -84,6 +84,8 @@ vuefe：https://vuefe.cn
 * [vue模拟携程官网的搭建](https://segmentfault.com/a/1190000011556978)
 * [Vue + TypeScript 尝鲜体验](https://zhuanlan.zhihu.com/p/29971290)
 * [前端表单进阶之路：通过 Vue.js 实现表单可配置化](https://juejin.im/post/59e4740251882578cb511d3e)
+* [Vue.js 2.5新特性介绍](https://yq.aliyun.com/articles/225093)
+* [Vue v2.5 调整和更新不完全详解](https://mp.weixin.qq.com/s/cce6YE6_tIJU7b2u2n1ngA)
 
 第一、二周(10.01~10.15): 
 
