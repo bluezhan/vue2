@@ -20,7 +20,7 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.4.x 是目前最新版本(2017.8)  
+版本 v2.5.x 是目前最新版本(2017.10)  
 
 ## Vue2+周报
 
@@ -52,6 +52,8 @@ vuefe：https://vuefe.cn
 ### *`十月`：寒露，大月，霜秋之月*  
 
 第三周(10.16~10.22): 
+
+![](https://github.com/itemsets/vue2/raw/master/blog/Vue-postman.png.png)
 
 * [Animation and Data Visualization with Vue](https://x-team.com/blog/vue-animation-data-visualization/?utm_content=buffer0798c)
 * [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input)
