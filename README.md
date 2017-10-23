@@ -51,6 +51,25 @@ vuefe：https://vuefe.cn
 
 ### *`十月`：寒露，大月，霜秋之月*  
 
+第四周(10.23~10.29): 
+
+![](https://github.com/itemsets/vue2/raw/master/blog/esri-vue.png)
+
+* [Using Vuex Modules Inside Components](https://serversideup.net/using-vuex-modules-inside-components/)
+* [Use Sass/Scss of Webpack in VueJS](https://medium.com/hong-kong-tech/use-sass-scss-of-webpack-in-vuejs-8dde3a83611e)
+* [Vue Paginate Al](http://demo.qrimu.com/)
+* [Should you learn React or Vue first?](https://hackernoon.com/should-you-learn-react-or-vue-first-7dc0d4dd8c04)
+* [Vue.JS Top 10 Articles For the Past Month (v.Oct 2017)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-oct-2017-b6b5c603b64c)
+* [Full-stack single page application with Vue.js and Flask](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
+* [fish-ui A Vue.js 2.0 UI Toolkit for Web.](https://myliang.github.io/fish-ui/#/components/index)
+* [深入理解 Vue 单向数据流](https://github.com/wengjq/Blog/issues/17)
+* [使用Nuxt.js改善现有项目](https://qianduan.group/posts/59e8be1b0119753d067b40cc)
+* [基于vue的简单流程图开发](https://juejin.im/post/59e719746fb9a044fa18f2f2)
+* [vuex源码分析](https://juejin.im/post/59eb269b5188255b5b2acbf0)
+* [基于Vue-cli和Vux的webpack配置](https://juejin.im/post/59e86a596fb9a0451b03a89f)
+* [深入认识vue-cli：能做的不仅仅是初始化vue工程](https://segmentfault.com/a/1190000011643581)
+
+
 第三周(10.16~10.22): 
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/Vue-postman.png)
