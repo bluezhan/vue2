@@ -49,6 +49,24 @@ vuefe：https://vuefe.cn
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
+### *`十一月`：辜月、畅月，仲冬之月*  
+
+第一周(10.30~11.05): 
+
+![](https://github.com/itemsets/vue2/raw/master/blog/timg.jpg)
+
+* [Build A Lazy-Load Router With Vue.js And The Latest Browser Features](https://vuejsdevelopers.com/2017/10/30/vue-js-dynamic-imports-lazy-load/)
+* [Building your very first component with VueJs](https://codeburst.io/building-your-very-first-component-with-vuejs-21b4a2f6a15a)
+* [Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://blog.logrocket.com/advanced-vue-js-concepts-mixins-custom-directives-filters-transitions-and-state-management-ca6955905156)
+* [Why and How We Migrated from AngularJS to VueJS](https://blog.holistics.io/why-and-how-we-migrated-from-angularjs-to-vuejs/?utm_content=buffer82569)
+* [如何不用构建工具开发Vue全家桶项目](http://refined-x.com/2017/10/28/%E5%A6%82%E4%BD%95%E4%B8%8D%E7%94%A8%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91Vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E9%A1%B9%E7%9B%AE/)
+* [vue + typescript 项目起手式](https://segmentfault.com/a/1190000011744210)
+* [Egg + Vue 服务端渲染开发指南](https://segmentfault.com/a/1190000011760514)
+* [vue-calendar 基于 vue 2.0 开发的轻量，高性能日历组件](https://juejin.im/post/59f81bd76fb9a0452845c8e4)
+* [基于 Vue 实现的 tooltip 工具](https://cnodejs.org/topic/59f7fc3c688da99d4fa91e47)
+* [Vue组件实现tips的总结](https://segmentfault.com/a/1190000011796898)
+* [前端开发：如何写一手漂亮的 Vue](http://www.jianshu.com/p/a496343dd12a)
+
 ### *`十月`：寒露，大月，霜秋之月*  
 
 第四周(10.23~10.29): 
