@@ -51,6 +51,38 @@ vuefe：https://vuefe.cn
 
 ### *`十一月`：辜月、畅月，仲冬之月*  
 
+第二周(11.07~11.12):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/11-2.png)
+
+* [Vuetify.js v0.17.0-beta.2 has been released](https://github.com/vuetifyjs/vuetify/releases/tag/v0.17.0-beta.2)
+* [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue)
+* [nuxt-blog](https://github.com/szafran89/nuxt-blog)
+* [Vue.js masonry component powered by CSS](https://vuejsfeed.com/blog/vue-js-masonry-component-powered-by-css)
+* [Vueniverse: Full stack user based PWA Vue template](https://vuejsfeed.com/blog/vueniverse-full-stack-user-based-pwa-vue-template)
+* [Space Snake: Desktop game built with Electron and Vue.js](https://vuejsfeed.com/blog/space-snake-desktop-game-built-with-electron-and-vue-js)
+* [Launch a Vue.js Blog in Less Than 2 Hours](https://snipcart.com/blog/vuejs-blog-demo)
+* [Build 2048 with Vue.js](https://gist.github.com/marshallshen/b22ae088272268e65fbdea971047b9fa)
+* [gist.Deploying a Vue App to Heroku in 5 Steps](https://medium.com/netscape/deploying-a-vue-js-2-x-app-to-heroku-in-5-steps-tutorial-a69845ace489)
+* [Building a Budget Manager with Vue.js and Node.js (Part III)](https://medium.com/@gdomaradzki/building-a-budget-manager-with-vue-js-and-node-js-part-iii-540a77a7ddee)
+* [Convert your Vue.js nested data into slugs ](https://vuejsfeed.com/blog/convert-your-vue-js-nested-data-into-slugs)
+* [Node, Vue.js and DRY: a lesson on over engineering](https://medium.com/@jaysoifer/node-vue-js-and-dry-a-lesson-on-over-engineering-6708df1896f8)
+* [Nuxt.js Roadmap](https://trello.com/b/lgy93IOl/nuxtjs-10)
+* ["State of Vue.js" — Key Takeaways from the Report](https://www.monterail.com/blog/state-of-vuejs-report-summary)
+* [The Majesty of Vue.js 2 is available in Spanish](https://leanpub.com/vuejs2-spanish)
+* [Learn redux step by step](https://juejin.im/post/5a01243ef265da430b7aa4aa)
+* [vue + typescript 进阶篇](https://segmentfault.com/a/1190000011878086)
+* [用针对Vue的Onsen UI来提升滑动选项卡的用户体验](http://zcfy.baomitu.com/article/improve-ux-with-swiping-tab-bar-using-onsen-ui-for-vue-4482.html)
+* [vue当中设计Tabbar插件时的思考](https://juejin.im/post/59fc20d85188251364042756)
+* [在 vue-cli 里基于 axios 封装复用请求](https://juejin.im/post/59fd982c6fb9a045170490df)
+* [【译】vue 自定义指令的魅力](https://juejin.im/post/59ffbcc151882554b836ee21)
+* [一个项目初试 vue](https://juejin.im/post/5a0121615188254dfa1290c2)
+* [Vue.js SSR Step by Step (2) - 一个简单的同构DEMO](https://juejin.im/post/5a00587c518825619a021508)
+* [HOC(高阶组件)在vue中的应用](https://coolriver.net.cn/articles/vue-mixin-hoc)
+* [Vue 常用的过渡](https://jkchao.cn/article/59fe7e39836b695d8fffd542)
+* [Vue2.5+ Typescript 引入全面指南](https://segmentfault.com/a/1190000011853167)
+
+
 第一周(10.30~11.05): 
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/timg.jpg)
