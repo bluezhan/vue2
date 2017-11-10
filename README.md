@@ -55,6 +55,7 @@ vuefe：https://vuefe.cn
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/11-2.png)
 
+* [Vue.js Newsletter #68: VueConf US is here; Vue SSR for Laravel, Rise of Nuxt Based Static P...](https://www.getrevue.co/profile/vuenewsletter/issues/vue-js-newsletter-68-vueconf-us-is-here-vue-ssr-for-laravel-rise-of-nuxt-based-static-pages-and-more-80301?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Vue-newsletter)
 * [Vuetify.js v0.17.0-beta.2 has been released](https://github.com/vuetifyjs/vuetify/releases/tag/v0.17.0-beta.2)
 * [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue)
 * [nuxt-blog](https://github.com/szafran89/nuxt-blog)
@@ -81,7 +82,15 @@ vuefe：https://vuefe.cn
 * [HOC(高阶组件)在vue中的应用](https://coolriver.net.cn/articles/vue-mixin-hoc)
 * [Vue 常用的过渡](https://jkchao.cn/article/59fe7e39836b695d8fffd542)
 * [Vue2.5+ Typescript 引入全面指南](https://segmentfault.com/a/1190000011853167)
-
+* [VUE 2.0 碎碎念](http://www.jianshu.com/p/e73d8c44ade8)
+* [vue打包优化](http://www.jianshu.com/p/171e8e529f35)
+* [比较好用的两种vue-cli mock 数据配置](http://www.jianshu.com/p/50b58f5b264e)
+* [LeanCloud带图形校验码的短信发送Vue组件开发](https://segmentfault.com/a/1190000011892380)
+* [vue2 + typescript + webpack2 动态加载组件方法](https://segmentfault.com/a/1190000011935026)
+* [在VUE中使用keycloak完成用户登录认证](https://segmentfault.com/a/1190000011934251)
+* [vue 服务端渲染 入门学习和注意事项（内含推荐文档）](https://segmentfault.com/a/1190000011926162)
+* [Vue源码解析(三)-computed计算属性&&lazy watcher](https://segmentfault.com/a/1190000011912328)
+* [Vue2从0到1(五)：使用nodejs+koa2和axios实现前后台数据通信](https://segmentfault.com/a/1190000011879712)
 
 第一周(10.30~11.05): 
 
