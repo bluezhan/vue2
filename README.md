@@ -51,7 +51,24 @@ vuefe：https://vuefe.cn
 
 ### *`十一月`：辜月、畅月，仲冬之月*  
 
-第二周(11.07~11.12):
+第三、四周(11.13~11.26):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/11-3.png)
+
+* [The VueConf.US 2018 call for proposals is now open](http://us.vuejs.org/call-for-papers/)  
+* [Vue 2.0的学习笔记： Vue实例和生命周期](https://www.w3cplus.com/vue/vue-instances-and-life-cycles.html)  
+* [Vue数组响应](https://juejin.im/post/5a04231af265da431f4a84be)  
+* [基于webpack2.x的vue2.x的多页面站点](http://www.cnblogs.com/zqzjs/p/6834843.html)  
+* [用vue做一个酷炫的menu](https://my.oschina.net/u/3727086/blog/1573075)  
+* [从零搭建 vue2 vue-router2 webpack3 工程](http://www.qinshenxue.com/article/20161118151423.html)  
+* [全栈测试实战：用Jest测试Vue+Koa全栈应用](https://juejin.im/post/5a0cdb22f265da4332271ef9)  
+* [Vue2 源码漫游（一）](https://juejin.im/post/5a0da42ef265da43052e2f19)  
+* [Vue 项目中接入sentry](https://juejin.im/post/5a0da97c6fb9a044fe45ec9c)  
+* [Vue2.0开发风格指南](http://refined-x.com/2017/11/16/Vue2.0%E5%BC%80%E5%8F%91%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97/)  
+* [Vue-cli-webpack-从零开始的斗鱼直播（一）](https://segmentfault.com/a/1190000012042292)  
+* [2017 年比较 Angular、React、Vue 三剑客](https://github.com/xitu/gold-miner/blob/master/TODO/angular-vs-react-vs-vue-a-2017-comparison.md)  
+
+第二周(11.06~11.12):
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/11-2.png)
 
@@ -91,6 +108,10 @@ vuefe：https://vuefe.cn
 * [vue 服务端渲染 入门学习和注意事项（内含推荐文档）](https://segmentfault.com/a/1190000011926162)
 * [Vue源码解析(三)-computed计算属性&&lazy watcher](https://segmentfault.com/a/1190000011912328)
 * [Vue2从0到1(五)：使用nodejs+koa2和axios实现前后台数据通信](https://segmentfault.com/a/1190000011879712)
+* [当你们在谈论React和Vue的时候，我在用Mithril](https://juejin.im/post/5a02b827518825569539136a)
+* [Vue2 原理浅谈](https://juejin.im/post/59f2845e6fb9a0451a759e85)
+* []()
+* []()
 
 第一周(10.30~11.05): 
 
