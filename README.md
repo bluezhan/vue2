@@ -88,6 +88,10 @@ vuefe：https://vuefe.cn
 * [Vue2.0开发风格指南](http://refined-x.com/2017/11/16/Vue2.0%E5%BC%80%E5%8F%91%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97/)  
 * [Vue-cli-webpack-从零开始的斗鱼直播（一）](https://segmentfault.com/a/1190000012042292)  
 * [2017 年比较 Angular、React、Vue 三剑客](https://github.com/xitu/gold-miner/blob/master/TODO/angular-vs-react-vs-vue-a-2017-comparison.md)  
+* [另辟蹊径：vue单页面，多路由，前进刷新，后退不刷新](https://segmentfault.com/a/1190000012083511)
+* [State of Vue.js report 2017 中文版](https://juejin.im/post/5a138fae5188254d28732899)
+* [ASP.NET Core 与 Vue.js 服务端渲染](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/ )
+* [使用 Vue.js 和 Flask 实现全栈单页面应用](http://zcfy.baomitu.com/article/full-stack-single-page-application-with-vue-js-and-flask-4491.html)
 
 第二周(11.06~11.12):
 
@@ -131,8 +135,6 @@ vuefe：https://vuefe.cn
 * [Vue2从0到1(五)：使用nodejs+koa2和axios实现前后台数据通信](https://segmentfault.com/a/1190000011879712)
 * [当你们在谈论React和Vue的时候，我在用Mithril](https://juejin.im/post/5a02b827518825569539136a)
 * [Vue2 原理浅谈](https://juejin.im/post/59f2845e6fb9a0451a759e85)
-* []()
-* []()
 
 第一周(10.30~11.05): 
 
