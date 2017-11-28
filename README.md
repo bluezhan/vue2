@@ -51,6 +51,42 @@ vuefe：https://vuefe.cn
 
 ### *`十一月`：辜月、畅月，仲冬之月*  
 
+第五周(11.27~12.03):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/11-4.png)
+
+* [Official ESLint plugin for Vue.js - First beta](https://github.com/vuejs/eslint-plugin-vue)
+* [Vue School - Black Friday offer](https://vueschool.io/)
+* [Black Friday deal continues for "The Majesty of Vue.js"](https://leanpub.com/vuejs2/c/BF4U17)
+* [Vuejs Conf Amsterdam workshop](http://www.vuejs.amsterdam/)
+* [Tip about using HTML files as templates for Vue](https://jsfiddle.net/shentao/njbe31v1/2/)
+* [Get sliders using the Vue Awesome Swiper component supporting SPA and SSR ](https://vuejsfeed.com/blog/get-sliders-using-the-vue-awesome-swiper-component-supporting-spa-and-ssr)
+* [Abstracting Vuex/Redux Action patterns ](https://medium.com/coding-stones/abstracting-vuex-redux-action-patterns-8df36b0e2fcc)
+* [Creating an animated sidebar component with Vue and Vuex](https://medium.com/@rmmmsy/creating-an-animated-sidebar-component-with-vue-and-vuex-9f7c6aa19fce)
+* [Unit testing with Vue — Approach, tips, and tricks](https://medium.com/pixelmatters/unit-testing-with-vue-approach-tips-and-tricks-part-1-b7d3209384dc)
+* [Swipe cards or elements around with VueSwing](https://vuejsfeed.com/blog/swipe-cards-or-elements-around-with-vueswing)
+* [Build a Quiz Game App with Vue, Vuex and Firebase](https://medium.com/@omarlopez_60630/build-a-quiz-game-app-with-vue-vuex-and-firebase-part-1-e3c95d758468)
+* [Vant: A Vue 2.0 Mobile UI Library ](https://vuejsfeed.com/blog/vant-a-vue-2-0-mobile-ui-library)
+* [Zircle UI : A circular zooming UI LIbrary powered by Vue.js](https://vuejsfeed.com/blog/zircle-ui-a-circular-zooming-ui-library-powered-by-vue-js)
+* [Front-end Developer - Full Time (Remote)](https://vuejobs.com/jobs/194-chess-com-front-end-developer-vue-js-css)
+* [Senior Front End Developer - Full Time (Seattle, USA)](https://vuejobs.com/jobs/198-senior-front-end-developer)
+* [Front-end developer - Full Time (London, UK)](https://vuejobs.com/jobs/213-full-time-full-stack-front-end-developer)
+* [Vue VS Code Extension Pack](https://marketplace.visualstudio.com/items)
+* [vue-highlight.js](https://github.com/gluons/vue-highlight.js)
+* [Vue-Multiselect | Vue Select Library](https://shentao.github.io/vue-multiselect/)
+* [VueStorage](https://github.com/SeregPie/VueStorage)
+* [vue中慎用style的scoped属性](https://segmentfault.com/a/1190000012184604)
+* [[译] 5个Vuex插件，给你的下个VueJS项目](https://segmentfault.com/a/1190000012184535)
+* [一个行为标准Popup组件(vue), 强大的过度动画支持, 和定位支持](https://juejin.im/post/5a1bb899f265da43231ab18)
+* [vue 踩坑小记 - 如何正确的使用 debounce](https://juejin.im/post/5a1b6acdf265da431d3c6402)
+* [基于vue+canvas的excel-like组件](https://juejin.im/post/5a1b81206fb9a045030fcc89)
+* [vue实战中遇到的`坑`](https://juejin.im/post/5a1a6a6551882534af25a86b)
+* [基于 Vue2.0 + Element 的单页面可视化开发实践](https://juejin.im/post/5a16f5aef265da432e5baf1d)
+* [Vue 聊天组件](https://github.com/neversaysoso/superhero)
+* [【填坑】vue+webpack 升级后在原有项目上的适配问题](https://juejin.im/post/5a140c376fb9a0451704d313)
+* [Vue2 源码漫游（二）](https://juejin.im/post/5a16928f6fb9a0452577c988)
+* [开发一个加载 vue 远程代码的组件](https://www.uis.cc/2017/10/13/Develop-a-component-that-loads-Vue-remote-asynchronous-code/)
+
 第三、四周(11.13~11.26):
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/11-3.png)
