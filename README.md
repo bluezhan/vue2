@@ -86,6 +86,13 @@ vuefe：https://vuefe.cn
 * [【填坑】vue+webpack 升级后在原有项目上的适配问题](https://juejin.im/post/5a140c376fb9a0451704d313)
 * [Vue2 源码漫游（二）](https://juejin.im/post/5a16928f6fb9a0452577c988)
 * [开发一个加载 vue 远程代码的组件](https://www.uis.cc/2017/10/13/Develop-a-component-that-loads-Vue-remote-asynchronous-code/)
+* [vue插件开发练习--实用弹窗](https://juejin.im/post/5a0c19f26fb9a045186a465a)
+* [Vue2.0用户权限控制解决方案](http://refined-x.com/2017/11/28/Vue2.0%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
+* [Vue实现一个页面缓存、左滑返回的navigator](https://juejin.im/post/5a1cd04b5188252ae93aade4)
+* [vue-loader 源码解析系列之 整体分析](https://segmentfault.com/a/1190000012207211)
+* [深入 Vue2.x 的虚拟 DOM diff 原理](https://cloud.tencent.com/community/article/648055)
+* [腾讯工程师们怎么玩 Vue.js？](https://cloud.tencent.com/community/article/348215)
+* [整合 Django + Vue.js 框架快速搭建web项目](https://cloud.tencent.com/community/article/774449)
 
 第三、四周(11.13~11.26):
 
