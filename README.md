@@ -49,6 +49,38 @@ vuefe：https://vuefe.cn
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
+### *`十二月`：大月、腊月，寒雪之月* 
+
+第一、二周(12.04~12.17):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/12-1.jpg)
+
+* [Last chance to get early birds for the Vue.js Conf Amsterdam](http://frontenddeveloperlove.com/)
+* [Animating Vue.js - Sarah Drasner - SmashConf](https://www.youtube.com/watch)
+* [Open Sourcing Your First Vue Component](https://codeburst.io/open-sourcing-your-first-vue-component-5ef015e1f66c)
+* [How JavaScript works: Post # 6 of the series dedicated to exploring JavaScript](https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79)
+* [How to Build a Vue.js Component With Tailwind in a Laravel Project](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project)
+* [Navigate Nested Child Routes In A Vue.js Web Application](https://www.thepolyglotdeveloper.com/2017/11/navigate-nested-child-routes-vuejs-web-application/)
+* [Create custom, distributable web components with Vue.js](http://marcelpociot.de/blog/2017-12-08-using-custom-vuejs-elements)
+* [Easy Timeline Components with Vue.js and Framework7](https://www.youtube.com/watch)
+* [Handling Events With Vue.js ](https://medium.com/@rizubutt906/handling-events-with-vue-js-78ab4e391969)
+* [Fonts 4 Dev](http://f4d.tatthien.com/)
+* [TekTwit: Trending tweets feed powered by Vue.js and Node.js](https://vuejsfeed.com/blog/tektwit-trending-tweets-feed-powered-by-vue-js-and-node-js)
+* [Front-end developer - Full Time (London, UK)](https://vuejobs.com/jobs/213-full-time-full-stack-front-end-developer)
+* [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader)
+* [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable)
+* [ts-vue-loader](https://github.com/Grafikart/ts-vue-loader)
+* [Add a headless CMS to NuxtJs](https://www.storyblok.com/tp/headless-cms-nuxtjs)  
+* [Plotting the average color of a video using D3 and Vue](https://codeburst.io/plotting-the-average-color-of-a-video-using-d3-and-vue-b8edc51bc2ba)  
+* [VueJS: First Impressions](https://dev.to/remejuan/vuejs-first-impressions-dao)  
+* [made with vue.js](https://madewithvuejs.com/frontend-love-conference)  
+* [node vue项目开发](https://segmentfault.com/a/1190000012400755)  
+* [Vue单页面骨架屏实践](https://zhuanlan.zhihu.com/p/31954853)  
+* [交叉观察器(intersectionObserver) Vue实战](https://zhuanlan.zhihu.com/p/31863605)  
+* [vue+webpack+amaze-vue实现省市区联动选择组件](https://juejin.im/post/5a2a8c985188250a5719a707)  
+* [webpack编译vue项目生成的代码探索](http://f2e.souche.com/blog/webpackbian-yi-vuexiang-mu-sheng-cheng-de-dai-ma-tan-suo/)  
+* [vue-cli 中使用 TypeScript](https://jkchao.cn/article/5a2cc65b1589e1459d8b4312)    
+
 ### *`十一月`：辜月、畅月，仲冬之月*  
 
 第五周(11.27~12.03):
