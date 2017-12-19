@@ -51,6 +51,27 @@ vuefe：https://vuefe.cn
 
 ### *`十二月`：大月、腊月，寒雪之月* 
 
+第三周(12.18~12.24):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/12-3.jpg)
+
+* [Creating an animated sidebar component with Vue and Vuex](https://medium.com/@rmmmsy/creating-an-animated-sidebar-component-with-vue-and-vuex-9f7c6aa19fce)  
+* [Let’s Build a Web App with Vue, Chart.js and an API](https://hackernoon.com/lets-build-a-web-app-with-vue-chart-js-and-an-api-544eb81c4b44)  
+* [How To Not Screw Up UX In A Single-Page Application](https://vuejsdevelopers.com/2017/12/18/single-page-application-ux/)  
+* [Creating the View - Building a Tic-Tac-Toe game with Vue.js - P 3/3](https://school.geekwall.in/p/rJ6yhqGZf/creating-the-view-building-a-tic-tac-toe-game-with-vue-js-p-3-3)  
+* [Detect and decode QR codes using a Vue.js component](https://vuejsfeed.com/blog/detect-and-decode-qr-codes-using-a-vue-js-component)  
+* [Build a realtime chat app with VueJS, Vuex and Firestore](https://medium.com/js-dojo/build-a-realtime-chat-app-with-vuejs-vuex-and-firestore-32d081668709)  
+* [Vue项目SSR改造实战](https://segmentfault.com/a/1190000012440041)  
+* [Vue响应式原理以及简单实现](https://juejin.im/post/5a334803518825069054146f)  
+* [认识Vue组件](https://juejin.im/post/5a3344216fb9a0450f21fba4)  
+* [使用vue解决复杂逻辑](https://juejin.im/post/5a314731f265da432d281a9a)  
+* [Parcel+vue 入门实战](https://segmentfault.com/a/1190000012427886)  
+* [vuejs 水波纹框架](https://github.com/surmon-china/vue-touch-ripple)  
+* [基于手淘 flexible 的 Vue 组件：TextScroll -- 文字滚动](https://segmentfault.com/a/1190000012432631)  
+* [基于ES6的Promise封装的图片资源加载通用函数（适用于vue）](https://segmentfault.com/a/1190000012424978)  
+* [使用VUE分分钟写一个验证码输入组件](https://juejin.im/post/5a31ddb251882527541053ee)  
+* [an event Bus for Vue。自动销毁的vue event Bus。](https://github.com/tangdaohai/vue-happy-bus)  
+
 第一、二周(12.04~12.17):
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/12-1.jpg)
