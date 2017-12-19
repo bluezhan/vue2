@@ -20,7 +20,7 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.5.x 是目前最新版本(2017.10)  
+版本 v2.5.x 是目前最新版本(2017.10~2017.12)  
 
 ## Vue2+周报
 
