@@ -51,6 +51,34 @@ vuefe：https://vuefe.cn
 
 ### *`十二月`：大月、腊月，寒雪之月* 
 
+第四周(12.25~12.31):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/12-4.png)
+
+* [适用于 Vue 2.0 的功能强大的 Contextmenu 组件](https://github.com/XBT1/v-contextmenu)
+* [Vue 模板编译原理](https://github.com/berwin/Blog/issues/18)
+* [在 2018 年来临之际，你应该知道的 Vue.js 的 11 个组件库](https://my.oschina.net/editorial-story/blog/1591582)
+* [深入浅出 - vue变化侦测原理](https://github.com/berwin/Blog/issues/17)
+* [vue mixins和extends的妙用](https://juejin.im/post/5a38d222f265da4312810a76)
+* [Vue-TypeScript全面教程(附实例代码和一键构建工具)](https://juejin.im/post/5a38830351882506a463bbcc)
+* [Vue多页面应用开发](http://aaronxue.top/2017/10/Vue%E5%A4%9A%E9%A1%B5%E9%9D%A2%E5%BC%80%E5%8F%91.html)
+* [Vue 2.0学习笔记：使用$refs访问Vue中的DOM](https://www.w3cplus.com/vue/accessing-dom-refs.html)
+* [Vue-Socket.io源码解读](https://juejin.im/post/5a37a00e5188253865094a04)
+* [vue: 从一个下拉框组件理解vue中的父子通讯](https://juejin.im/post/5a37327df265da4325296431)
+* [vue+koa2+mongodb点餐系统总结](https://juejin.im/post/5a33e978f265da43333e76fe)
+* [读懂源码：一步一步实现一个 Vue](http://www.cnblogs.com/kidney/p/8018226.html)
+* [A nice collection of often useful examples done in Vue.js](https://vuejsexamples.com/)
+* [Why 43% of Front-End Developers want to learn Vue.js](https://medium.com/vue-mastery/why-43-of-front-end-developers-want-to-learn-vue-js-7f23348bc5be)
+* [5 Vuex Plugins For Your Next VueJS Project](https://www.codementor.io/vuejsdevelopers/5-vuex-plugins-for-your-next-vuejs-project-evsxtdahd)
+* [Learn Web Development Using VueJS](https://school.learnstartup.net/p/H1Lz2f-mg/learn-web-development-using-vuejs/?utm_source=1)
+* [Ionic 4 + Vue.js + JSX + Typescript](https://github.com/evertonrobertoauler/ioni4-vue)
+* [How to build a pre-rendered, SEO-friendly Vue.js app](https://school.geekwall.in/p/HJAGkvUfG/how-to-build-a-pre-rendered-seo-friendly-vue-js-app)
+* [A new Vue for Nativescript](https://www.youtube.com/watch?v=g-Gul9SgKWE&feature=youtu.be)
+* [Building a Tic-Tac-Toe game with Vue.js - Part 1/3](https://school.geekwall.in/p/B10R55f-M)
+* [Vuejs Add Remove Class to Active Element](http://live24u.com/vuejs-add-remove-class-to-active-element/)
+* [Build a realtime chat app with VueJS, Vuex and Firestore](https://medium.com/js-dojo/build-a-realtime-chat-app-with-vuejs-vuex-and-firestore-32d081668709)
+* [Code-Sharing in NativeScript-Vue? Coming soon!](https://twitter.com/igor_randj/status/943241445716131841)
+
 第三周(12.18~12.24):
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/12-3.jpg)
