@@ -26,7 +26,7 @@ vuefe：https://vuefe.cn
 
 > **不积跬步，无以至千里；不积小流，无以成江海**
 
-### 丁酉年 【鸡年】
+### 丁酉年 【鸡年】/戊戌年【狗年】
 
 几个值得收藏的国外有关Vue.js网站(https://segmentfault.com/a/1190000010922063) ：  
 
@@ -48,6 +48,49 @@ vuefe：https://vuefe.cn
 * [twitter-search-VueNYC](https://twitter.com/search?vertical=default&q=VueNYC&src=typd)
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
+
+### *`一月`：小寒、大寒，腊八之月* 
+
+第一周(01.01~01.07):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/01-1.jpg)
+
+* [vue、react等单页面项目应该这样子部署到服务器](https://segmentfault.com/a/1190000012675012)
+* [vue-router项目实战总结](http://www.cnblogs.com/ChengWuyi/p/8127490.html)
+* [【vuejs项目部署】使用docker基于daocloud自动化部署到自己的主机](https://segmentfault.com/a/1190000012677120)
+* [大白话Vue源码系列(05)：运行时鸟瞰图](http://www.cnblogs.com/iovec/p/vue_05.html)
+* [2018 我所了解的 Vue 知识大全](https://juejin.im/post/5a4b78226fb9a0451a76c1a1)
+* [vue vuex vue-rouert后台项目——权限路由（超详细简单版）](https://juejin.im/post/5a4da656f265da431e172d94)
+* [V部落博客管理平台开源啦! Vue+SpringBoot强强联合！](https://segmentfault.com/a/1190000012594523)
+* [webpack 搭建 vue 项目](https://juejin.im/post/5a425cb4f265da43294e4f2e)
+* [JavaScript 年度调查报告：React、Vue 和 Angular 三分天下，谁将在 2018 年独占鳌头？](http://www.techug.com/post/vue-js-vs-react-in-2017-state-of-art.html)
+* [Vue异步更新队列原理从入门到放弃](https://juejin.im/post/5a45fdeb6fb9a044ff31c9a8)
+* [JEECMS v9 发布，前端技术采用 VUE 框架](https://www.oschina.net/news/91904/jeecms-9-released)
+* [Vue 组件通信之 Bus](https://juejin.im/post/5a4353766fb9a044fb080927)
+* [2018 年你需要知道的 Vue.js 组件库，完善你的应用开发](http://web.jobbole.com/93366)
+* [从源码解析vue响应式原理](https://segmentfault.com/a/1190000012612657)
+* [The base code of vue.js project.](https://github.com/annnhan/vue-spa-template)
+* [为什么43%前端开发者想学Vue.js](https://my.oschina.net/u/2275217/blog/1596664)
+* [Simple effects for Dropdown based on Vue.js. ](https://github.com/XBT1/effect-dropdown-vue)
+* [Epic Spinners perfectly fit Vuestic Admin Theme.](http://epic-spinners.epicmax.co/#/)
+* [New Year's gift: Official v4.0 release of eslint-plugin-vue!](https://twitter.com/vuejs/status/947619788792172544)
+* [Prettier now supports Vue’s single-file component files! ](https://github.com/prettier/prettier/pull/3563)
+* [Vue.js review of 2017 – Kevin Peters](https://medium.com/@kevin_peters/what-happened-to-vue-js-in-2017-aeaaa69c2c6f)
+* [Getting Started With TDD and Vue.js –  Nicholas Basile](https://vuejsdevelopers.com/2017/12/25/vue-js-test-driven-development-tdd/)
+* [Introducing VuePress: WordPress development with Vue and GraphQL – Ramsay Lanier](https://medium.com/@rmmmsy/introducing-vuepress-wordpress-development-with-vue-and-graphql-f5063a97bb69)
+* [Dependency injection with Vue.js – Michał Mecinski](https://codeburst.io/dependency-injection-with-vue-js-f6b44a0dae6d)
+* [Scaffold a Vue.js app with Poi – Alex Jover Morales](https://alligator.io/vuejs/vue-scaffold-poi/)
+* [How to use Pug & Sass (SCSS) in Vue.js 2? – Sergey Gavelyuk](https://medium.com/@serg.gavel/how-to-use-pug-sass-scss-in-vue-js-2-5a78300c4444)
+* [Updating Page Title & Metadata with Vue.js & vue-router – Joshua Bemenderfer](https://alligator.io/vuejs/vue-router-modify-head/)
+* [Using Apollo / GraphQL with Vue.js – Joshua Bemenderfer](https://alligator.io/vuejs/vue-apollo-graphql/)
+* [GitHub - egoist/vue-final-form](https://github.com/egoist/vue-final-form)
+* [GitHub - LinusBorg/portal-vue](https://github.com/linusborg/portal-vue)
+* [GitHub - michalsnik/vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers)
+* [GitHub - goweiwen/vue-swing](https://github.com/goweiwen/vue-swing)
+* [GitHub - bahmutov/cypress-vue-unit-test](https://github.com/bahmutov/cypress-vue-unit-test)
+* [GitHub - mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint)
+* [Vue 2 Transitions](http://vuejs.creative-tim.com/vue2-transitions/)
+* [Wizard example with lazy-loaded steps – Alex Jover Morales](https://codesandbox.io/s/j0n04mwmy)
 
 ### *`十二月`：大月、腊月，寒雪之月* 
 
