@@ -20,7 +20,7 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.5.x 是目前最新版本(2017.10~2017.12)  
+版本 v2.5.x 是目前最新版本(2017.10~2018.01)  
 
 ## Vue2+周报
 
@@ -50,6 +50,22 @@ vuefe：https://vuefe.cn
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
 ### *`一月`：小寒、大寒，腊八之月* 
+
+第二周(01.08~01.14):
+
+![](https://github.com/itemsets/vue2/raw/master/blog/01-2.jpg)
+ 
+* [Vue.js: a 3-minute interactive introduction](https://school.geekwall.in/p/ryFyYggyf/vue-js-a-3-minute-interactive-introduction)  
+* [The State of JavaScript Frameworks, 2017](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1)  
+* [Vue.JS 2.0, a great alternative to AngularJS](http://en.zappingnews.net/vue-js-2-great-alternative-angularjs/)  
+* [A Look at Angular Alongside Vue - Familiar Code](https://johnpapa.net/a-look-at-angular-alongside-vue-3/)  
+* [Official ESLint plugin for Vue.js](https://github.com/vuejs/eslint-plugin-vue)  
+* [How Is React Different from Vue?](https://javascriptreport.com/how-is-react-different-from-vue)  
+* [Understanding scoped slots in Vue.js](https://medium.com/corebuild-software/understanding-scoped-slots-in-vue-js-db5315a42391)  
+* [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)  
+* [javascript-tools](https://www.frontendboard.com/tools/javascript-tools/)  
+* [Help the user pick colors with a Vue.js component](https://vuejsfeed.com/blog/help-the-user-pick-colors-with-a-vue-js-component)  
+* [How to Build a Portfolio Site Using Vue and Cosmic JS](https://hackernoon.com/how-to-build-portfolio-site-using-vue-and-cosmic-js-5832bce7e7dc)  
 
 第一周(01.01~01.07):
 
