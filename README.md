@@ -54,7 +54,12 @@ vuefe：https://vuefe.cn
 第二周(01.08~01.14):
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/01-2.jpg)
- 
+
+* [基于Vue、Vuex、Vue-router实现的购物商城(原生切换动画)](https://juejin.im/post/5a5349b9f265da3e290c0d12) 
+* [vuex 闲置状态重置方案](https://juejin.im/post/5a4c8da3f265da43085e6c64) 
+* [vue.js整合vux里的上拉加载下拉刷新](https://tomoya92.github.io/2018/01/05/vuejs-vux-refresh-loadmore/) 
+* [简易 Vue 评论框架的实现————父组件的实现](https://juejin.im/post/5a4e20bef265da3e4b76901b) 
+* [针对VUE框架中MVVM原理的初探并且在具体的项目中实践](https://mp.weixin.qq.com/s/_U1m7CfiAPvDUEYOiLAe2g) 
 * [Vue.js: a 3-minute interactive introduction](https://school.geekwall.in/p/ryFyYggyf/vue-js-a-3-minute-interactive-introduction)  
 * [The State of JavaScript Frameworks, 2017](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1)  
 * [Vue.JS 2.0, a great alternative to AngularJS](http://en.zappingnews.net/vue-js-2-great-alternative-angularjs/)  
