@@ -49,7 +49,38 @@ vuefe：https://vuefe.cn
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
+![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
+
 ### *`一月`：小寒、大寒，腊八之月* 
+
+第三周(01.15~01.21):
+
+* [next.js、nuxt.js等服务端渲染框架构建的项目部署到服务器，并用PM2守护程序](https://segmentfault.com/a/1190000012774650)  
+* [SpringBoot+Vue前后端分离，使用SpringSecurity完美处理权限问题(一)](https://segmentfault.com/a/1190000012742102)  
+* [Electron-vue开发实战0——Electron-vue入门](https://juejin.im/post/5a572f26f265da3e513305f6)  
+* [用Vue自己造个组件轮子，以及实践背后带来的思考](https://juejin.im/post/5a573abbf265da3e3b7a7148)  
+* [vue开发看这篇文章就够了](https://segmentfault.com/a/1190000012692321)  
+* [vuex 基本入门和使用（二）](https://juejin.im/post/5a576ec951882573520d5345) 
+* [Egg + Vue SSR 组件异步加载](https://zhuanlan.zhihu.com/p/32887257)  
+* [Vue结合HTML5拖放API 实现目录拖拽～](https://juejin.im/post/5a573a8d51882573432d1544)  
+* [一个 VUE 组件：子元素 scroll 父元素容器不跟随滚动（兼容PC、移动端）](https://smackgg.github.io/vue-scroll-lock/)  
+* [2018 我所了解的 Vue 知识大全 （二）](https://qianduan.group/posts/5a56f8df0cf6b624d2239c3c)  
+* [从 Nuxt.js 学习到了什么？窥探前端工程化解决方案的架构思路](https://zoumiaojiang.com/article/learn-from-nuxt-js)  
+* [Last chance to get early birds for the Vue.js Conf Amsterdam](http://frontenddeveloperlove.com/)
+* [Animating Vue.js - Sarah Drasner - SmashConf](https://www.youtube.com/watch)
+* [Open Sourcing Your First Vue Component](https://codeburst.io/open-sourcing-your-first-vue-component-5ef015e1f66c)
+* [How JavaScript works: Post # 6 of the series dedicated to exploring JavaScript](https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79)
+* [How to Build a Vue.js Component With Tailwind in a Laravel Project](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project)
+* [Navigate Nested Child Routes In A Vue.js Web Application](https://www.thepolyglotdeveloper.com/2017/11/navigate-nested-child-routes-vuejs-web-application/)
+* [Create custom, distributable web components with Vue.js](http://marcelpociot.de/blog/2017-12-08-using-custom-vuejs-elements)
+* [Easy Timeline Components with Vue.js and Framework7](https://www.youtube.com/watch)
+* [Handling Events With Vue.js ](https://medium.com/@rizubutt906/handling-events-with-vue-js-78ab4e391969)
+* [Fonts 4 Dev](http://f4d.tatthien.com/)
+* [TekTwit: Trending tweets feed powered by Vue.js and Node.js](https://vuejsfeed.com/blog/tektwit-trending-tweets-feed-powered-by-vue-js-and-node-js)
+* [Front-end developer - Full Time (London, UK)](https://vuejobs.com/jobs/213-full-time-full-stack-front-end-developer)
+* [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader)
+* [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable)
+* [ts-vue-loader](https://github.com/Grafikart/ts-vue-loader)
 
 第二周(01.08~01.14):
 
