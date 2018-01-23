@@ -53,6 +53,22 @@ vuefe：https://vuefe.cn
 
 ### *`一月`：小寒、大寒，腊八之月* 
 
+第四周(01.22~01.28):
+ 
+* [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)  
+* [This component gives you a multi/single select with the power of Vuejs components.](https://github.com/IneoO/vue-multi-select)  
+* [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://school.learnstartup.net/p/BJBa7-l-g/vuejs-2-the-complete-guide/)  
+* [4 Essential ES2015 Features For Vue.js Development](https://vuejsdevelopers.com/2018/01/22/vue-js-javascript-es6/)  
+* [What’s new in Vue Devtools 4.0 – The Vue Point – Guillaume Chau](https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0)
+* [Getting Started with Web Accessibility in Vue – Emily Mears](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-vue-17e2c4ea0842)
+* [Stop Making Your Components Able to Do Everything – Dani Lewandowski](https://medium.com/@webdevdani/stop-making-your-components-able-to-do-everything-9dbad62b1c0)
+* [Grid Layout Editor for Vue.js — A research project for Pariksha.io – Krutie Patel](https://medium.com/@krutie/grid-layout-editor-for-vue-js-a-research-project-for-pariksha-io-e3445025d21e)
+* [Use a Vue.js Render Prop! –  Darren Jennings](https://vuejsdevelopers.com/2018/01/15/vue-js-render-props/)
+* [Writing Single File Components (Vue Files) in Typescript: vue-class-component vs. Vue.extend – Mitchell Garcia](https://frontendsociety.com/writing-single-file-components-vue-files-in-typescript-vue-class-component-vs-vue-extend-c5c1d8e47b7)
+* [Creating a Basic Vue Plugin: A Quick And Practical Example –Ramsay Lanier](https://codeburst.io/creating-a-basic-vue-plugin-a-quick-and-practical-example-cb56fa9a7d09)
+* [GitHub - saintplay/vue-swatches](https://github.com/saintplay/vue-swatches)
+* [GitHub - vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top)
+
 第三周(01.15~01.21):
 
 * [next.js、nuxt.js等服务端渲染框架构建的项目部署到服务器，并用PM2守护程序](https://segmentfault.com/a/1190000012774650)  
