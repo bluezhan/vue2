@@ -51,6 +51,46 @@ vuefe：https://vuefe.cn
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
 
+### *`二月`：立春、雨水，仲春之月* 
+
+年前一波流(02.01~02.12):
+
+* [Web加速器：Loder v1.0 发布](https://segmentfault.com/a/1190000013079090)  
+* [Vue风格指南小结](https://juejin.im/post/5a72aa54f265da3e2366cf40)  
+* [Vue Cli 3.x简单体验](https://segmentfault.com/a/1190000013090943)  
+* [Vuejs渡劫系列三：构建一个包含路由控制、状态管理和权限校验的vue-cli项目](https://moweide.com/2017/12/04/vue_cli_project/)  
+* [Element 2.1.0 发布，基于 Vue 2.0 的桌面端组件库](https://www.oschina.net/news/92991/element-2-1-0)  
+* [Vue 2.0学习笔记：组件的使用](https://www.w3cplus.com/vue/component-registered.html)  
+* [使用Vue的nextTick引发的执行顺序之争](https://juejin.im/post/5a72df6cf265da3e2c3870b9)  
+* [Vue | 一个支持数据抓取的JSON树组件](https://juejin.im/post/5a73cec65188257a89298064)  
+* [基于vue和webpack v3的项目架构](https://github.com/CodeLittlePrince/vue-construct) 
+* [Vue学习日记（一）——Vue介绍](https://segmentfault.com/a/1190000013067831)  
+* [微信端vue项目问题总结](https://segmentfault.com/a/1190000013072150)  
+* [Vue中render函数的使用](https://segmentfault.com/a/1190000013066824)  
+* [深入理解vue中的slot与slot-scope](https://juejin.im/post/5a69ece0f265da3e5a5777ed)  
+* [Vue系列之computed使用详解(附demo,不定期更新)](https://juejin.im/post/5a6f21a86fb9a01ca47ac4b9)  
+* [用Vue搭建一个应用盒子（三）：音乐播放器](https://segmentfault.com/a/1190000013061686)  
+* [vue无缝滚动的插件开发填坑分享](https://juejin.im/post/5a6b266851882573402677b9)  
+* [Vue中学到的功夫，隔山打牛大法](https://juejin.im/post/5a7037b15188257324727a77)  
+* [What’s new in Vue Devtools 4.0 – The Vue Point – Guillaume Chau](https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0)
+* [Getting Started with Web Accessibility in Vue – Emily Mears](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-vue-17e2c4ea0842)
+* [Stop Making Your Components Able to Do Everything – Dani Lewandowski](https://medium.com/@webdevdani/stop-making-your-components-able-to-do-everything-9dbad62b1c0)
+* [Grid Layout Editor for Vue.js — A research project for Pariksha.io – Krutie Patel](https://medium.com/@krutie/grid-layout-editor-for-vue-js-a-research-project-for-pariksha-io-e3445025d21e)
+* [Use a Vue.js Render Prop! –  Darren Jennings](https://vuejsdevelopers.com/2018/01/15/vue-js-render-props/)
+* [Writing Single File Components (Vue Files) in Typescript: vue-class-component vs. Vue.extend – Mitchell Garcia](https://frontendsociety.com/writing-single-file-components-vue-files-in-typescript-vue-class-component-vs-vue-extend-c5c1d8e47b7)
+* [Creating a Basic Vue Plugin: A Quick And Practical Example –Ramsay Lanier](https://codeburst.io/creating-a-basic-vue-plugin-a-quick-and-practical-example-cb56fa9a7d09)
+* [Work for NASA as Front End Web Developer 🚀 – Houston, United States Full-time](https://vuejobs.com/jobs/248-work-for-nasa-as-front-end-web-developer)
+* [Front-End Vue.js Web Developer at PullString Inc. – San Francisco, United States – Full-time](https://vuejobs.com/jobs/249-front-end-web-developer)
+* [Contract Full-stack developer at Walker Tracker – Portland, United States, Remote Allowed – Freelance](https://vuejobs.com/jobs/250-contract-full-stack-developer)
+* [Senior Front-End Developer at Fan Retreat – Remote – Freelance](https://vuejobs.com/jobs/251-senior-front-end-developer)
+* [Junior Frontend Vue.js Developer at EquipmentConnect – London, United Kingdom – Full-time](https://vuejobs.com/jobs/252-junior-frontend-vue-dev-for-a-london-fintech-platform)
+* [GitHub - saintplay/vue-swatches](https://github.com/saintplay/vue-swatches)
+* [GitHub - vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) 
+* [Template Driven Form Validation In Vue.js](https://scotch.io/tutorials/template-driven-form-validation-in-vuejs)  
+* [Jargon-Free Webpack Intro For VueJS Users](https://medium.com/js-dojo/jargon-free-webpack-intro-for-vuejs-users-348b8ec143a)  
+* [How to add Semantic UI to your Vue project](https://codeburst.io/how-to-add-semantic-ui-to-your-vue-project-cc8c4783a673)  
+
+
 ### *`一月`：小寒、大寒，腊八之月* 
 
 第四周(01.22~01.28):
