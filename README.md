@@ -20,7 +20,7 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.5.x 是目前最新版本(2017.10~2018.01)  
+版本 v2.5.x 是目前最新版本(2017.10~2018.03)  
 
 ## Vue2+周报
 
@@ -50,6 +50,79 @@ vuefe：https://vuefe.cn
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
+
+### *`三月`：惊蛰、春分，醒春之月* 
+
+年后大大大波冲击流(02.xx~03.15):
+
+* [vuex 源码：深入 vuex 之 state](https://juejin.im/post/5a97cbf06fb9a028e46e111f)
+* [基于Vue2.0实现后台系统权限控制](https://juejin.im/post/5a97e41bf265da23a048fa20)
+* [Element 2.2.1 发布，基于 Vue 2.0 的桌面端组件库](https://www.oschina.net/news/93829/element-2-2-1-released)
+* [vue 实现剪裁图片并上传服务器](https://juejin.im/post/5a96b4e1f265da4e82637ec6)
+* [Vue全家桶+TypeScript使用总结](https://segmentfault.com/a/1190000013462418)
+* [快速入门vue-cli配置](https://juejin.im/post/5a9405a26fb9a0636263f9f2)
+* [NativeScript-Vue，了解一下？](https://segmentfault.com/a/1190000013451759)
+* [基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue)
+* [vuex的简单使用](https://segmentfault.com/a/1190000013656746)
+* [vue常见面试题](https://juejin.im/post/5aa00229f265da239b40fc02)
+* [Vue2.0结合webuploader实现文件分片上传](http://www.cnblogs.com/xiahj/p/8529545.html)
+* [uex 源码：深入 vuex 之 getter前言](https://juejin.im/post/5aa0956e6fb9a028b5477319)
+* [写了个移动端可滑动（惯性滑动&回弹）Vue导航栏组件 ly-tab](https://juejin.im/post/5a9a48a55188255584536f75)
+* [闲里偷忙，来点Vue](https://juejin.im/post/5a76c8586fb9a0636323eebe)
+* [❤️❌ 如何用vue制作一个探探滑动组件](https://segmentfault.com/a/1190000013559739)
+* [开源一个 Vue.js 2.0+ 石墨文档样式的富文本编辑器](https://juejin.im/post/5a9cc311f265da23866f5f12)
+* [【译】用JavaScript写一个区块链](https://zhuanlan.zhihu.com/p/34522746)
+* [2018-03-14笔记1 -- egg+ vue项目搭建入坑](https://www.jianshu.com/p/25a43dbf0734)
+* [掘金官方-VUE前端框架](https://www.jianshu.com/p/38798ce1c331)
+* [Vue入门系列之Vue实例详解与生命周期](https://www.jianshu.com/p/16f84cc76888)
+* [使用Karma、Mocha实现vue单元测试](https://www.jianshu.com/p/24d77780ef41)
+* [（Vue全家桶）Vue-cli](https://www.jianshu.com/p/04403b1d5fee)
+* [前端-vue框架学习笔记(一)-项目构建与基本语法学习](https://www.jianshu.com/p/bd24e17d47be)
+* [超简单使用vue-cli+webpack脚手架来构建vue项目](https://www.jianshu.com/p/565d87efa821)
+* [vue项目中main.js、vue.js和index.html的关系](https://www.jianshu.com/p/9b97754f134c)
+* [react和vue的渲染流程对比](https://www.jianshu.com/p/1960f378b5b4)
+* [Vue.js 2.0 基于OAuth2.0的第三方登录组件](https://www.jianshu.com/p/ff779c7a39c0)
+* [用Vue来开发微信小程序，你觉得如何？](https://www.jianshu.com/p/f084d13a0b3d)
+* [10- vue django restful framework 打造生鲜超市 -用户登录和手机注册（中）](https://www.jianshu.com/p/f11537526034)
+* [sublime vue语法高亮——插件安装](https://www.jianshu.com/p/1ddccf76e69e)
+* [Vue访问实例属性容易遗漏的知识点](https://www.jianshu.com/p/d6c00c39d4ed)
+* [vue-cli升级webpack4.x不完全指南](https://www.jianshu.com/p/1ff0d586a866)
+* [VUE调用微信分享接口的坑](https://www.jianshu.com/p/a4b8a3932e0e)
+* [A super easy to use infinite scroll component.(Vue component)](https://github.com/HcySunYang/scroll-flip-page)
+* [Vuejs Amsterdam - Frontend Developer Love Conference 2018 Photos!](https://www.facebook.com/vuejsamsterdam/photos/ms.c.eJw9VNcNxFAM2ujkXvZf7BRsv~;whFwgmEUmX~;J5WE~;sJsIdZELMszmaWSI~;DObgGRyr627ceBExbz3bsp5lXcsxb3rx9FOreWw~;6MBvfvIFvsZI55pu2TvXhkhzcjn6vnS~;mTw~;51kswn7zz0aP39BSDX~;v4Dfuzdj4cfrmtXzV69elzN~;Mu1tNf4M~;lq7av3rnzzQHscvoE~;RZXl6kvLkvU5d5PFPxPvzFwHF~;Bj~;D3PtBrcXq1x8~;jcx3~;5O4D~;~_T8LR99fHoC91PtywP8rePPjrm~;n3~;gq7w8Eeatb77wfnz3y~;HXXh6KJn~;~_9OEej48nz3X3aeQt9PLmNfe7~_3BN~;2DlwD4yOn9Q59j~_thh~;~_vz18ff41cbflzf0J~;X5oZNn2f3Z2C~_HC~;PMuXoamGgx8dzn9bMMPv2uX16S~;e7juBddPVGP~;V6VkwavP93I291HRRN13byIoR4SD3~;80ucP5~_T1~_vPTL735UUl8H779Kgwcfvp6~;N~;v8~_Of~;XX9jH396gocW2fF~;4bi8qzIS2z~_Pn7s27x8RsOv08vO49~;pZcyr~_OUhJg~;~_9Iz~_u9fo1dNL1HOf~_~;8V7mf7vX~;~_o~;~;2Mc3~;Ue59oqd~_fs~_8vHlGfqgO12B~_eaLh8z8sfTOO.bps.a.227526067793595.1073741828.186399861906216/227527777793424/)
+* [Vuejs Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg)
+* [Vuejs Amsterdam Talk - Building reusable UI components in Vue by Plamen Zdravkov ](https://www.youtube.com/watch)
+* [New demo for vue-promised](https://posva.net/vue-promised/)
+* [Vue Storefront 1.0RC has been released](https://medium.com/@piotrkarwatka/vue-storefront-1-0rc-has-been-released-5659ad927bb5)
+* [Vuetify.js 1.0.6 has been released](https://github.com/vuetifyjs/vuetify/releases/tag/v1.0.6)
+* [Vue VS Code Extensionpack update ](https://twitter.com/sarah_edo/status/972512907685777408)
+* [Quasar v0.15.6 release](https://github.com/quasarframework/quasar/releases)
+* [Native apps with Vue.js: Weex or NativeScript? — chapter II](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-chapter-ii-6d1776da090d)
+* [Tips & tricks for vue-analytics ](https://medium.com/@matteo_gabriele/tips-tricks-for-vue-analytics-87a9d2838915)
+* [How to build a simple CRUD app with Vuejs and codefii](https://medium.com/@ekeminyd/how-to-build-a-simple-crud-app-with-vuejs-and-codefii-1bc919b881e2)
+* [Show / hide password input values with Vue.js](https://simedia.tech/blog/show-hide-password-input-values-with-vue-js/)
+* [Vuesax: A new library for Vue.js components](https://vuejsfeed.com/blog/vuesax-a-new-components-library-for-vue-js)
+* [Experienced Vue freelance– Full-time (Remote/OR, USA)](https://vuejobs.com/jobs/302-javascript-developer-angularjs-vue)
+* [Freelance Vue Developer - Freelance (Remote)](https://vuejobs.com/jobs/279-freelance-vuejs-developer)
+* [vue-shortkey](https://github.com/iFgR/vue-shortkey)
+* [amazon-cognito-vuex-module](https://github.com/Botre/amazon-cognito-vuex-module)
+* [draggable-vue-directive](https://github.com/IsraelZablianov/draggable-vue-directive)
+* [vue-tour](https://github.com/pulsardev/vue-tour)
+* [Vue.js Top 10 Open Source for the Past Month (v.Feb 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-feb-2018-aea3f52bd6ac)
+* [Keep up to date with all the released Conference talks ](https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw)
+* [Nuxt.js v1.4.0 ](https://github.com/nuxt/nuxt.js/releases/tag/v1.4.0)
+* [Vuetify.js ](https://twitter.com/vuetifyjs/status/968471824181989376)
+* [Evan You's talk at Vuejs Amsterdam](https://www.youtube.com/watch)
+* [NativeScript-Vue translated to Korean](https://nativescript-vue.org/ko/docs/introduction/)
+* [Custom routes with Nuxt.js – Francesco Greppi ](https://medium.com/@francesco.greppi/custom-routes-with-nuxt-js-5b87036fd389)
+* [Full Stack Shopping Cart With MEVN Stack – Jaouad Ballat ](https://medium.com/@jaouad_45834/full-stack-shopping-cart-with-mevn-stack-part-1-89dae1f35378)
+* [Vue js Setup With Parcel Tutorial From Scratch](https://appdividend.com/2018/02/27/vue-js-setup-parcel-tutorial-scratch/)
+* [Vue Animations with Sketch + Haiku](https://www.haiku.ai/blog/vue-animations-with-sketch-and-haiku/)
+* [Project Helios: Vaporwave music website powered by Vue.js](https://vuejsfeed.com/blog/project-helios-vaporwave-music-website-powered-by-vue-js)
+* [Freelance Vue Developer - Freelance (Remote)](https://vuejobs.com/jobs/279-freelance-vuejs-developer)
+* [Full-stack web developer - Full-time (San Diego, USA/Remote)](https://vuejobs.com/jobs/244-full-stack-web-developer)
+* [vuegg](https://github.com/vuegg/vuegg)
+* [vuejs-serverside-template-xss](https://github.com/dotboris/vuejs-serverside-template-xss)
 
 ### *`二月`：立春、雨水，仲春之月* 
 
