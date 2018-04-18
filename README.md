@@ -51,6 +51,49 @@ vuefe：https://vuefe.cn
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
 
+### *`四月`：清明、谷雨，回春之月* 
+
+四月上半月-四月蔷薇靠短墙(04.01~04.15):
+
+* [面试题：你能写一个Vue的双向数据绑定吗？](https://segmentfault.com/a/1190000014274840)
+* [仿美团外卖的全栈项目(vue+node+mongodb)带支付-&gt;大三求实习](https://segmentfault.com/a/1190000014267516)
+* [前端面试题总结——VUE（持续更新中）](https://segmentfault.com/a/1190000014252365)
+* [浅析vue的双向数据绑定](https://segmentfault.com/a/1190000014423018)
+* [如何解释vue的生命周期才能令面试官满意？](https://segmentfault.com/a/1190000014376915)
+* [少侠请留步，来一起实现个MVVM！](https://segmentfault.com/a/1190000014411980)
+* [前端知识点总结——框架中报错集锦（含解决方法）](https://segmentfault.com/a/1190000014299294)
+* [我是如何在公司项目中使用ESLint来提升代码质量的](https://segmentfault.com/a/1190000014400437)
+* [使用Vue构建视频播放列表](https://www.w3cplus.com/vue/create-video-player-component.html) 
+* [在 Typescript 中使用可被复用的 Vue Mixin](https://juejin.im/post/5ad19197f265da239c7bc954) 
+* [Element 2.3.4 发布，基于 Vue 2.0 的桌面端组件库](https://www.oschina.net/news/95124/element-2-3-4-released) 
+* [Vue-powered Static Site Generator](https://vuepress.vuejs.org/) 
+* [细数喜欢Vue.js的10个方面](http://caibaojian.com/vuejs-10-parts.html) 
+* [vue实践04之vuex](https://juejin.im/post/5aceadec518825556534e098) 
+* [你不知道的Vuejs - Vuejs 插件开发](https://yugasun.com/post/you-dont-know-vuejs-10.html) 
+* [用Vue.js开发原生应用选择Weex还是NativeScript?](https://juejin.im/post/5ad0304e6fb9a028c97a777f) 
+* [Vuex源码阅读分析](https://juejin.im/post/5acf32875188255cb32e85e2) 
+* [VuePress – The Vue-powered Static Site Generator](https://vuepress.vuejs.org/)
+* [Introducing Vue Vixens – Jen Looper](https://medium.com/@jenlooper/introducing-vue-vixens-82a36455438a)
+* [The first batch of VueConf US videos is here!](https://www.vuemastery.com/conferences/vueconf-2018/opening-keynote-evan-you/)
+* [Create an Engaging Native Mobile App with Vue and NativeScript - Jen Looper – Vue.js Amsterdam](https://www.youtube.com/watch)
+* [Vue Development in CodeSandbox - Ives van Hoorne – Vue.js Amsterdam](https://www.youtube.com/watch)
+* [Views on Vue | Devchat.tv](https://devchat.tv/views-on-vue)
+* [Is My Single-Page Application SEO Friendly? – Anthony Gore](https://vuejsdevelopers.com/2018/04/09/single-page-app-seo/)
+* [List Rendering and Vue’s v-for Directive – Hassan Djirdeh – CSS-Tricks](https://css-tricks.com/list-rendering-and-vues-v-for-directive/)
+* [How We Implemented High-load Website Interface with Vue.JS and Google Maps – JetRuby Agency](https://expertise.jetruby.com/how-we-implemented-high-load-website-interface-with-vue-js-and-google-maps-5f9f9a7cd24a)
+* [How to create a custom selected list using Vue-Multiselect for Vue.js – Hugo Carneiro](https://medium.com/@hugodesigns/how-to-use-the-most-complete-selecting-solution-for-vue-js-f991b2605364)
+* [Creating a Website with Nuxt.js and WordPress REST API – Alessandro Giordo](https://medium.com/@moustachedesign/creating-a-website-with-nuxt-js-and-wordpress-rest-api-51cf66599cf3)
+* [From Broad Strokes To Balanced Screens — Building the Front End – Goetz Buerkle](https://medium.com/unscrewme/from-broad-strokes-to-balanced-screens-building-the-front-end-f488139421ec)
+* [Build VueTube: A Youtube Clone with VueJS, Webpack and Flexbox – Alex Brown](https://medium.com/techtrument/build-a-video-player-like-youtube-in-vuejs-webpack-and-flexbox-b51ef9bede0b)
+* [Vue.js Develoepr – Spring Lake, MI, USA, Remote Allowed – Full-time](https://vuejobs.com/jobs/345-looking-for-vuejs-developer-with-ideally-angular-and-laravel-experience)
+* [Full-Stack developer – Remote – Full-time](https://vuejobs.com/jobs/341-full-stack-developer)
+* [Vue.js Developer – Frankfurt am Main, Germany, Remote Allowed – Full-time](https://vuejobs.com/jobs/340-vuejs-clojure-java-project-in-a-very-friendly-team)
+* [Vue.js FrontEnd Web Developer – Cork, Ireland – Full-time](https://vuejobs.com/jobs/338-vue-js-frontend-web-developer)
+* [GitHub - nuxt-community/feed-module](https://github.com/nuxt-community/feed-module)
+* [GitHub - vuejs/vuepress](https://github.com/vuejs/vuepress)
+* [GitHub - asika32764/vue2-animate](https://github.com/asika32764/vue2-animate)
+* [GitHub - epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners)
+  
 ### *`三月`：惊蛰、春分，醒春之月* 
 
 年后大大大波冲击流(02.xx~03.15):
