@@ -51,6 +51,39 @@ vuefe：https://vuefe.cn
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
 
+### *`十一月`： 立冬、小雪，寒冬腊月之月* 
+
+十一月上半月-十一月都城居暖阁(11.01~11.15):
+
+* [vue-cli3.0相关的坑](https://segmentfault.com/a/1190000016964485) 
+* [对 Vue-Router 进行单元测试](https://mp.weixin.qq.com/s/0p51k6wF0C-UT_8kQ6Iiqw)  
+* [react/vue中dom-diff简易版实现](https://juejin.im/post/5bdd1e71e51d452da06cf59a)  
+* [37行代码构建无状态组件通信工具-让恼人的Vuex和Redux滚蛋吧！](https://juejin.im/post/5bdd56f06fb9a049de6cccaa)  
+* [vue2.0中的：is和is的区别](https://juejin.im/post/5bdc4a6be51d45082d4ff48c)  
+* [100行代码实现一个vue分页组件](https://juejin.im/post/5be02a9a6fb9a049e41226d5)  
+* [最近在 Vue 项目中用到的一些小技巧，或许有用](https://juejin.im/post/5bdd57f451882517165d75cc)  
+* [[Vue进阶]为什么我的代码让别人看起来头皮发麻？](https://juejin.im/post/5bd83871f265da0afa3e3204)  
+* [一文读懂vue响应式系统实现过程](http://jinge.red/vue-reactive/)  
+* [[译] 在 vue-test-utils 中 mock 全局对象](https://mp.weixin.qq.com/s/MLmt3yWtOxRVTW_92eMwJQ)  
+* [Vue 进阶系列（三）之Render函数原理及实现](https://juejin.im/post/5be2f0ae6fb9a049fa0f3dd2)  
+* [VS Code书写vue项目配置 eslint+prettier 统一代码风格](https://juejin.im/post/5be5429de51d4511a808f4ac) 
+* [Vue一个案例引发的动态组件与全局事件绑定总结](https://juejin.im/post/5be77819f265da616a472e16) 
+* [Vue模板语法](https://segmentfault.com/a/1190000016839229)  
+* [vue项目实践思考003](https://juejin.im/post/5bd471dbf265da0a8a6af135)  
+* [Vue计算属性和侦听器](https://segmentfault.com/a/1190000016840663)  
+* [webpack4、Koa配置Vue服务器端渲染(SSR)](https://juejin.im/post/5bd72cd4f265da0a857ac326)  
+* [Vue.js 父子组件通信的十种方式](https://juejin.im/post/5bd18c72e51d455e3f6e4334)  
+* [高级 Vue 组件模式 (9)](https://segmentfault.com/a/1190000016840482?)  
+* [Vue项目History模式404问题解决](https://juejin.im/post/5bd7c4196fb9a05cd45730b5)  
+* [vue组件通信全揭秘(共7章)](https://juejin.im/post/5bd97e7c6fb9a022852a71cf)  
+* [Vue 页面状态保持页面间数据传输的一种方法](https://juejin.im/post/5bd95a865188257f873dda35)  
+* [vue单页面：当前页面刷新或跳转时提示保存](https://segmentfault.com/a/1190000016874879)  
+* [用Vue来进行移动Hybrid开发和客户端间数据传输的一种方法](https://juejin.im/post/5bda5a505188257f764c63d2)  
+* [在 React 和 Vue 中尝鲜 Hooks](https://mp.weixin.qq.com/s/p2f3jsko91iGhrbtjgmt7g)  
+* [基于Vue构造器创建Form组件的通用解决方案](https://juejin.im/post/5bdc17ddf265da61483b0e67)  
+
+
+
 ### *`五月`：皋月、紫藤，女神玛雅之月* 
 
 五月上半月-五月香汗沾寳粟(05.01~05.15):
