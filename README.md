@@ -28,6 +28,8 @@ vuefe：https://vuefe.cn
 
 ### 丁酉年 【鸡年】/戊戌年【狗年】
 
+[:bikini: 对【Vue相关开源项目库汇总】的Star更新排名](https://github.com/vue3/awesome-github-vue-latest)
+
 几个值得收藏的国外有关Vue.js网站(https://segmentfault.com/a/1190000010922063) ：  
 
 * [conf.vuejs.org](http://conf.vuejs.org/)
