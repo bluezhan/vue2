@@ -57,36 +57,36 @@ vuefe：https://vuefe.cn
 
 十一月下半月-十一月都城居暖阁(11.16~11.30):
 
-* [Evan You Previews Vue.js 3.0 🔥 – Vue Mastery](https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547)</p> 
-* [The State of JavaScript 2018 Results](https://2018.stateofjs.com/introduction/)</p> 
-* [Release v2.3.1 · nuxt/nuxt.js · GitHub](https://github.com/nuxt/nuxt.js/releases/v2.3.1)</p> 
-* [Save 35% on an annual subscription to VueMastery.com](https://www.vuemastery.com/courses/)</p> 
-* [Real-life use cases for computed properties in Vue.js – Sunil Sandhu](https://medium.com/javascript-in-plain-english/real-life-use-cases-for-computed-properties-in-vue-js-5fdeecbeb3b3)</p> 
-* [Using Redux + Redux-Observable with Vue.js – Jean-Sebastien Tremblay](https://snipcart.com/blog/redux-vue)</p> 
-* [Adding Vue.js to an Existing Project – Blunt Jackson](https://medium.com/@bluntjackson/adding-vue-js-to-an-existing-project-ed2d040f870b)</p> 
-* [Nuxt.js Fundamentals, a free Vue.js video course – Vue School](https://vueschool.io/courses/nuxtjs-fundamentals)</p> 
-* [Offline-First Vue Apps with Hoodie & Workbox – Peter Mbanugo](https://www.telerik.com/blogs/offline-first-vue-apps-with-hoodie-workbox)</p> 
-* [Patching the Vue.js Virtual DOM: The need, the explanation and the solution – Michael Gallagher](https://medium.com/dailyjs/patching-the-vue-js-virtual-dom-the-need-the-explanation-and-the-solution-ba18e4ae385b)</p> 
-* [🇷🇴 Frontend Wizard – Bucarest, Romania – Remote allowed](https://vuejobs.com/jobs/539-frontend-wizard)</p> 
-* [Shapy](https://shapy.app/)</p> 
-* [Vuex Pathify - ridiculously simple Vuex setup + wiring](https://davestewart.github.io/vuex-pathify/)</p> 
-* [GitHub - filrak/vue-offline](https://github.com/filrak/vue-offline)</p> 
-* [GitHub - sascha245/vue-threejs-composer](https://github.com/sascha245/vue-threejs-composer)</p> 
-* [GitHub - fritx/vue-threejs](https://github.com/fritx/vue-threejs)</p> 
-* [GitHub - sgraewe/nuxt-tailwind](https://github.com/sgraewe/nuxt-tailwind)</p> 
-* [GitHub - nuxt/serve-placeholder: ](https://github.com/nuxt/serve-placeholder)</p> 
-* [NativeScript 5.0 is hot 🔥 out of the oven!](https://www.nativescript.org/blog/nativescript-5.0-is-hot-out-of-the-oven)</p> 
-* [4 Connect.Tech Conference Talks Now Live ](https://www.vuemastery.com/conferences/connect-tech-2018/)</p> 
-* [Black Friday Mega Sale – Vue School](https://vueschool.io/blackfriday)</p> 
-* [Type Vue without TypeScript – Rahul Kadyan ](https://medium.com/@znck/type-vue-without-typescript-b2b49210f0b)</p> 
-* [Deep Dive into VuePress: Craft a Clean Documentation & Blog –Charles Ouellet](https://hackernoon.com/deep-dive-into-vuepress-craft-a-clean-documentation-blog-de6ac8e0c917)</p> 
-* [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 4 – Daniel Kuroski](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-4-700a4269e368)</p> 
-* [Nuxt.js (v2), Firestore & SSR 🔥 – Pascal Luther](https://medium.com/@pascalluther/nuxt-js-v2-firestore-ssr-938d8fb7d2b0)</p> 
-* [Building A Real-Time Chat Application With Vue.js and Firebase - Part 1 - Sebastian Eschweiler](https://codingthesmartway.com/building-a-real-time-chat-application-with-vue-js-and-firebase-part-1/)</p> 
-* [Vue as Event Bus — Life is Happier – Eko Simanjuntak](https://medium.com/easyread/vue-as-event-bus-life-is-happier-7a04fe5231e1)</p> 
-* [GitHub - chrisvfritz/hello-vue-components](https://github.com/chrisvfritz/hello-vue-components)</p> 
-* [GitHub - chrisvfritz/vue-monolith-example](https://github.com/chrisvfritz/vue-monolith-example)</p> 
-* [GitHub - shenoy/vue-scrollama](https://github.com/shenoy/vue-scrollama)</p> 
+* [Evan You Previews Vue.js 3.0 🔥 – Vue Mastery](https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547)   
+* [The State of JavaScript 2018 Results](https://2018.stateofjs.com/introduction/)   
+* [Release v2.3.1 · nuxt/nuxt.js · GitHub](https://github.com/nuxt/nuxt.js/releases/v2.3.1)   
+* [Save 35% on an annual subscription to VueMastery.com](https://www.vuemastery.com/courses/)   
+* [Real-life use cases for computed properties in Vue.js – Sunil Sandhu](https://medium.com/javascript-in-plain-english/real-life-use-cases-for-computed-properties-in-vue-js-5fdeecbeb3b3)   
+* [Using Redux + Redux-Observable with Vue.js – Jean-Sebastien Tremblay](https://snipcart.com/blog/redux-vue)   
+* [Adding Vue.js to an Existing Project – Blunt Jackson](https://medium.com/@bluntjackson/adding-vue-js-to-an-existing-project-ed2d040f870b)   
+* [Nuxt.js Fundamentals, a free Vue.js video course – Vue School](https://vueschool.io/courses/nuxtjs-fundamentals)   
+* [Offline-First Vue Apps with Hoodie & Workbox – Peter Mbanugo](https://www.telerik.com/blogs/offline-first-vue-apps-with-hoodie-workbox)   
+* [Patching the Vue.js Virtual DOM: The need, the explanation and the solution – Michael Gallagher](https://medium.com/dailyjs/patching-the-vue-js-virtual-dom-the-need-the-explanation-and-the-solution-ba18e4ae385b)   
+* [🇷🇴 Frontend Wizard – Bucarest, Romania – Remote allowed](https://vuejobs.com/jobs/539-frontend-wizard)   
+* [Shapy](https://shapy.app/)   
+* [Vuex Pathify - ridiculously simple Vuex setup + wiring](https://davestewart.github.io/vuex-pathify/)   
+* [GitHub - filrak/vue-offline](https://github.com/filrak/vue-offline)   
+* [GitHub - sascha245/vue-threejs-composer](https://github.com/sascha245/vue-threejs-composer)   
+* [GitHub - fritx/vue-threejs](https://github.com/fritx/vue-threejs)   
+* [GitHub - sgraewe/nuxt-tailwind](https://github.com/sgraewe/nuxt-tailwind)   
+* [GitHub - nuxt/serve-placeholder: ](https://github.com/nuxt/serve-placeholder)   
+* [NativeScript 5.0 is hot 🔥 out of the oven!](https://www.nativescript.org/blog/nativescript-5.0-is-hot-out-of-the-oven)   
+* [4 Connect.Tech Conference Talks Now Live ](https://www.vuemastery.com/conferences/connect-tech-2018/)   
+* [Black Friday Mega Sale – Vue School](https://vueschool.io/blackfriday)   
+* [Type Vue without TypeScript – Rahul Kadyan ](https://medium.com/@znck/type-vue-without-typescript-b2b49210f0b)   
+* [Deep Dive into VuePress: Craft a Clean Documentation & Blog –Charles Ouellet](https://hackernoon.com/deep-dive-into-vuepress-craft-a-clean-documentation-blog-de6ac8e0c917)   
+* [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 4 – Daniel Kuroski](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-4-700a4269e368)   
+* [Nuxt.js (v2), Firestore & SSR 🔥 – Pascal Luther](https://medium.com/@pascalluther/nuxt-js-v2-firestore-ssr-938d8fb7d2b0)   
+* [Building A Real-Time Chat Application With Vue.js and Firebase - Part 1 - Sebastian Eschweiler](https://codingthesmartway.com/building-a-real-time-chat-application-with-vue-js-and-firebase-part-1/)   
+* [Vue as Event Bus — Life is Happier – Eko Simanjuntak](https://medium.com/easyread/vue-as-event-bus-life-is-happier-7a04fe5231e1)   
+* [GitHub - chrisvfritz/hello-vue-components](https://github.com/chrisvfritz/hello-vue-components)   
+* [GitHub - chrisvfritz/vue-monolith-example](https://github.com/chrisvfritz/vue-monolith-example)   
+* [GitHub - shenoy/vue-scrollama](https://github.com/shenoy/vue-scrollama)   
 
 十一月上半月-十一月都城居暖阁(11.01~11.15):
 
