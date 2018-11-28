@@ -57,6 +57,20 @@ vuefe：https://vuefe.cn
 
 十一月下半月-十一月都城居暖阁(11.16~11.30):
 
+* [Vue2.0组件的继承与扩展](https://segmentfault.com/a/1190000017110701)  
+* [Cookbook：优化 Vue 组件的运行时性能](https://juejin.im/post/5bf7ca2f6fb9a049a9795a88)  
+* [vue-cli在webpack的配置文件探究](https://segmentfault.com/a/1190000017123704)  
+* [electron + vue项目实现打印小票功能](https://juejin.im/post/5bf8b580e51d4522143b7b03)  
+* [当spring boot 遇到 vue-admin, 搭建完美后台](https://segmentfault.com/a/1190000017131555)  
+* [songEagle开发系列:Vue + Vuex + Koa 中使用JWT认证](https://segmentfault.com/a/1190000017131758)  
+* [vue下实现input实现图片上传，压缩，拼接以及旋转](https://segmentfault.com/a/1190000017129732)  
+* [10分钟快速精通rollup.js——Vue.js源码打包原理深度分析](https://juejin.im/post/5bf822c2f265da61307486c7)  
+* [深入了解最新的Vue Devtools v5.0](https://segmentfault.com/a/1190000017126996)  
+* [NPM生态报告，React和Vue的差距居然这么大？](https://juejin.im/post/5bfa5a4ce51d451cf6158b38)  
+* [深入Vue.js从源码开始(二)](https://segmentfault.com/a/1190000017132896)  
+* [VUE CONF大会之后的感想(非技术)](https://juejin.im/post/5bf972b86fb9a049a9795e57)  
+* [vuex 渐进式教程（一）](https://juejin.im/post/5bf7c4375188254b9d0935c9)  
+* [Vue中的methods、watch、computed](https://segmentfault.com/a/1190000017136576)
 * [Vue一个案例引发的动态组件与全局事件绑定总结](https://juejin.im/post/5be77819f265da616a472e16)  
 * [双十一，打包半价理解Vue的nextTick与watcher以及Dep的蓝色生死恋？](https://juejin.im/post/5be692936fb9a049e129b741)  
 * [Vue SSR（ Vue2 + Koa2 + Webpack4）配置指南](https://juejin.im/post/5be85c7af265da612909b436)  
