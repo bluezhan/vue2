@@ -10,11 +10,11 @@
 消化掉、为我所用  
 消化掉、为我所用  
 
-::: 网站地址：[《Vue 2.x 的无人之境》](http://bluezhan.me/Vue2.0/#/)      
+::: 网站地址：[《Vue 2.x 的无人之境》](http://bluezhan.com/Vue2.0/#/)      
 
 ----------------
 
 “每个热爱生活的人，都值得被温柔以待”    
 
-[@bluezhan](http://bluezhan.me)  2017  
+[@bluezhan](http://bluezhan.com)  2018  
 
