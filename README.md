@@ -57,6 +57,17 @@ vuefe：https://vuefe.cn
 
 十一月下半月-十一月都城居暖阁(11.16~11.30):
 
+* [两分钟让你知道，前端开发是用Vue.js还是Angular](http://developer.51cto.com/art/201811/587568.htm)  
+* [Vue中用props给data赋初始值遇到的问题](https://segmentfault.com/a/1190000017149162)  
+* [[Vue2.0]手撸手淘H5购物车组件](https://juejin.im/post/5bf914b2f265da612e284e3e)  
+* [vue响应式原理学习（一）](https://juejin.im/post/5bfa1b4ef265da61327efb8b)  
+* [原有 Vue 项目接入 TypeScript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)  
+* [Vue一次性简洁明了引入所有公共组件](https://segmentfault.com/a/1190000017159449)  
+* [Vue触发式全局组件构建](https://segmentfault.com/a/1190000017162784)  
+* [你可能需要的一本前端小册：Vue 项目构建与开发入门](https://zhuanlan.zhihu.com/p/50849157)  
+* [为什么Proxy可以优化vue的数据监听机制](https://juejin.im/post/5bfe3360518825653a231f33)  
+* [月下载量千万的 npm 包被黑客篡改，Vue 开发者可能正在遭受攻击](https://mp.weixin.qq.com/s?__biz=MzI0NTAyNjE0NQ==&mid=2675577923&idx=1&sn=32facd46e8588bda7f20e03a3ab90b60&chksm=f3da684dc4ade15b07d6a5096b5ca75b12f4ca239f1f2465e8c80291f362ba63de107872acf3&mpshare=1&scene=1&srcid=1127hYdfmHIEC1AYSETwJCJr&from=groupmessage&ascene=1&devicetype=android-26&version=26070333&nettype=3gnet&abtest_cookie=BAABAAoACwANABQABAAllx4AWJkeAIqZHgCZmR4AAAA=&lang=zh_CN&pass_ticket=HtjuScJkSJBwhY+DWi1iBkM2FRwhYI11nbeOmLqYRNY=&wx_header=1)  
+* [基于vue-cli理解render函数](https://juejin.im/post/5bfcf70f51882512e76c64fb) 
 * [Vue2.0组件的继承与扩展](https://segmentfault.com/a/1190000017110701)  
 * [Cookbook：优化 Vue 组件的运行时性能](https://juejin.im/post/5bf7ca2f6fb9a049a9795a88)  
 * [vue-cli在webpack的配置文件探究](https://segmentfault.com/a/1190000017123704)  
