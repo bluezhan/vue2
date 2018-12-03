@@ -51,6 +51,9 @@ vuefe：https://vuefe.cn
 
 尤大大的PPT我已经上传了`../PPT/Vue.js the Progressive Framework.pdf`
 
+最新2018 VueConf资讯：   
+(第二届VueConf将于2018年11月24日在杭州举行)    
+
 ![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
 
 ### *`十二月`： 大雪、冬至，寒冬腊月之月* 
