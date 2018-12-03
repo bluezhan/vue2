@@ -54,6 +54,10 @@ vuefe：https://vuefe.cn
 最新2018 VueConf资讯：   
 (第二届VueConf将于2018年11月24日在杭州举行)    
 
+[::资料::](https://mp.sohu.com/profile?xpt=ZmVxdWFuY29tQHNvaHUuY29t)
+
+其它的待加中...  
+
 ![](https://github.com/itemsets/vue2/raw/master/blog/2018.jpg)
 
 ### *`十二月`： 大雪、冬至，寒冬腊月之月* 
