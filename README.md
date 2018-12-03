@@ -70,9 +70,25 @@ __北风行__
 不忍见此物，焚之已成灰。  
 黄河捧土尚可塞，北风雨雪恨难裁。  
 
-* []()  
-* []()  
-* []()  
+
+* [你可能需要的一本前端小册：Vue 项目构建与开发入门](https://juejin.im/book/5a36661851882538e2259c0f?referrer=5bbc95486fb9a05d3c8014a7)  
+* [为什么Proxy可以优化vue的数据监听机制](https://juejin.im/post/5bfe3360518825653a231f33)  
+* [月下载量千万的 npm 包被黑客篡改，Vue 开发者可能正在遭受攻击](https://mp.weixin.qq.com/s?__biz=MzI0NTAyNjE0NQ==&mid=2675577923&idx=1&sn=32facd46e8588bda7f20e03a3ab90b60&chksm=f3da684dc4ade15b07d6a5096b5ca75b12f4ca239f1f2465e8c80291f362ba63de107872acf3&mpshare=1&scene=1&srcid=1127hYdfmHIEC1AYSETwJCJr&from=groupmessage&ascene=1&devicetype=android-26&version=26070333&nettype=3gnet&abtest_cookie=BAABAAoACwANABQABAAllx4AWJkeAIqZHgCZmR4AAAA=&lang=zh_CN&pass_ticket=HtjuScJkSJBwhY+DWi1iBkM2FRwhYI11nbeOmLqYRNY=&wx_header=1)  
+* [基于vue-cli理解render函数](https://juejin.im/post/5bfcf70f51882512e76c64fb)   
+* [Vue.js的复用组件开发流程](https://segmentfault.com/a/1190000017188189)  
+* [Proxy实现vue MVVM实践](https://juejin.im/post/5bffb361e51d451d4c1d3bb1)  
+* [Vue调试神器之Vue.js devTools](https://segmentfault.com/a/1190000017195452)  
+* [Vue一个案例引发「动画」的使用总结](http://www.cnblogs.com/beevesnoodles/p/10026738.html)  
+* [Vue.js 3.0发布更新计划](https://segmentfault.com/a/1190000017187508)  
+* [基于Vue组件化的日期联动选择器](https://juejin.im/post/5bfe7bfe6fb9a049f570d8c0)  
+* [mpvue 单文件页面配置](https://segmentfault.com/a/1190000017219219)  
+* [VueConf 杭州 PPT](https://vue.w3ctech.com/#schedule)  
+* [深入浅出Vue使用中的小技巧](http://developer.51cto.com/art/201811/587970.htm)  
+* [手把手教你使用 VuePress 搭建个人博客](https://segmentfault.com/a/1190000017207205)  
+* [利用Vue原理实现一个mini版的MVVM框架](https://zhuanlan.zhihu.com/p/51184264)  
+* [Vue.js 图标选择组件实践](http://www.tuicool.com/articles/hit/zIFBJr7)  
+* [逐行粒度的vuex源码分析](https://segmentfault.com/a/1190000017219468)  
+* [Vue一个案例引发「内容分发slot」的最全总结](http://www.cnblogs.com/beevesnoodles/p/10050501.html)   
 ...
 
 
