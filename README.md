@@ -54,7 +54,8 @@ vuefe：https://vuefe.cn
 最新2018 VueConf资讯：   
 (第二届VueConf将于2018年11月24日在杭州举行)    
 
-[::资料::](https://mp.sohu.com/profile?xpt=ZmVxdWFuY29tQHNvaHUuY29t)
+[::资料::](https://mp.sohu.com/profile?xpt=ZmVxdWFuY29tQHNvaHUuY29t)  
+[::PPT::](https://vue.w3ctech.com/#schedule)  
 
 其它的待加中...  
 
