@@ -78,7 +78,16 @@ __北风行__
 不忍见此物，焚之已成灰。  
 黄河捧土尚可塞，北风雨雪恨难裁。  
 
-
+* [浏览器事件循环机制与Vue nextTick的实现](https://juejin.im/post/5c022f676fb9a049c9656a4d)  
+* [Vue 源码(一)：响应式原理](https://juejin.im/post/5c03a7446fb9a049e65ffe99)  
+* [用 vue + d3 画一棵树](https://juejin.im/post/5c039491e51d4529db2aa26e)  
+* [为什么我会选择 React + Next.js，而不是 Vue 或 Angular？](https://mp.weixin.qq.com/s/5CGkm9EM8slDKK53rA6N0g)  
+* [使用Golang的Gin框架和vue编写web应用](https://studygolang.com/articles/16617)  
+* [Vue项目中使用better-scroll实现一个轮播图](https://juejin.im/post/5c04abfde51d452209013eb7)  
+* [小白带你学习Vuex](http://dopro.io/learn-vuex.html)  
+* [从零实现Vue的Toast插件](https://juejin.im/post/5c036e4fe51d451b80257c45)  
+* [如何在vue项目中优雅的使用SVG](https://juejin.im/post/5c049a28f265da61273d2317)  
+* [记一次简单的vue组件单元测试](https://juejin.im/post/5c03b8dde51d45367543b508) 
 * [你可能需要的一本前端小册：Vue 项目构建与开发入门](https://juejin.im/book/5a36661851882538e2259c0f?referrer=5bbc95486fb9a05d3c8014a7)  
 * [为什么Proxy可以优化vue的数据监听机制](https://juejin.im/post/5bfe3360518825653a231f33)  
 * [月下载量千万的 npm 包被黑客篡改，Vue 开发者可能正在遭受攻击](https://mp.weixin.qq.com/s?__biz=MzI0NTAyNjE0NQ==&mid=2675577923&idx=1&sn=32facd46e8588bda7f20e03a3ab90b60&chksm=f3da684dc4ade15b07d6a5096b5ca75b12f4ca239f1f2465e8c80291f362ba63de107872acf3&mpshare=1&scene=1&srcid=1127hYdfmHIEC1AYSETwJCJr&from=groupmessage&ascene=1&devicetype=android-26&version=26070333&nettype=3gnet&abtest_cookie=BAABAAoACwANABQABAAllx4AWJkeAIqZHgCZmR4AAAA=&lang=zh_CN&pass_ticket=HtjuScJkSJBwhY+DWi1iBkM2FRwhYI11nbeOmLqYRNY=&wx_header=1)  
