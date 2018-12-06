@@ -78,6 +78,9 @@ __北风行__
 不忍见此物，焚之已成灰。  
 黄河捧土尚可塞，北风雨雪恨难裁。  
 
+* [vue中async-await的使用误区](https://juejin.im/post/5bfa4bb951882558ae3c171e)  
+* [快速利用 vue 或者 react 开发 chrome 插件](https://juejin.im/post/5c05fbf651882527796accdf)  
+* [Vue中的基础过渡动画原理解析](https://juejin.im/post/5c05debe51882516d725f53b)  
 * [浏览器事件循环机制与Vue nextTick的实现](https://juejin.im/post/5c022f676fb9a049c9656a4d)  
 * [Vue 源码(一)：响应式原理](https://juejin.im/post/5c03a7446fb9a049e65ffe99)  
 * [用 vue + d3 画一棵树](https://juejin.im/post/5c039491e51d4529db2aa26e)  
