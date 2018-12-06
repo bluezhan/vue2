@@ -106,7 +106,16 @@ __北风行__
 * [Vue.js 图标选择组件实践](http://www.tuicool.com/articles/hit/zIFBJr7)  
 * [逐行粒度的vuex源码分析](https://segmentfault.com/a/1190000017219468)  
 * [Vue一个案例引发「内容分发slot」的最全总结](http://www.cnblogs.com/beevesnoodles/p/10050501.html)   
-...
+* [State of Vue.js 2019 survey](https://stateofvuejs2019.typeform.com/to/m2nxN7)  
+* [7 VueConf Toronto Talks Now Live to Watch](https://www.vuemastery.com/conferences/vueconf-toronto-2018/)  
+* [Vue.JS Components for building Search UIs – All things](https://medium.appbase.io/vue-js-components-for-building-search-uis-7b2a1b6fe159)  
+* [Structuring a Vue project — Authentication – Boris Savic ](https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16)  
+* [Best Code Editor for Vue.js – Vue Mastery ](https://medium.com/vue-mastery/best-code-editor-for-vue-js-8b0d9cca6be)  
+* [My Favorite Vue.js & Nuxt.js packages for 2019 – Nada Rifki ](https://medium.com/@RifkiNada/my-favorite-vue-js-nuxt-js-packages-for-2019-639dbbfe699e)  
+* [Turn your Vue Web App into a PWA! – Bits and Pieces](https://blog.bitsrc.io/turn-your-vue-web-app-into-a-pwa-ca04d8bcdd64)  
+* [The State of Javascript 2018: The View on Vue](https://www.telerik.com/blogs/the-state-of-javascript-2018-the-view-on-vue)  
+* [Vue 2 + Firebase: How to add Firebase Social Sign In into your Vue application](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-add-firebase-social-sign-in-into-your-vue-application-21f341bbf1b)  
+
 
 
 ### *`十一月`： 立冬、小雪，初寒将腊之月* 
