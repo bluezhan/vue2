@@ -78,6 +78,7 @@ __北风行__
 不忍见此物，焚之已成灰。  
 黄河捧土尚可塞，北风雨雪恨难裁。  
 
+* [初探 Vue3.0 中的一大亮点——Proxy !](https://juejin.im/post/5bfcbab0518825741e7bd67f)  
 * [vue中async-await的使用误区](https://juejin.im/post/5bfa4bb951882558ae3c171e)  
 * [快速利用 vue 或者 react 开发 chrome 插件](https://juejin.im/post/5c05fbf651882527796accdf)  
 * [Vue中的基础过渡动画原理解析](https://juejin.im/post/5c05debe51882516d725f53b)  
@@ -109,6 +110,16 @@ __北风行__
 * [Vue.js 图标选择组件实践](http://www.tuicool.com/articles/hit/zIFBJr7)  
 * [逐行粒度的vuex源码分析](https://segmentfault.com/a/1190000017219468)  
 * [Vue一个案例引发「内容分发slot」的最全总结](http://www.cnblogs.com/beevesnoodles/p/10050501.html)   
+* [[Promoted] Get all products by Creative Tim including Vue premium dashboards 90% off](https://vuejsfeed.com/blog/promoted-get-all-products-by-creative-tim-including-vue-premium-dashboards-90-off)  
+* [Best resources to learn Vue.js in 2018](https://vuejsfeed.com/blog/best-resources-to-learn-vue-js-in-2018)  
+* [The Vue.js Conference in Amsterdam will have everything you hope for](https://vuejsfeed.com/blog/the-vue-js-conference-in-amsterdam-will-have-everything-you-hope-for)  
+* [Official Style Guide for Vue-specific code](https://vuejsfeed.com/blog/official-style-guide-for-vue-specific-code)  
+* [Laravel Nova Administration Panel with Vue.js](https://vuejsfeed.com/blog/laravel-nova-administration-panel-with-vue-js)  
+* [VuePress: What is it and Why it is a great tool to use](https://vuejsfeed.com/blog/vuepress-what-is-it-and-why-it-is-a-great-tool-to-use)  
+* [Vue.js Frameworks & Libraries to use in your next project](https://vuejsfeed.com/blog/vue-js-frameworks-libraries-to-use-in-your-next-project)  
+* [ Integrating content management into your Vue.js projects with Prismic](https://vuejsfeed.com/blog/integrating-content-management-into-your-vue-js-projects-with-prismic-cms)  
+* [Vue.js Amsterdam Recordings](https://vuejsfeed.com/blog/vue-js-amsterdam-recordings)  
+* [iView UI framework 2.4](https://vuejsfeed.com/blog/iview-ui-framework-2-4)  
 * [State of Vue.js 2019 survey](https://stateofvuejs2019.typeform.com/to/m2nxN7)  
 * [7 VueConf Toronto Talks Now Live to Watch](https://www.vuemastery.com/conferences/vueconf-toronto-2018/)  
 * [Vue.JS Components for building Search UIs – All things](https://medium.appbase.io/vue-js-components-for-building-search-uis-7b2a1b6fe159)  
@@ -118,7 +129,6 @@ __北风行__
 * [Turn your Vue Web App into a PWA! – Bits and Pieces](https://blog.bitsrc.io/turn-your-vue-web-app-into-a-pwa-ca04d8bcdd64)  
 * [The State of Javascript 2018: The View on Vue](https://www.telerik.com/blogs/the-state-of-javascript-2018-the-view-on-vue)  
 * [Vue 2 + Firebase: How to add Firebase Social Sign In into your Vue application](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-add-firebase-social-sign-in-into-your-vue-application-21f341bbf1b)  
-
 
 
 ### *`十一月`： 立冬、小雪，初寒将腊之月* 
