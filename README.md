@@ -78,6 +78,14 @@ __北风行__
 不忍见此物，焚之已成灰。  
 黄河捧土尚可塞，北风雨雪恨难裁。  
 
+* [尤雨溪：React 是不是比 Vue 牛，为什么？](https://www.zhihu.com/question/301860721/answer/545031906)  
+* [初探 Vue3.0 中的一大亮点——Proxy](https://juejin.im/post/5bfcbab0518825741e7bd67f)  
+* [vue中的computed的this指向问题](https://segmentfault.com/a/1190000017262022)  
+* [Vue 进阶系列（一）之响应式原理及实现](http://t.cn/ELYdIaf)   
+* [在Vue项目中加载krpano全景图](https://segmentfault.com/a/1190000017292935)  
+* [如何用vue封装一个防用户删除的平铺页面的水印组件](https://segmentfault.com/a/1190000017297876)    
+* [5个Vuex插件，让你下一个VueJS项目开发速度提升3倍](http://developer.51cto.com/art/201812/588381.htm)  
+* [Vue源码中为什么要const _toStr = Object.prototype.toString？](https://juejin.im/post/5c00ada45188254447582abb)  
 * [初探 Vue3.0 中的一大亮点——Proxy !](https://juejin.im/post/5bfcbab0518825741e7bd67f)  
 * [vue中async-await的使用误区](https://juejin.im/post/5bfa4bb951882558ae3c171e)  
 * [快速利用 vue 或者 react 开发 chrome 插件](https://juejin.im/post/5c05fbf651882527796accdf)  
