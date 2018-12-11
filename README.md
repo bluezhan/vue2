@@ -80,6 +80,13 @@ __北风行__
 
 * [尤雨溪：React 是不是比 Vue 牛，为什么？](https://www.zhihu.com/question/301860721/answer/545031906)  
 * [初探 Vue3.0 中的一大亮点——Proxy](https://juejin.im/post/5bfcbab0518825741e7bd67f)  
+* [vue权限路由实现方式总结二](http://www.cnblogs.com/jaycewu/p/10088847.html)  
+* [从零实现Vue的组件库（零）-基本结构以及构建工具](https://juejin.im/post/5c0b8ece5188254f9e2809fe)  
+* [Vue 2.0学习笔记：Vue的transition](https://www.w3cplus.com/vue/vue-transition.html)  
+* [推荐一个很好用的vscode插件：一个可以给出vuex中store定义信息的vscode插件](https://juejin.im/post/5c0d14d9518825793d15c5a8)  
+* [vue轻量高效的前端组件化方案以及MVC MVVM思想](https://juejin.im/post/5c0cf9b151882516207d234b)  
+* [vue的.vue文件是怎么run起来的(vue-loader)](http://www.cnblogs.com/yangyangxxb/p/10094180.html)  
+* [Vuex和Redux都参照了的Flux模式简单版实现](https://juejin.im/post/5c0bd0c7f265da614c4c9e39)  
 * [vue中的computed的this指向问题](https://segmentfault.com/a/1190000017262022)  
 * [Vue 进阶系列（一）之响应式原理及实现](http://t.cn/ELYdIaf)   
 * [在Vue项目中加载krpano全景图](https://segmentfault.com/a/1190000017292935)  
