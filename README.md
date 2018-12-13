@@ -77,7 +77,15 @@ __北风行__
 箭空在，人今战死不复回。  
 不忍见此物，焚之已成灰。  
 黄河捧土尚可塞，北风雨雪恨难裁。  
-
+ 
+* [加快Vue项目的开发速度](https://juejin.im/post/5c106485e51d450e657571a6)  
+* [2019年Vue学习路线图](https://juejin.im/entry/5c108864f265da61726555ed)  
+* [Vue 性能优化之深挖数组](https://juejin.im/post/5c0dec8be51d451dac076f76)  
+* [几种常见的Vue组件间的传参方式](https://juejin.im/post/5c112ae6f265da61682b3c7b)   
+* [前端错误收集（Vue.js、微信小程序）](https://juejin.im/post/5c0f19dff265da61461e0140)   
+* [vue3.0 尝鲜 -- 摒弃 Object.defineProperty，基于 Proxy 的观察者机制探索](https://juejin.im/post/5bf3e632e51d452baa5f7375)   
+* [说说在 Vue.js 中如何实现组件间通信（高级篇）](https://juejin.im/post/5c0cd21e6fb9a049e307ec96)   
+* [不吹不黑比对下React与Vue的差异与优劣](https://juejin.im/post/5c0a92f2e51d455b3d3dc181)   
 * [尤雨溪：React 是不是比 Vue 牛，为什么？](https://www.zhihu.com/question/301860721/answer/545031906)  
 * [初探 Vue3.0 中的一大亮点——Proxy](https://juejin.im/post/5bfcbab0518825741e7bd67f)  
 * [vue权限路由实现方式总结二](http://www.cnblogs.com/jaycewu/p/10088847.html)  
