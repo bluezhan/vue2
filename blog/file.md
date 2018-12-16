@@ -141,6 +141,7 @@ ssr
 ES6入门（一）
 ES6快速入门（二）
 ES6快速入门（三）
+ES6快速入门（四）
 
 http://www.cnblogs.com/Wayou/p/es6_new_features.html
 

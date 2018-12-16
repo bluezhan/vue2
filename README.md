@@ -63,6 +63,36 @@ vuefe：https://vuefe.cn
 
 ### *`十二月`： 大雪、冬至，寒冬腊月之月* 
 
+十二月下半月-寒冬十二月，晨起践严霜。(12.16~12.31):
+
+__忆长安十二月__
+[唐] 鲍防   
+忆长安，腊月时，温泉彩仗新移。瑞气遥迎凤辇，
+日光先暖龙池。取酒虾蟆陵下，家家守岁传卮。
+
+* [vue路由动画](https://juejin.im/post/5c0db79a5188256dd7744914)  
+* [Vue项目结构介绍](http://www.uml.org.cn/AJAX/201812103.asp)  
+* [Vue.js子组件向父组件通信](https://juejin.im/post/5c0dc7be6fb9a04a0d56adf3)  
+* [Vue SPA 项目，浏览器和 nginx 反向代理缓存问题解决实方案](https://juejin.im/post/5c09cbb1f265da617006ee83)  
+* [vue2.0自定义指令与实例的属性和方法](https://segmentfault.com/a/1190000017316386)  
+* [vue2.0 兼容ie9及其以上](https://segmentfault.com/a/1190000017323584)  
+* [vue-cli2.0转3.0之项目搭建](https://segmentfault.com/a/1190000017323457)  
+* [Vue学习路线图](https://zhuanlan.zhihu.com/p/52156724)  
+* [vue-admin 详细注释，必须手把手做项目系列之（一）](https://juejin.im/post/5c0e450ee51d4504bc5e4038)  
+* [vue-cli webpack配置cdn路径 以及 上线之后的字体文件跨域处理](https://segmentfault.com/a/1190000017333733)  
+* [使用Capacitor 和 Vue.js 构建移动应用](https://juejin.im/post/5c0f0a9e518825428c5704d8)  
+* [Vue源码学习（二）——从宏观看Vue](https://segmentfault.com/a/1190000017334826)  
+* [canvas+websocket+vue做一个完整的你画我猜小游戏](https://juejin.im/post/5c0f29aee51d45105b3ba716)  
+* [2019 年 Vue 学习路线图](http://t.cn/EU5jjrH)  
+* [vue全家桶制作一个精致的美团项目](https://segmentfault.com/a/1190000017343993)  
+* [几种常见的Vue组件间的传参方式](https://juejin.im/post/5c112ae6f265da61682b3c7b)  
+* [weex-vue-render代码浅析](http://zjutkz.net/2018/12/12/weex-vue-render%E4%BB%A3%E7%A0%81%E6%B5%85%E6%9E%90/)  
+* [加快Vue项目的开发速度](https://segmentfault.com/a/1190000017344429)  
+* [WTF! Vue数组splice方法无法正常工作](https://segmentfault.com/a/1190000017356114)  
+* [Vue+Electron桌面应用程序](http://www.uml.org.cn/ajax/201812131.asp)  
+* [vue 组件间传值](https://segmentfault.com/a/1190000017362027)  
+* [浅入了解 vue cli3.0 生成了什么东西](https://juejin.im/post/5c11fdc4e51d4523484c5203)  
+
 十二月上半月-幽州思妇十二月，停歌罢笑双蛾摧。(12.01~12.15):
 
 __北风行__   
