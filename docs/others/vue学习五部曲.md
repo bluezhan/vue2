@@ -15,3 +15,9 @@ es6(TS)
 
 附加
   - vscode
+
+
+## 参考库 
+
+
+Awesome Vue.js vue.js学习资源链接大全 中文
