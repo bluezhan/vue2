@@ -20,13 +20,13 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.5.x 是目前最新版本(2017.10~2018.05)  
+版本 v2.5.x 是目前最新版本(2017.10~2018.05~2019.01)  
 
 ## Vue2+周报
 
 > **不积跬步，无以至千里；不积小流，无以成江海**
 
-### 丁酉年 【鸡年】/戊戌年【狗年】
+### 丁酉年【鸡年】/戊戌年【狗年】/己亥年【猪年】
 
 [:bikini: 对【Vue相关开源项目库汇总】的Star更新排名](https://github.com/vue3/awesome-github-vue-latest)
 
