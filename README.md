@@ -20,7 +20,7 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.5.x 是目前最新版本(2017.10~2018.05~2019.01)  
+版本 v2.5.x 是目前最新版本(2017.10~2019.01)  
 
 ## Vue2+周报
 
@@ -62,6 +62,58 @@ vuefe：https://vuefe.cn
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
 
 ### *`一月`： 一年之计在于春，一月是一年的开始* 
+
+一月下半月-岂敢定居，一月三捷。(01.16~01.31):
+
+__寄徐丞__  
+[宋] 赵师秀  
+病不窥园经一月，更无人迹损青苔。  
+池禽引子衡鱼去，野蔓开花上竹来。  
+亦欲鬓毛休似雪，争如丹汞只为灰。  
+秋风昨夜吹寒雨，有梦南游到海回。   
+
+* [vue 源码学习(二) 实例初始化和挂载过程](https://juejin.im/post/5c34bc0ef265da61380f671f)  
+* [使用NodeJS 生成Vue中文版 docSet 离线文档](https://juejin.im/post/5c34a8fb6fb9a049f23cef68)  
+* [手牵手教你写 Vue 插件](https://juejin.im/post/5c374977518825260c5cf1de)  
+* [Vue项目部署遇到的问题及解决方案](https://segmentfault.com/a/1190000017844405)  
+* [预计今年发布的 Vue 3.0 到底有什么不一样的地方？](https://mp.weixin.qq.com/s/Mcxudad5BlZVMjoL1Bt2xQ)  
+* [记一次 Vue 单页面上线方案的优化](https://xuexb.com/post/vue-online-cdn.html)  
+* [vue-cli3使用svg问题的简单解决办法](https://segmentfault.com/a/1190000017869942)  
+* [从react转职到vue开发的项目准备](https://segmentfault.com/a/1190000017872474)  
+* [基于 Vue-Cli3 构建的脚手架模版](https://www.jeffjade.com/2019/01/13/146-awesome-vue-cli3-example/)  
+* [新手福音用vue-cli3从0到1做一个完整功能手机站（一）](https://segmentfault.com/a/1190000017892165)  
+* [vue-cli3 从搭建到优化](https://juejin.im/post/5c3c544c6fb9a049d37f5903)  
+* [Spring Security (三）:与Vue.js整合](https://juejin.im/post/5c3c5c2ff265da6112053a88)  
+* [电商网站项目总结：Vuex 带来全新的编程体验](https://juejin.im/post/5c3c911ce51d455231347a7a)  
+* [结合vue-cli来谈webpack打包优化](https://juejin.im/post/5c3c55aa51882524b4073394)  
+* [vue开发环境配置跨域，一步到位](https://segmentfault.com/a/1190000017905030)  
+* [Vue新手向：14篇教程带你从零撸一个Todo应用](https://juejin.im/post/5c3e9f946fb9a049f06a85ff)  
+* [Vue2.0 核心之响应式流程](https://segmentfault.com/a/1190000017916500)  
+* [基于Vue的任务节点图绘制插件（vue-task-node）](https://segmentfault.com/a/1190000017926238)  
+* [Vue 实践小结](https://juejin.im/post/5c40251b518825254c31aa2d)  
+* [vue项目接口管理](https://segmentfault.com/a/1190000017925880)  
+* [【vue-cli3升级】老项目提速50%（二）](https://juejin.im/post/5c403bcaf265da61587765c9)  
+* [Vuex 是什么，为什么需要](https://juejin.im/post/5c4141106fb9a04a09565473)  
+* [【收藏】2019年最新Vue相关精品开源项目库汇总](https://segmentfault.com/a/1190000017953835)  
+* [创建vue-cli框架项目](https://segmentfault.com/a/1190000017953807)  
+* [VuePress博客搭建笔记（二）个性化配置](https://segmentfault.com/a/1190000017953711)  
+* [RFCs for substantial changes / feature additions to Vue core 3.0](https://github.com/vuejs/rfcs)  
+* [February 14-15 - Vue.js Amsterdam](https://www.vuejs.amsterdam/)  
+* [March 25-27 - VueConf US in Tampa, FL](http://vueconf.us)  
+* [April 12th, VueDay 2019, Verona, Italy – Call for papers until 1st February](2019.vueday.it)  
+* [Incoming workshop: Proven patterns for building Vue apps by Chris Fritz](https://ti.to/webzurich/vue-chris-fritz/discount/VUEMASTERYROCKS)  
+* [10 Best Tips for Learning Vue from Vue Masters](https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e)  
+* [Improve performance on large lists in Vue](https://vuedose.tips/tips/1/)  
+* [Build a Beautiful Website with VuePress and Tailwind.css](https://dev.to/vuevixens/build-a-beautiful-website-with-vuepress-and-tailwindcss--3a03)  
+* [Selectively enable SSR or SPA mode in a Nuxt.js app](https://blog.lichter.io/posts/selectively-enable-ssr-or-spa-mode-in-a-nuxtjs-ap/)  
+* [Give Users Control Over App Updates in Vue CLI 3 PWAs](https://medium.com/@dougallrich/give-users-control-over-app-updates-in-vue-cli-3-pwas-20453aedc1f2)  
+* [When to “componentize” from the point of Vue](https://medium.com/@naidooshailen648/when-to-componentize-from-the-point-of-vue-e433eb06b11a)  
+* [Vue Route Component Hooks](https://itnext.io/vue-custom-route-hooks-3f50cc30bb87)  
+* [Watch for Vuex State changes!](https://dev.to/viniciuskneves/watch-for-vuex-state-changes-2mgj)  
+* [GitHub - egoist/styled-vue](https://github.com/egoist/styled-vue)  
+* [GitHub - Justineo/vue-clamp](https://github.com/Justineo/vue-clamp)  
+* [GitHub - edisdev/vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui)  
+
 
 一月上半月-新春犹一月，已觉日微长。(01.01~01.15):
 
