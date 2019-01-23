@@ -6,9 +6,7 @@
   "directories": {
     "doc": "docs"
   },
-  "dependencies": {
-    "judge_arr": "^1.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
