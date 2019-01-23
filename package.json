@@ -1,0 +1,26 @@
+{
+  "name": "vue2",
+  "version": "1.0.0",
+  "description": ":art:  集web前端最近很火的vue2框架资源；定时更新，欢迎 Star 一下。",
+  "main": "lib/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "judge_arr": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bluezhan@github.com/itemsets/vue2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itemsets/vue2/issues"
+  },
+  "homepage": "https://github.com/itemsets/vue2#readme"
+}
