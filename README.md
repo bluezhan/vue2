@@ -72,6 +72,16 @@ __寄徐丞__
 亦欲鬓毛休似雪，争如丹汞只为灰。  
 秋风昨夜吹寒雨，有梦南游到海回。   
 
+* [【收藏】2019年最新Vue相关精品开源项目库汇总](https://segmentfault.com/a/1190000017953835)  
+* [创建vue-cli框架项目](https://segmentfault.com/a/1190000017953807)  
+* [VuePress博客搭建笔记（二）个性化配置](https://segmentfault.com/a/1190000017953711)  
+* [【前端笔记】Vuex快速使用](https://juejin.im/post/5c4541b16fb9a049a712203b)  
+* [vue -on如何绑定多个事件](https://segmentfault.com/a/1190000017971282)  
+* [基于vue的验证码组件](https://segmentfault.com/a/1190000017968369)  
+* [Vue自定义Toast插件](https://segmentfault.com/a/1190000017965665)  
+* [Vue添加数据视图不更新问题](https://juejin.im/post/5c46dd43e51d4567680e3bcd)  
+* [聊一聊Vue组件模版，你知道它有几种定义方式吗？](https://juejin.im/post/5c46e3fae51d45518e14d565)  
+* [深入学习Vue SSR服务端渲染 用Nuxt.js打造CNode社区](https://juejin.im/post/5c45f13f6fb9a049e12a86fb)  
 * [vue 源码学习(二) 实例初始化和挂载过程](https://juejin.im/post/5c34bc0ef265da61380f671f)  
 * [使用NodeJS 生成Vue中文版 docSet 离线文档](https://juejin.im/post/5c34a8fb6fb9a049f23cef68)  
 * [手牵手教你写 Vue 插件](https://juejin.im/post/5c374977518825260c5cf1de)  
