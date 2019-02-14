@@ -20,7 +20,8 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
-版本 v2.5.x 是目前最新版本(2017.10~2019.01)  
+版本 v2.6.x 是目前最新版本(2019.01~2019.02)    
+版本 v2.5.x 是保持了很久的版本(2017.10~2019.01)  
 
 ## Vue2+周报
 
@@ -60,6 +61,45 @@ vuefe：https://vuefe.cn
 其它的待加中...  
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
+
+### *`二月`： 二月里来好春光, 家家户户种田忙* 
+
+二月上半月-不知细叶谁裁出，二月春风似剪刀。(02.01~02.15):
+
+__浣溪沙__  
+[宋] 晏几道  
+二月春花厌落梅，仙源归路碧桃催，  
+渭城丝雨劝离杯。欢意似云真薄幸，  
+客鞭摇柳正多才，凤楼人待锦书来。  
+
+* [手牵手，我们一起搭建VuePress博客](https://segmentfault.com/a/1190000018071668)  
+* [从 4 个方面优化你的 Vue 项目](http://t.cn/Et0NJcr)  
+* [Vue和React组件之间的传值方式](https://segmentfault.com/a/1190000018070852)  
+* [Vue经典开源项目汇总](https://segmentfault.com/a/1190000018078880)  
+* [手把手实现图片懒加载+封装vue懒加载组件](https://juejin.im/post/5c52ee216fb9a049ee80e283)  
+* [Vue-Cli3多页面配置与编译时构建优化](https://juejin.im/post/5c52e12af265da2d8b6313b2)  
+* [Vue 源码解读-数据响应系统](https://sunmengyuan.github.io/garden/2019/02/01/vue-observer.html?page=1)  
+* [vue入门（一）：项目搭建](https://segmentfault.com/a/1190000018099703)  
+* [根据调试工具看Vue源码之生命周期（一）](https://segmentfault.com/a/1190000018099900)  
+* [Nginx + Node + Vue 部署初试](https://segmentfault.com/a/1190000018099632)  
+* [vue入门（一）：项目搭建](https://segmentfault.com/a/1190000018099703)  
+* [利用Dectorator分模块存储Vuex状态](https://juejin.im/post/5c5400dbf265da2dc972d079)  
+* [Vue.js 2.6尝鲜](https://juejin.im/post/5c598b276fb9a049b780d03c)  
+* [使用vue全家桶搭建的vue小说阅读器，已部署到服务器可预览](https://segmentfault.com/a/1190000018102876)  
+* [vue全家桶项目教程vue小说项目器vue移动端项目，已部署到服务器可访问预览](https://segmentfault.com/a/1190000018103601)  
+* [从零实现Vue的组件库（十四）- RadioGroup 实现](https://juejin.im/post/5c58d62ee51d457fc440edb7)  
+* [Vue初体验之Element的使用](https://juejin.im/post/5c5a4d5de51d4501521d2a5c)  
+* [Vue.js  —  注意事项和技巧](https://juejin.im/post/5c5c28cf518825627d37060a)  
+* [Vue 2.6 尝鲜](https://mp.weixin.qq.com/s/wQdc2fcqUMZV6SR7kSPELQ)  
+* [复杂Vue组件的异步流程分析](https://juejin.im/post/5c59aa0951882562ea721630)  
+* [Vue 源码中一些util函数](https://juejin.im/post/5c601f32f265da2ddf786491)  
+* [Vue 中组件使用中的细节点](https://segmentfault.com/a/1190000018120316)  
+* [Vue 3.0 对 Web 开发意味着什么？](https://juejin.im/post/5c5ae5b4e51d4501377b5bdf)  
+* [Vue源码探究-类初始化函数详情](https://juejin.im/post/5c622266f265da2dea0507d2)  
+* [Vue   动画的封装](https://segmentfault.com/a/1190000018130259)  
+* [用150行代码实现Vuex 80%的功能](https://juejin.im/post/5c62ea95e51d457ffe60c084)  
+
+
 
 ### *`一月`： 一年之计在于春，一月是一年的开始* 
 
