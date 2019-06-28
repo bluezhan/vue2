@@ -58,7 +58,11 @@ vuefe：https://vuefe.cn
 [::资料::](https://mp.sohu.com/profile?xpt=ZmVxdWFuY29tQHNvaHUuY29t)  
 [::PPT::](https://vue.w3ctech.com/#schedule)  
 
-其它的待加中...  
+第三届Vue.js开发者大会由Vue.js官方举办，将于2019年06月08日在上海正式开启。
+
+Chrome DevTools 有约 90 万的周活用户，React 相比有 160 万。Evan 推荐用 Chrome DevTools 来预测 Vue 的项目的真实开发者数据。Vue 有全球化的影响力，在非常多的国家有相应的活动，可以通过 events.vuejs.org 查找。State of Java 2018 年统计说明在前端框架的满意度是第一名（91%），并在 Stack Overflow 的数据里体现是第二受欢迎的前端框架。
+
+自 2018 年年底有过预告 Vue.js 3.0 的设定目标，其实在今年年初的时候大部分功能已经实现。但同时，在开发的同是也在研究业界最新的方案，Vue 在 3.0 使用了 Proxy 的功能，但是 IE 11 仍然无法支持却有一定市场占有率。
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
 
