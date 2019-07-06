@@ -66,6 +66,88 @@ Chrome DevTools 有约 90 万的周活用户，React 相比有 160 万。Evan �
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
 
+### *`七月`： 不在山，不在岸，采我之时七月半。！* 
+
+七月-银潢七月秋浪高，黄昏欲渡未成桥。。(07.01~至今):  
+
+__王子乔__  
+[唐] 宋之问  
+王子乔，爱神仙，七月七日上宾天。白虎摇瑟凤吹笙，  
+乘骑云气吸日精。吸日精，长不归，遗庙今在而人非。  
+空望山头草，草露湿人衣。  
+
+* [我们一起写一个Vue的Loading插件吧](https://juejin.im/post/5d15ba136fb9a07ef161961c)  
+* [大白话理解和初步使用vue-router](https://juejin.im/post/5d15dc575188255d71255558)  
+* [vue使用总结](https://segmentfault.com/a/1190000019617926)  
+* [Vue nextTick 变迁史](https://juejin.im/post/5d131139e51d454d1d62854d)  
+* [vuex中的四大金刚](https://juejin.im/post/5d16dfa7e51d4555fd20a37f)  
+* [提前使用Vue 3.0新特性，vue-function-api尝鲜](https://juejin.im/post/5d1705e65188255ca21e607e)  
+* [使用vue中的混入mixin优化表单验证插件](https://juejin.im/post/5d197869f265da1b740213e6)  
+* [一张图教你快速玩转vue-cli3](https://juejin.im/post/5d1782eaf265da1ba91592fc)  
+* [学习vue源码—mvvm](https://juejin.im/post/5d181bafe51d457753138219)  
+* [vue-router 源代码全流程分析「长文」](https://juejin.im/post/5d0de4f7f265da1ba84a9985)  
+* [探索Angular,React,Vue的趋势比较](https://juejin.im/post/5d17740df265da1bcd37ed45)  
+* [深入理解vue响应式原理](http://developer.51cto.com/art/201907/598835.htm)  
+* [你不知道的Vue.nextTick源码系列](https://juejin.im/post/5d1770715188255d5957fdb1)  
+* [Vue手把手带你撸项目系列之动态面包屑](https://juejin.im/post/5d195986e51d4555fc1accf1)  
+* [为vue3学点typescript(1), 体验typescript](https://segmentfault.com/a/1190000019631849)  
+* [使用 Typescript 加强 Vuex 使用体验](https://juejin.im/post/5d19afdfe51d4577790c1cda)  
+* [前端规范之vue 项目规范](https://juejin.im/post/5d19dd8be51d457755550935)  
+* [大白话理解和初步使用vuex](https://juejin.im/post/5d19dfe251882579dd60d4f9)  
+* [Vue 面试知识点总结](https://segmentfault.com/a/1190000019633325)  
+* [Vue 项目功能实现：刷新当前页面](https://segmentfault.com/a/1190000019635080)  
+* [精读《Vue3.0 Function API》](https://segmentfault.com/a/1190000019625934)  
+* [Vue入门学习之技术分享-2(深入理解Vue组件)](https://juejin.im/post/5d19f1e2f265da1b7004c15c)  
+* [为vue3学点typescript, 基础类型和入门高级类型](https://segmentfault.com/a/1190000019641913)  
+* [vuex了解一下？](https://juejin.im/post/5d19e84ef265da1b8a4f3583)  
+* [Vue 面试知识点总结（二）【持续更新中～】](https://segmentfault.com/a/1190000019646763)  
+* [【一文学会】vue.js入门到放弃](http://www.androidchina.net/10007.html)  
+* [从源码解读Vue生命周期，让面试官对你刮目相看](https://juejin.im/post/5d1b464a51882579d824af5b)  
+* [Vue入门学习之技术分享-3(Vue中的动画特效）](https://juejin.im/post/5d1b4e32e51d457753138225)  
+* [Vue中jsx不完全应用指南](https://segmentfault.com/a/1190000019659205)  
+* [vue打包后vendor.js文件过大解决方案](https://juejin.im/post/5d1c39b65188257cbb476f44)  
+* [带你了解vue计算属性的实现原理以及vuex的实现原理](https://juejin.im/post/5d1c5308f265da1bb56513f3)  
+* [记录一次vue练习的填坑记录](https://juejin.im/post/5d1c6e5051882518fd491328)  
+* [Why You Should Start Front-End by Learning Vue.js](https://vuejsfeed.com/blog/why-you-should-start-front-end-by-learning-vue-js)  
+* [ Integrating content management into your Vue.js projects with Prismic](https://vuejsfeed.com/blog/integrating-content-management-into-your-vue-js-projects-with-prismic-cms)  
+* [Vue.js Amsterdam Recordings](https://vuejsfeed.com/blog/vue-js-amsterdam-recordings)  
+* [iView UI framework 2.4](https://vuejsfeed.com/blog/iview-ui-framework-2-4)  
+* [[Promoted] Get all products by Creative Tim including Vue premium dashboards 90% off](https://vuejsfeed.com/blog/promoted-get-all-products-by-creative-tim-including-vue-premium-dashboards-90-off)  
+* [Best resources to learn Vue.js in 2018](https://vuejsfeed.com/blog/best-resources-to-learn-vue-js-in-2018)  
+* [The Vue.js Conference in Amsterdam will have everything you hope for](https://vuejsfeed.com/blog/the-vue-js-conference-in-amsterdam-will-have-everything-you-hope-for)  
+* [Laravel Nova Administration Panel with Vue.js](https://vuejsfeed.com/blog/laravel-nova-administration-panel-with-vue-js)  
+* [VuePress: What is it and Why it is a great tool to use](https://vuejsfeed.com/blog/vuepress-what-is-it-and-why-it-is-a-great-tool-to-use)  
+* [Vue.js Frameworks & Libraries to use in your next project](https://vuejsfeed.com/blog/vue-js-frameworks-libraries-to-use-in-your-next-project)  
+* [VueCamp: Vue.js Barcamp Berlin](https://vuecamp.de/)  
+* [Amendment proposal to Function-based Component API · Issue #63 · vuejs/rfcs ](https://github.com/vuejs/rfcs/issues/63)  
+* [Why every Vue developer should be excited by Quasar 1.0 – Razvan Stoenescu](https://medium.com/quasar-framework/quasar-1-0-4bc696d60c1b)  
+* [Vue's Darkest Day – Daniel Elkington](https://dev.to/danielelkington/vue-s-darkest-day-3fgh)  
+* [What does the Vue function API feel like - Abdelrahman Awad](https://logaretm.com/blog/what-the-vue-function-api-feel-like/)  
+* [3 Key Insights from Vue’s new functional API RFC – Kevin Ball](https://zendev.com/2019/06/25/key-insights-from-vue-functional-rfc.html)  
+* [Vue without View - An Introduction to Renderless Components – Jason Yu ](https://dev.to/ycmjason/vue-without-view-an-introduction-to-renderless-components-23ld)  
+* [How to use cookies in VuePress - Dan Vega](https://www.danvega.dev/blog/2019/06/13/vuepress-cookies/)  
+* [In Vue, When Do I Actually Need the :key Attribute and Why? — Marina Mosti](https://www.telerik.com/blogs/in-vue-when-do-i-actually-need-the-key-attribute-and-why)  
+* [What is VueFront? - VueFront](https://medium.com/@vuefront/what-is-vuefront-b41783a02a0c)  
+* [Vue.js functional components: what, why, and when? – Austin G](https://stegosource.com/vue-js-functional-components-what-why-and-when/)  
+* [Migrating from Vuetify to Quasar - Stanislav Valasek](https://medium.com/quasar-framework/migrating-from-vuetify-to-quasar-bcc1fe85763d)  
+* [10 Things You Should Know Before Writing Your Next Vuejs Component - Edithson Abelard ](https://medium.com/@eabelard/10-things-you-should-know-before-writing-your-next-vuejs-component-4f97964611f4)  
+* [GitHub - jamesdruhan/vue-jd-table](https://github.com/jamesdruhan/vue-jd-table)  
+* [How To Upgrade Your VuePress Site To v1.0 - Florimond Manca](https://dev.to/florimondmanca/how-to-upgrade-your-vuepress-site-to-v1-0-4lgi)  
+* [Use Fragments to Avoid Obsolete GraphQL Fields in Vue.js Applications – Markus Oberlehner](https://markus.oberlehner.net/blog/use-fragments-to-avoid-obsolete-graphql-fields-in-vue-applications/)  
+* [Reading Image Sizes and Dimensions with Vue.js – Raymond Camden](https://www.raymondcamden.com/2019/06/13/reading-image-sizes-and-dimensions-with-vuejs)  
+* [From JSX to Vue: my favorite templating tips – briwa ](https://dev.to/briwa/from-jsx-to-vue-my-favorite-templating-tips-3eeo)  
+* [A beginner-friendly guide to unit testing the Vue.js application – Vladislav Bulyukhin](https://medium.com/techfides/a-beginner-friendly-guide-to-unit-testing-the-vue-js-application-28fc049d0c78)  
+* [tiptap – a renderless rich-text editor for Vue.js ](https://tiptap.scrumpy.io/)  
+* [VueFront](https://vuefront.com/)  
+* [VuePress 1.x Released! – ULIVZ](https://medium.com/@_ulivz/intro-to-vuepress-1-x-7e2b7885f95f)  
+* [NuxtJS: From Terminal to Browser -  Sébastien Chopin](https://dev.to/nuxt/nuxtjs-from-terminal-to-browser-35bc)  
+* [Triggering events from Vue Router views -  Dan Vega](https://dev.to/therealdanvega/triggering-events-from-vue-router-views-5f48)  
+* [Build An Intersection Observer Directive In Vue - Alex Regan](https://dev.to/alexsasharegan/build-an-intersection-observer-directive-in-vue-ljh)  
+* [Build Decoupled Vue.js Applications with Hooks - Markus Oberlehner](https://markus.oberlehner.net/blog/build-decoupled-vue-applications-with-hooks/)  
+* [How to Build a Group Chat App with Vue.js - Oscar Castro](https://dev.to/pubnub/how-to-build-a-group-chat-app-with-vue-js-5d2g)  
+* [GitHub - kai-oswald/vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition)  
+* [GitHub - wokes/Laravel-Vue-SPA-template](https://github.com/wokes/Laravel-Vue-SPA-template)  
+
 ### *`六月`： 六月盘底算，轻舟起！* 
 
 六月-六月竹风寒，来处余香飘坐。(06.01~06.30):
