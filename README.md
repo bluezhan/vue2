@@ -66,9 +66,71 @@ Chrome DevTools 有约 90 万的周活用户，React 相比有 160 万。Evan �
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
 
+### *`八月`： 歌吹千秋节，楼台八月凉。！* 
+
+八月-八月秋高风怒号，卷我屋上三重茅。(08.01~至今):  
+
+__渔家傲·八月秋高风历乱__  
+[宋] 欧阳修  
+八月秋高风历乱。衰兰败芷红莲岸。  
+皓月十分光正满。清光畔。年年常愿琼筵看。  
+社近愁看归去燕。江天空阔云容漫。  
+宋玉当时情不浅。成幽怨。乡关千里危肠断。   
+
+* [vue项目中引入iconfont](https://juejin.im/post/5d25bca351882557d44c8a85)  
+* [vue webpack重写cookie路径](https://www.ddhigh.com/2019/07/08/vue-webpack-rewrite-cookie-path.html)  
+* [面向未来编程，如何在 Vue2 中使用 Vue3 的语法[实践篇]](https://juejin.im/post/5d25b6dde51d45775c73dd70)  
+* [vue中8种组件通信方式, 值得收藏](https://juejin.im/post/5d267dcdf265da1b957081a3)  
+* [vue项目实现缓存的最佳方案](https://juejin.im/post/5d22f0f3f265da1b94216d0b)  
+* [使用vue for时为什么要key](https://juejin.im/post/5d26e0335188252e5514a843)  
+* [Vue项目减肥之旅（前端项目体积精简的几种方法）](https://juejin.im/post/5d26ecb0e51d4510aa011591)  
+* [Vue.js函数式组件，什么是函数式组件？为什么要用？什么时候用？](https://juejin.im/post/5d25dd42e51d4577790c1d24)  
+* [（六） Vue-CLI and Leaflet: 线 绘制](https://juejin.im/post/5d272c596fb9a07ef161adfc)  
+* [使用 SVG 和 Vue.Js 构建动态树图](https://juejin.im/post/5d2806fb518825121c0058d8)  
+* [介绍 Vue 中的 Suspense](https://zhuanlan.zhihu.com/p/73393409)  
+* [在Vue中使用WebSocket+HighCharts+Canvas实现高性能的频谱瀑布图](https://juejin.im/post/5d2859af51882557d44c8f0f)  
+* [vue2.x使用beforeRouteEnter路由钩子进行鉴权](https://juejin.im/post/5d2806396fb9a07eb55f88fc)  
+* [Vue实战-菜单栏，商品展示数据交互（8）](https://segmentfault.com/a/1190000019752721)  
+* [Vue快速学习_第二节](https://www.cnblogs.com/leixiaobai/p/11182630.html)  
+* [Vue全栈开发之百度贴吧](https://juejin.im/post/5d24993b5188251c692a0de2)  
+* [vuex 源代码简析](https://juejin.im/post/5d26df3fe51d454fbe24a714)  
+* [vue-draggable-resizable 可拖拽缩放的组件](https://juejin.im/post/5d28791af265da1bc94f1a89)  
+* [【step by step】使用 Vue 封装一个表单校验](https://juejin.im/post/5d28787e6fb9a07f06559a64)  
+* [使用vue.js的动态组件模板](https://segmentfault.com/a/1190000019763034)  
+* [位运算在vue权限路由中的应用](https://juejin.im/post/5d297e4ce51d454f7230259d)  
+* [理清 Vue 中的钩子函数](https://juejin.im/post/5d288a865188256345323f96)  
+* [基于webpack4的VUE多页脚手架](https://segmentfault.com/a/1190000019760397)  
+* [使用 vue-router 在 Vue 页面之间传递数据](https://juejin.im/post/5d2b201be51d455d6c0ad9c2)  
+* [Vue.nextTick使用和源码分析](https://segmentfault.com/a/1190000019770773)  
+* [vue 多项目配置](https://juejin.im/post/5d1eeec751882579d824b4c5)  
+* [Vue CLI and Leaflet （7） 面绘制](https://juejin.im/post/5d2b2f136fb9a07ec7554a78)  
+* [如何用钩子解耦 Vue.js 应用](https://juejin.im/post/5d2c05916fb9a07f050a9923)  
+* [Vue 响应式原理简易 MVVM 三步走第一步 (数据劫持）](https://juejin.im/post/5d2d6bad6fb9a07ef710a683)  
+* [记录一次优雅的管理Vue全局组件自动注册和插件自动引入](https://segmentfault.com/a/1190000019773184)  
+* [Vue 的 computed、watch 的实现](https://juejin.im/post/5d2d9429f265da1b672140c8)  
+* [Vue项目实现简单的权限控制](https://segmentfault.com/a/1190000019781024)  
+* [vue仿小米商城-我知道的都在这里了](https://juejin.im/post/5d2ec7bbf265da1ba43222ab)  
+* [给大家分享一个vue的移动端的事件项目](https://juejin.im/post/5d2eeabf518825187f297851)  
+* [vue仿饿了么写的一个简单的form组件](https://juejin.im/post/5d2eb18d51882569b34df167)  
+* [学习 Spring Boot（十）：集成 Vue 实现前后端分离](http://muziyuchen.com/spring-boot-10/)  
+* [Vue CLI3 插件系统原理](https://juejin.im/post/5d301bd0e51d4510a37bacaa)  
+* [学习 Vue（一）：Vue CLI](http://muziyuchen.com/vue-1/)  
+* [Vue单页项目SEO完全指南](https://juejin.im/post/5d2d64f36fb9a07eba2c6f65)  
+* [【VueSSR系列二】clientManifest与bundle的处理流程解读](https://juejin.im/post/5d318208e51d4550a629b335)  
+* [vue-cli3.0项目中使用vw——相比flexible更原生的移动端解决方案](https://segmentfault.com/a/1190000019812737)  
+* [React Vue 解决火狐下禁用输入框无法复制](https://juejin.im/post/5d2dc9b0f265da1ba328f8e9)  
+* [我们一起学习 Vue 中的 slot 吧](https://juejin.im/post/5d329701e51d45109b01b25b)  
+* [这是一个很干净的后台 (yii2 + vue的权限管理rabc)](https://segmentfault.com/a/1190000019821124)  
+* [基于Canvas+Vue的弹幕组件](https://juejin.im/post/5d32ef685188251b4b32b348)  
+* [写给后端同学的vue](https://segmentfault.com/a/1190000019826119)  
+* [手把手让你像使用vuex一样测试vuex](https://juejin.im/post/5d3462426fb9a07eaa22b867)  
+* [Vue中对iframe实现keep alive（无刷新）](https://juejin.im/post/5d358926e51d4556be5b3b26)  
+* [Vue项目webpack打包优化实践总结](https://juejin.im/post/5d3580e0e51d45776031b0ab)  
+* [如何利用 Vuetify 快速构建具有吸引力的交互式前端？](https://www.infoq.cn/article/0k8kxrte4ej_jvoWpWVN)  
+
 ### *`七月`： 不在山，不在岸，采我之时七月半。！* 
 
-七月-银潢七月秋浪高，黄昏欲渡未成桥。。(07.01~至今):  
+七月-银潢七月秋浪高，黄昏欲渡未成桥。。(07.01~07.31):  
 
 __王子乔__  
 [唐] 宋之问  
