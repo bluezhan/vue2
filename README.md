@@ -77,6 +77,48 @@ __渔家傲·八月秋高风历乱__
 社近愁看归去燕。江天空阔云容漫。  
 宋玉当时情不浅。成幽怨。乡关千里危肠断。   
 
+前方来报，八月最新资讯：
+
+* [Vue2.5+迁移至Typescript指南](https://segmentfault.com/a/1190000019935700)  
+* [Vue2.0源码阅读笔记（五）：模板编译](https://juejin.im/post/5d4135336fb9a06b160f094d)  
+* [从理解源码开始学习Vuex（二）](https://juejin.im/post/5d414c6a6fb9a06aca37fae2)  
+* [为vue3学点typescript, 解读高级类型](https://segmentfault.com/a/1190000019925865)  
+* [面试必备的13道可以举一反三的Vue面试题](https://juejin.im/post/5d41eec26fb9a06ae439d29f)  
+* [Vue中mixin和extend的区别和使用场景](https://juejin.im/post/5d4175a76fb9a06ae17d5589)  
+* [0 到 1 掌握：Vue 核心之数据双向绑定](https://juejin.im/post/5d421bcf6fb9a06af23853f1)  
+* [从零开始，采用Vue的思想，开发一个自己的JS框架（二）：首次渲染](https://juejin.im/post/5d419241f265da03e61aee26)  
+* [Vue源码之响应式原理](https://juejin.im/post/5d43bb3c51882558824e4432)  
+* [vscode扩展之根据Vue模板自动生成Scss结构](https://juejin.im/post/5d4396856fb9a06b2442fcf9)  
+* [新手写的Vue源码学习记录(渲染过程)](https://segmentfault.com/a/1190000019952825)  
+* [vuecli3开发环境下sourcemap在浏览器上查看源代码的问题](https://segmentfault.com/a/1190000019953317)  
+* [开源 | OverVue：适用于 Vue 的原型工具](https://mp.weixin.qq.com/s/ci6963Z748Tj24Xy3zBeTg)  
+* [Bit 支持 Angular 并发布公开测试版，对 Vue 的支持也即将面世](https://www.infoq.cn/article/dPT*Q9sYEPAUmwh5Gej4)  
+* [vue+vscode断点调试详解](https://juejin.im/post/5d450bfaf265da039e129ef6)  
+* [vue跨域方案指北](https://juejin.im/post/5d453068f265da03eb13ac47)  
+* [基于 vue-skeleton-webpack-plugin 的骨架屏实战](https://juejin.im/post/5d457bad5188255d8249c7f4)  
+* [详解Vue服务端渲染](https://segmentfault.com/a/1190000019964933)  
+* [Vue2.x全家桶的基础知识点整理](https://juejin.im/post/5d341c23e51d4556db694abf)  
+* [vue在混合开发中应用的思考](https://juejin.im/post/5d46b7cfe51d4561b84c00d3)  
+* [从零开始，采用Vue的思想，开发一个自己的JS框架（三）：update和diff](https://juejin.im/post/5d46b9795188255d6f4fb23b)  
+* [webpack4从零搭建vue项目](https://flura.cn/2019/08/05/webpack4%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BAvue%E9%A1%B9%E7%9B%AE/)  
+* [vue中的nextTick](https://juejin.im/post/5d0336c9e51d455ca0436235)  
+* [vue生成canvas海报图](https://segmentfault.com/a/1190000019975772)  
+* [Vue.js 在复杂信息流场景下的最佳实践](https://zhuanlan.zhihu.com/p/76754101)  
+* [vue项目中使用百度地图(vue-baidu-map)](https://segmentfault.com/a/1190000019982269)  
+* [vue移动端项目中使用fastclick及遇上的issue](https://segmentfault.com/a/1190000020010168)  
+* [Vue.js 在复杂信息流场景下的实践](https://www.infoq.cn/article/6tJy_6ovzbpEySuLITku)  
+* [Vuestic Admin：免费与美妙 Vue.js 管理模板](https://github.com/epicmaxco/vuestic-admin/blob/master/README.zh-CN.md)  
+* [【源码解析】vue-create-api作者黄轶](https://juejin.im/post/5d4cb305e51d45620064bb0d)  
+* [Vue社区的路由解决方案：vue-stack-router](https://juejin.im/post/5d4ce4fd6fb9a06acd450e8c)  
+* [vue源码解析：nextTick](https://juejin.im/post/5d4d64016fb9a06ade10ff82)  
+* [从零开始，采用Vue的思想，开发一个自己的JS框架（四）：组件化和路由组件](https://juejin.im/post/5d4cd048f265da03b76b0e14)  
+* [Vue的运作原理——浅析MVVM及Virtual DOM](https://juejin.im/post/5d4d6f0bf265da03c502fe25)  
+* [干货 ——preact、react实现vue的transition组件](http://www.divpc.cn/post/detail/118)  
+* [vue.config.js 配置项](https://segmentfault.com/a/1190000020029252)  
+* [巨树：基于 ztree 封装的 Vue 树形组件，轻松实现海量数据的高性能渲染](https://github.com/tower1229/Vue-Giant-Tree)  
+
+---
+
 * [vuepress使用中遇到的问题](http://www.zhuyuntao.cn/2019/07/23/vuepress%E4%BD%BF%E7%94%A8%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/)  
 * [IE11下处理Promise以及复习Vue的单项数据流](https://juejin.im/post/5d370fa6f265da1bcb4f6d62)  
 * [「Vue进阶」一篇文章，教你学会Vue-CLI 插件开发](https://mp.weixin.qq.com/s?__biz=MzI1NDU3NzM5Mg==&mid=2247483811&idx=3&sn=a862d09279d78519d10a4615dd63c0bb)  
