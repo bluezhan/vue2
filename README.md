@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/vuefe-better-ff69b4.svg">
 </p>
 
-# 集 Vue2+ 开发生态圈 
+# 集 Vue.js 开发生态圈 
 
-## Vue2+
+## Vue.js
 
 **Vue.js**（读音 /vjuː/，类似于 view）
 
@@ -23,7 +23,7 @@ vuefe：https://vuefe.cn
 版本 v2.6.x 是目前最新版本(2019.01-至今)    
 版本 v2.5.x 是保持了很久的版本(2017.10-2019.01)  
 
-## Vue2+周报
+## Vue.js周报
 
 > **不积跬步，无以至千里；不积小流，无以成江海**
 
