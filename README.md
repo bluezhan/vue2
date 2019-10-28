@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/vuefe-better-ff69b4.svg">
 </p>
 
-# 集 Vue.js 开发生态圈 
+# 集 Vue.js 开发生态圈资讯 
 
 ## Vue.js
 
@@ -20,6 +20,7 @@
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
 
+版本 vue-next(3.0) 目前还处于 Pre-Alpha 版本    
 版本 v2.6.x 是目前最新版本(2019.01-至今)    
 版本 v2.5.x 是保持了很久的版本(2017.10-2019.01)  
 
@@ -64,6 +65,11 @@ Chrome DevTools 有约 90 万的周活用户，React 相比有 160 万。Evan �
 
 自 2018 年年底有过预告 Vue.js 3.0 的设定目标，其实在今年年初的时候大部分功能已经实现。但同时，在开发的同是也在研究业界最新的方案，Vue 在 3.0 使用了 Proxy 的功能，但是 IE 11 仍然无法支持却有一定市场占有率。
 
+当大多数国人还在庆祝国庆节的时候，尤雨溪大大在昨天凌晨发布了 Vue 3.0 源代码，源码地址：https://github.com/vuejs/vue-next 。虽然目前还 处于 Pre-Alpha 版本，但是可以预见后面的 Alpha、Beta 等版本应该不会太遥远。  
+之前，就有预言，除了性能优化、脚手架和新功能外，TypeScript绝对是一个重点，因此，在Vue 3.0源代码版本中，98%代码由Typescript编写，相信后面会是100%。  
+通过本次发布的源代码可以了解到针对 Vue 3 计划并已实现的主要架构改进和新功能。  
+Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://github.com/vuejs/composition-api  （在 Vue 2 项目中作为插件使用）体验到。
+
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
 
 ### *`十月初-至今`： 十月江南风信早，梅枝早閟先春。* 
@@ -100,6 +106,101 @@ __渔家傲·十月小春梅蕊绽__
 * [Vue 3 原理剖析：数据响应系统](https://juejin.im/post/5d996e3e6fb9a04e3043cc5b)  
 * [Vue3.x源码调试](https://juejin.im/post/5d99d9a0f265da5b8601264c)  
 * [Vue3.0 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)  
+* [30分钟 小白级入手vue教程](https://juejin.im/post/5da32c39e51d45783f5aa4f8)  
+* [Vue3.0 响应式系统完全讲解(逐行)](https://juejin.im/post/5da2f98c6fb9a04e127152f1)  
+* [TypeScript基础以及在Vue中的应用](https://segmentfault.com/a/1190000020670074)  
+* [为什么Vue3.0使用Proxy实现数据监听？defineProperty表示不背这个锅](https://juejin.im/post/5da29a87518825094e37301c)  
+* [Vue之MVVM原理详解](https://juejin.im/post/5da3089c6fb9a04e0855b959)  
+* [基于vue-cli的webpack打包优化实践及探索](https://segmentfault.com/a/1190000020672528)  
+* [Vue Class与Style绑定](https://juejin.im/post/5da1990b51882518fa5a3877)  
+* [用Vue.js和Pusher创建实时聊天应用](https://juejin.im/post/5da1e4b56fb9a04ddf2c400e)  
+* [彻底搞懂Vue中keep-alive的魔法(下)](https://juejin.im/post/5da42574f265da5b991d6173)  
+* [Vue躬行记（2）——指令](https://www.cnblogs.com/strick/p/11298122.html)  
+* [深入Vue系列 next-tick原理和源码解析](https://juejin.im/post/5da423c0f265da5b926bd168)  
+* [Vue 3 响应式系统源码解析（单测篇）](https://zhuanlan.zhihu.com/p/85678790)  
+* [浏览器中如何断点调试Vue3 源码](https://juejin.im/post/5da442bb6fb9a04de42f76cf)  
+* [Vue2.0源码阅读笔记（七）：组件](https://juejin.im/post/5da42eb16fb9a04dfd267369)  
+* [Vue 关于移动端的那些事情（一）](https://juejin.im/post/5da5474af265da5b905ef62a)  
+* [VUE入门实践（1）](https://juejin.im/post/5da52661f265da5b6006f0fa)  
+* [vue-cli+v-charts实现可视化图表](https://juejin.im/post/5da58d72e51d4524b55e49b1)  
+* [Vue.set实际上是什么？](https://juejin.im/post/5da5d085e51d45252a3df166)  
+* [简析vue 3 的数据响应系统](https://juejin.im/post/5da2e6ad518825200b2d4d59)  
+* [Vue之vuex源码分析](http://www.wclimb.site/2019/10/14/Vue%E4%B9%8Bvuex%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)  
+* [vue小白教程（三）](https://juejin.im/post/5da5cc3451882567af5f885a)  
+* [代理模式Proxy 和 Vue3数据响应系统](https://juejin.im/post/5da43211518825646c50f315)  
+* [vue小白入手（二），对你多多少少会有一点帮助的](https://juejin.im/post/5da47be7f265da5bb977d213)  
+* [vue中的v-if和v-show的区别](https://juejin.im/post/5da58ce2e51d4524c3744c5f)  
+* [Vue3.0简单认识](https://juejin.im/post/5da6bd585188250ca55549c0)  
+* [一文轻松搞懂Vuex](https://juejin.im/post/5da6760f5188254796426cbc)  
+* [Vue中JSX的基本用法,以及如何使用JSX二次封装Element UI的Table组件](https://juejin.im/post/5da5e63451882508876f4f25)  
+* [vuex + keep-alive实现tab标签页面缓存](https://juejin.im/post/5d9da25e51882576e440937f)  
+* [适合前端Vue开发童鞋的跨平台Weex](https://segmentfault.com/a/1190000020704685)  
+* [Vue-cli3项目引入Typescript](https://juejin.im/post/5da6e5c1f265da5b8c03c58f)  
+* [Vue源码浅析之响应式系统（二）](https://juejin.im/post/5da70a156fb9a04dfa097794)  
+* [Vue 中 filters，computed， methods， watch 的总结](https://segmentfault.com/a/1190000020724502)  
+* [【源码解析】创建Vue实例时干了什么？](https://juejin.im/post/5da7d8006fb9a04e247c9ac3)  
+* [React VS Vue：2020年选哪个更好？](https://segmentfault.com/a/1190000020722329)  
+* [Electron + Vue + Vscode构建跨平台应用（五）Electron-Vue项目源码分析](https://juejin.im/post/5da8292ef265da5b6a16a79c)  
+* [Electron + Vue + Vscode构建跨平台应用（四）利用Electron-Vue构建Vue应用详解](https://juejin.im/post/5da828faf265da5b9e0d4e44)  
+* [Electron + Vue + Vscode构建跨平台应用（三）利用webpack搭建vue项目](https://juejin.im/post/5da828c0f265da5bba418703)  
+* [Electron + Vue + Vscode构建跨平台应用（一）知识点补充](https://juejin.im/post/5da82836f265da5b9d1f01a9)  
+* [【源码导读 】在new Vue()之前，Vue是什么样子的？](https://juejin.im/post/5da6b19a6fb9a04e223332b7)  
+* [Vue3数据驱动源码解读](https://juejin.im/post/5da9049c518825502a445a53)  
+* [【源码分析】Vue的响应数据](https://juejin.im/post/5da910cb6fb9a04e320a67f6)  
+* [从一个简单的 list 组件搞懂 Vue 插槽](https://juejin.im/post/5da72b3fe51d4524cf450f8e)  
+* [从零实现支持洋葱模型中间件的 vuex](https://juejin.im/post/5da894f3518825119c47c0ed)  
+* [前端面试题全面整理-带解析 涵盖（css、js、浏览器、vue、react、移动web、前端性能、算法、node）](https://segmentfault.com/a/1190000020738115)  
+* [vue+webpack 更换主题N种方案优劣分析](https://juejin.im/post/5da9c8c1e51d4525292d3191)  
+* [React VS Vue：2020 年应该选哪个？](https://mp.weixin.qq.com/s/ynIZyDl9jWEgBwwJrC0tKQ)  
+* [基于 requirejs、vue全家桶、ant design 实现的 antd-vue-pro(模仿版)](https://juejin.im/post/5daaa440518825579a1f9947)  
+* [vue.js 多种打包场景的配置](https://juejin.im/post/5da95b97f265da5bb065eb78)  
+* [vue 2.x内部运行机制系列文章](https://juejin.im/post/5d9078395188251662293920)  
+* [VueJS函数式API提案（Composition API RFC）的翻译](https://juejin.im/post/5da96bc0e51d4524c3744e74)  
+* [vue 2.x内部运行机制系列文章-template模板编译原理](https://juejin.im/post/5d91d5f76fb9a04e252c806c)  
+* [vue-cli3.x 配置vux](https://juejin.im/post/5daae60be51d4524e57f6991)  
+* [vue 2.x内部运行机制系列文章-内部运行机制总览](https://juejin.im/post/5d90871851882509924b5662)  
+* [看vue3源码可以学到什么 : 一 、README](https://juejin.im/post/5dab12996fb9a04e247c9e8a)  
+* [如何实现一个通过js调用使用的消息提示组件（Vue）](https://juejin.im/post/5daad1dee51d4526cc281091)  
+* [你为什么看不懂源码之Vue 3.0 囊中取物](https://juejin.im/post/5daa195de51d4524a131b359)  
+* [30 道 Vue 前端面试题，内含详细讲解，助你前端vue学习凸凸凸](https://juejin.im/post/5daa6adbf265da5b576befc8)  
+* [分析 Vue 的观察者模式（中）](https://juejin.im/post/5da9ace8518825282b711e3d)  
+* [VueJs 最佳实践✓](https://juejin.im/post/5daa70096fb9a04dd95e8fc4)  
+* [一款基于vue和golang gin框架的私活快速搭建模板](https://segmentfault.com/a/1190000020744421)  
+* [分析 Vue 的观察者模式（上）](https://juejin.im/post/5da9abe56fb9a04dea5df6df)  
+* [vue-cli3.0 创建项目流程](https://juejin.im/post/5da991316fb9a04e1b57f89a)  
+* [从WebPack 4.X 到 Vue-Cli 3.X 一篇就够](https://juejin.im/post/5dab320851882565f7660c5e)  
+* [前端Vue知识小白](https://www.cnblogs.com/mnxz99/p/11708133.html)  
+* [从vue2.0响应数据到vue3.0响应数据](https://juejin.im/post/5dac69bf5188252b51183982)  
+* [当vue页面路径一样 参数不同时 有可能页面不会跳转刷新](https://segmentfault.com/a/1190000020745233)  
+* [Vue 3.0 源码逐行解析（一）：响应式模块（1）](https://juejin.im/post/5da91fcff265da5b852928e1)  
+* [vue-cli基础配置以及webpack配置修改](https://juejin.im/post/5dabc789e51d4524a34aef9e)  
+* [vue-router 路由管理](https://juejin.im/post/5dab12095188255814058394)  
+* [vue 2.x内部运行机制系列文章-虚拟DOM](https://juejin.im/post/5da6fcb6f265da5b794f2828)  
+* [基于vue.js 和node构建的个人博客项目（前后端分离）](https://segmentfault.com/a/1190000020745455)  
+* [vue实现一个简单的吸顶、锚点和滚动高亮按钮效果](https://juejin.im/post/5da469c55188250ca55545ff)  
+* [前端框架用vue还是react？小孩子才做选择题](https://juejin.im/post/5dad09be518825393e52d1bd)  
+* [webpack之vue使用详解](https://juejin.im/post/5d065104e51d454fd8057b82)  
+* [Vue组件库搭建实践与探索](https://segmentfault.com/a/1190000020754678)  
+* [Vue项目中使用Axios封装http请求](https://www.helloweba.net/javascript/617.html)  
+* [VUE框架：基础知识及核心原理](https://juejin.im/post/5daf2b925188256b6c3866ef)  
+* [vue-next/runtime-core 源码阅读指南](https://segmentfault.com/a/1190000020763462)  
+* [Vue.js 3.x 源码解析先导](https://juejin.im/post/5dafe42451882576534d3858)  
+* [vue 项目中踩过的坑](https://segmentfault.com/a/1190000020777910)  
+* [初识单文件vue组件](https://juejin.im/post/5daf19d36fb9a04e320a6e6b)  
+* [Vuex状态管理(state,mutation,action,getter完全分离)](https://juejin.im/post/5db0014cf265da5bba418f5d)  
+* [基于Spring Boot+Spring Security+JWT+Vue前后端分离的开源项目](https://segmentfault.com/a/1190000020784657)  
+* [Vue 3 Cheat Sheet 下载（中文版）](https://mp.weixin.qq.com/s/yExhLfBAivNbTbI5oX0h-A)  
+* [Vue脚手架使用介绍](https://juejin.im/post/5db06d716fb9a020815135e9)  
+* [Vue项目的热更新怎么辣么好用啊？原来200行代码就搞定（深度解析）](https://juejin.im/post/5db1130bf265da4d1518dc6c)  
+* [「干货」用 Vue + Echarts 打造你的专属可视化界面（上）](https://segmentfault.com/a/1190000020795710)  
+* [Vue 组件间通信 11 种方法汇总](https://segmentfault.com/a/1190000020796713)  
+* [vue3响应式源码解析-Effect篇](https://zhuanlan.zhihu.com/p/88385908)  
+* [vue导航守卫详解](https://segmentfault.com/a/1190000020799529)  
+* [Vue 组件通信 11 种解决方案](https://juejin.im/post/5db2a571e51d452a08462adc)  
+* [Vue源码简析之Watcher（下）](https://juejin.im/post/5db4048e518825647313af4d)  
+* [使用 Vue 脚手架搭建项目](https://chorer.github.io/2019/10/26/F-%E4%BD%BF%E7%94%A8Vue%E8%84%9A%E6%89%8B%E6%9E%B6%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE/)  
+* [vue+jsp+v-for+axios实现查询列表功能，无分页](https://segmentfault.com/a/1190000020804430)  
+* [Vue-Cli项目优化操作](https://juejin.im/post/5db258556fb9a020556da40b)  
 * [Vue 使用中需要注意回避的地方](https://zhuanlan.zhihu.com/p/85420187)  
 * [使用 Proxy 实现 Vue.js 3 中的响应式思想](https://juejin.im/post/5d9ae2415188256eee1639e3)  
 * [vue自动化路由](https://juejin.im/post/5d90798151882576e44088e8)  
