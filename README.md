@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/vuefe-better-ff69b4.svg">
 </p>
 
-# 集 Vue.js 开发生态圈资讯 
-
-## Vue.js
+## 集 Vue.js 开发生态圈资讯 
 
 **Vue.js**（读音 /vjuː/，类似于 view）
 
