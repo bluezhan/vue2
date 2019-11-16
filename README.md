@@ -1,6 +1,7 @@
 
-![](https://github.com/itemsets/vue2/raw/master/blog/new-logo.png)
-
+<p align="center">
+    <img src="https://github.com/itemsets/vue2/raw/master/blog/vue.js.hot.png">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/vue-2+-orange.svg">
