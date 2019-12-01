@@ -71,7 +71,60 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2019.jpg)
 
-### *`十一月初-至今`： 边城十一月，雨雪乱霏霏。元戎号令严，人马亦轻肥。* 
+### *`你好十二月`： 十二月北斗璇光射幽土，四气缘环若朝暮。* 
+
+__忆长安·十二月__  
+[唐]谢良辅  
+忆长安，腊月时，温泉彩仗新移。  
+瑞气遥迎凤辇，日光先暖龙池。  
+取酒虾蟆陵下，家家守岁传卮。    
+
+Hello, December, please be nice to me！  
+
+|  再见十一月 |  你好十二月  |
+|  ----  | ---- |
+|![](./blog/12-01.png)|![](./blog/12-02.jpeg)|
+
+* [Vue 防抖与节流の使用](https://juejin.im/post/5dccb36de51d45105d563105)  
+* [vuejs系列五-vue-router的使用（上）](https://juejin.im/post/5d94ad33e51d457806260ed8)  
+* [重温Vue响应式绑定原理](https://juejin.im/post/5dcca4eef265da796f3d9d03)  
+* [Vue 3.0 响应式方法解析](https://juejin.im/post/5dccf61a51882510cc093207)  
+* [技术驱动-自我学习 Vue.js 源码（一）](https://juejin.im/post/5dcc0e2be51d451055173f5e)  
+* [从 Object.defineProperty 到 Proxy 深入理解 Vue 3.0 响应系统](https://segmentfault.com/a/1190000021003414)  
+* [Vue面试经常会被问到的面试题](https://juejin.im/post/5dce0677e51d45083d30b7e7)  
+* [vuecli3中webpack配置相关](https://juejin.im/post/5dcd03eff265da0bb854b860)  
+* [Vue响应式数据原理2.0](https://juejin.im/post/5dce8143e51d453fa173d79d)  
+* [为Vuex添加同步Action](https://blog.ixk.me/add-sync-action-for-vuex.html)  
+* [从new Vue到Hello World(上)](https://juejin.im/post/5dce5be7e51d453fbf29dcf6)  
+* [Vue3.0响应式系统二三事](http://www.tuicool.com/articles/hit/RVruAbU)  
+* [Laravel + Vuejs + Tailwind CSS 构建一个 Todo App 第一部分](https://zhuanlan.zhihu.com/p/92326844)  
+* [vue封装element 中table组件](https://segmentfault.com/a/1190000021056542)  
+* [Vue.nextTick，了解一下？](https://juejin.im/post/5dd3a79cf265da0bd61f162c)  
+* [基于 Vue 的两层吸顶踩坑总结](https://segmentfault.com/a/1190000021056294)  
+* [Vue2.0源码阅读笔记（八）：slot](https://juejin.im/post/5dd3a2bd5188254e890b0549)  
+* [Vue CLI3搭建组件库并实现按需引入实战操作](https://juejin.im/post/5dd234635188254a1f44646a)  
+* [一个简单的Vue按钮级权限方案](https://juejin.im/post/5dd2a8d1518825499543c772)  
+* [前后端分离，我怎么就选择了 Spring Boot + Vue 技术栈？](https://segmentfault.com/a/1190000021062511)  
+* [学习 vuex 源码整体架构，打造属于自己的状态管理库](https://juejin.im/post/5dd4e61a6fb9a05a5c010af0)  
+* [浅谈Vue SSR中的Bundle](https://juejin.im/post/5dd4fc575188255d35425983)  
+* [给大家整理了几个开源免费的 Spring Boot + Vue 学习资料](https://segmentfault.com/a/1190000021061960)  
+* [通过 GASP 让 Vue 实现动态效果](https://zhuanlan.zhihu.com/p/93253752)  
+* [vue源码阅读二：虚拟 DOM 是如何生成的？（上）](https://juejin.im/post/5dda3d32f265da7de03eca68)  
+* [优雅地用Vue生成动态表单](https://juejin.im/post/5ddb82b1f265da7e243d0a72)  
+* [Vuex基本使用的总结–转载](https://www.maiyewang.com/2019/11/26/vuex%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E7%9A%84%E6%80%BB%E7%BB%93-%E8%BD%AC%E8%BD%BD/)  
+* [Vue中使用provide/inject实现页面reload的方法](https://www.leixuesong.com/3646)  
+* [Vue SSR与React SSR从0到1开始搭建](https://juejin.im/post/5dd7a6d351882573151169d8)  
+* [Vue 之keep-alive的使用，实现页面缓存](https://juejin.im/post/5ddcefaef265da06113c6fa9)  
+* [【前端开发】Vue+Typescript开发模式介绍](https://mp.weixin.qq.com/s?__biz=MzU4Mzg4MDU1MA==&mid=2247484622&idx=1&sn=a493f581bffa2d822cb610a04eac5602)  
+* [23 个 Vue.js 初级面试题](https://segmentfault.com/a/1190000021131028)  
+* [『 Vue小Case 』- Vue Prop中的 null vs undefined](https://juejin.im/post/5ddcf5f4e51d4532db416149)  
+* [Vue.directive 实现元素scroll逻辑复用](https://juejin.im/post/5dde87fcf265da05f264c1f4)  
+* [简单使用vue-cli](https://www.maiyewang.com/2019/11/28/%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8vue-cli/)  
+* [Vue2.0源码阅读笔记（九）：内置组件](https://juejin.im/post/5ddf9731e51d45254f52acfe)  
+* [浅谈Vue下的components模板](https://www.maiyewang.com/2019/11/28/%E6%B5%85%E8%B0%88vue%E4%B8%8B%E7%9A%84components%E6%A8%A1%E6%9D%BF-2/)  
+
+
+### *`十一月`： 边城十一月，雨雪乱霏霏。元戎号令严，人马亦轻肥。* 
 
 __渔家傲·十一月新阳排寿宴__  
 [宋] 欧阳修  
