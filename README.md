@@ -3,6 +3,7 @@
     <img src="https://github.com/itemsets/vue2/raw/master/blog/vue.js.hot.png">
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/2020-唯有暴富-red.svg">
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/vue-2+-orange.svg">
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
