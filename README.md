@@ -29,7 +29,7 @@ vuefe：https://vuefe.cn
 
 > **不积跬步，无以至千里；不积小流，无以成江海**
 
-### 丁酉年【鸡年】/戊戌年【狗年】/己亥年【猪年】
+### 丁酉年【鸡年】/戊戌年【狗年】/己亥年【猪年】/庚子年【鼠年】  
 
 [:bikini: 对【Vue相关开源项目库汇总】的Star更新排名](https://github.com/vue3/awesome-github-vue-latest)
 
@@ -86,6 +86,49 @@ __元日__
 
 Hello, 2020, please be nice to me！  
 
+* [Vue3 尝鲜](https://juejin.im/post/5e13ecbe6fb9a04846508ab2)  
+* [Vue v-model组件封装(类似弹窗组件)](https://juejin.im/post/5e13fe02f265da5d12564fb8)  
+* [electron+vue实现div contenteditable功能|截图](https://segmentfault.com/a/1190000021510872)  
+* [Vue2.0源码阅读笔记（十一）：自定义事件](https://juejin.im/post/5e159c14f265da5d5f41cbc7)  
+* [Vue 相关原理学习笔记](https://blog.callmewhy.com/post/vue-xiang-guan-yuan-li-xue-xi-bi-ji/)  
+* [vue的开发总结](https://juejin.im/post/5e12a6d86fb9a048246198df)  
+* [用jest对Vue组件单元测试](http://0313.name/archives/764)  
+* [vue-cli3携手rollup、github-actions打造自动部署的vue组件模板（使用篇）](https://segmentfault.com/a/1190000021519906)  
+* [Vue项目打包部署总结](https://segmentfault.com/a/1190000021530126)  
+* [【vue-进阶】什么？公司竟不让我提交代码(记一次 Vue2.0 项目配置 ESLint)](https://juejin.im/post/5e15af4ef265da5d12565241)  
+* [一看就会的vuex实现登录验证（附案例）](https://segmentfault.com/a/1190000021528160)  
+* [Vue.js 内部原理浅析](https://juejin.im/post/5e12fdc6f265da5d6e091ebb)  
+* [vuex Getters基本用法](https://segmentfault.com/a/1190000021532905)  
+* [Vue3体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)  
+* [【思否编程公开课】限时免费  迎接Vue 3.0](https://segmentfault.com/a/1190000021531553)  
+* [TypeScript基础看腻了？进阶实现智能类型推导的的简化版Vuex，手把手带你实现](https://juejin.im/post/5e1684b65188253a8c26468b)  
+* [vue移动端开发总结](https://juejin.im/post/5e0f01fd5188253a8511b9c0)  
+* [vue 下评论实现@ mention提及功能](https://juejin.im/post/5e17ed3cf265da3e4d5ba46c)  
+* [Electron+Vue 一路踩坑](https://juejin.im/post/5e15f213518825780828c4fb)  
+* [Vue3之 Composition API 对比Vue2.x用法](https://juejin.im/post/5e16e800f265da3e1824b72c)  
+* [vue离开当前路由时，若有未保存数据，提示用户是否离开？](https://juejin.im/post/5e17f516518825261546df7f)  
+* [仿照Vue实现模板与数据的绑定](https://juejin.im/post/5e17f2ff6fb9a02ff254a379)  
+* [如何实现Vue组件化](https://juejin.im/post/5e16d94a5188254c115b4831)  
+* [vue源码阅读（六）：diff 算法](https://juejin.im/post/5e056fce6fb9a016253c1d77)  
+* [简单实现一个vue-route](https://segmentfault.com/a/1190000021546995)  
+* [继续优化博客Vue+Webpack生成的Javascript文件体积](https://www.dongwm.com/post/optimize-javascript/)  
+* [从零到部署：用 Vue 和 Express 实现迷你全栈电商应用（四）](https://juejin.im/post/5e1967cd6fb9a02fbc4ac6e6)  
+* [Vue.js的高级面试题以及答案](https://juejin.im/post/5e1473e46fb9a0481759e3d6)  
+* [vue从零搭建一个前中后台权限管理模板](https://segmentfault.com/a/1190000021558727)  
+* [记录优化 Vue 应用的首次加载速度](https://ryanc.cc/archives/vue-dist-jsdelivr-cdn)  
+* [Vue响应式原理解析（附超详细源码注释和原理解析）](https://juejin.im/post/5e0dd467e51d45410f1232f5)  
+* [vuex 知识点梳理](https://juejin.im/post/5e16cd0de51d451eb11d0928)  
+* [Vue多页面优化踩坑记录](https://juejin.im/post/5e1301cb6fb9a048011b5036)  
+* [带你了解 vue-next（Vue 3.0）之 炉火纯青](https://juejin.im/post/5e1d28d1f265da3e4412b052)  
+* [核心版vue-router, 仅仅只需80行代码](https://juejin.im/post/5e1c7f496fb9a02ffc375b33)  
+* [TS下基于Vue Composition API的表单组件化实践](https://juejin.im/post/5e1c47806fb9a0300c54d040)  
+* [VUE：如何把slot从父组件传到子组件](https://juejin.im/post/5e1c802de51d451c5219339a)  
+* [Vue 3.0实践：使用Vue 3.0做JSX(TSX)风格的组件开发](https://github.com/hujiulong/blog/issues/11)  
+* [带你了解 vue-next（Vue 3.0）之 小试牛刀](https://juejin.im/post/5e1d28b96fb9a02fbf37a7cc)  
+* [带你了解 vue-next（Vue 3.0）之 初入茅庐](https://juejin.im/post/5e1d289c5188254dfd43d0c8)  
+* [Vue vant引入，tabbar封装使用示例](http://www.tuicool.com/articles/hit/FBJRJnV)  
+* [在 Vue CLI 生成的项目里更改 eslint 风格](https://www.itwork.club/2020/01/14/update-eslint-in-vue-cli/)  
+* [Vue高级指南-01 Vue源码解析之手写Vue源码](https://juejin.im/post/5e1af3156fb9a02ffe7025c1)  
 * [Vue2.0源码阅读笔记（十）：指令](https://juejin.im/post/5e0af9485188253abc330581)  
 * [vue实例化都干了什么](https://juejin.im/post/5dfb26e5f265da33d912e132)  
 * [【vue-进阶】你不知道的 vue-devtools](https://juejin.im/post/5e0cbdd6e51d4541162c9493)  
