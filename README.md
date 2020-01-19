@@ -20,7 +20,9 @@
 官网：https://cn.vuejs.org  
 github: https://github.com/vuejs/vue   
 vuefe：https://vuefe.cn    
+vue3 & vue-cli 3+  News：https://github.com/vue3/vue3-News
 
+想了解更多vue3资讯，可以star[vue3+ News](https://github.com/vue3/vue3-News)  
 版本 vue-next(3.0) 目前还处于 Pre-Alpha 版本    
 版本 v2.6.x 是目前最新版本(2019.01-至今)    
 版本 v2.5.x 是保持了很久的版本(2017.10-2019.01)  
