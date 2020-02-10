@@ -88,6 +88,43 @@ __元日__
 
 Hello, 2020, please be nice to me！  
 
+#### 停车坐爱枫林晚，霜叶红于二月花。
+
+* [TypeScript从零实现基于Proxy的响应式库，带你彻底搞懂Vue3的响应式原理](https://juejin.im/post/5e21196fe51d454d523be084)  
+* [基于 Flask 和 Vue 的词云生成应用](https://juejin.im/post/5e216901e51d4558850ea00f)  
+* [Vue.js 学习笔记（一）数据绑定与指示器](https://rollingstarky.github.io/2020/01/18/data-binding-and-directives-in-vue-js/)  
+* [理清Vue响应式系统中的Watcher和Dep的关系](https://juejin.im/post/5e23fcb1f265da3e2650e17e)  
+* [带你彻底搞懂Vue3的Proxy响应式原理基于函数劫持实现Map和Set的响应式](https://juejin.im/post/5e23b20f51882510073eb571)  
+* [阿望教你用vue写扫雷（超详细哦）](https://awang0608.github.io/2020/01/19/%E9%98%BF%E6%9C%9B%E6%95%99%E4%BD%A0%E7%94%A8vue%E5%86%99%E6%89%AB%E9%9B%B7-%E8%B6%85%E8%AF%A6%E7%BB%86%E5%93%A6/)  
+* [代码规范化之Vue篇](https://juejin.im/post/5e2d3af65188254e1d4398fa)  
+* [2020年，11种应该加入工具箱的顶级VueJS开发员工具​](https://blog.csdn.net/duxinshuxiaobian/article/details/104088128)  
+* [强化表单的9个Vue输入库](https://www.cnblogs.com/GeniusLyzh/p/12236164.html)  
+* [Vue入门指南——计算属性](https://blog.csdn.net/weixin_44253336/article/details/104090427)  
+* [Vue造轮子-tab组件(下)](https://segmentfault.com/a/1190000021653651)  
+* [深度解析：Vue3如何巧妙的实现强大的computed](https://juejin.im/post/5e2fdf29e51d45026866107d)  
+* [Vue造轮子-popover组件(上)](https://juejin.im/post/5e311dd051882510073ebb6b)  
+* [vue项目搭建问题记录](https://blog.csdn.net/tuzongxun/article/details/104100344)  
+* [Vue入门指南——侦听器](https://blog.csdn.net/weixin_44253336/article/details/104095936)  
+* [Vue入门指南——过滤器](https://blog.csdn.net/weixin_44253336/article/details/104096669)  
+* [重拳出击：打造 Vue3.0 + Typescript + TSX 开(乞)发(丐)模式](https://juejin.im/post/5e32502ae51d450268661152)  
+* [vuex为什么不建议在action中修改state](https://juejin.im/post/5e21595be51d4552464d3ebe)  
+* [如何在Vue中使用lottie加载SVG动画](https://juejin.im/post/5e327db0f265da3e3b5c6003)  
+* [在React中引入Vue3的reactivity分包来实现最强大的状态管理](https://juejin.im/post/5e2d0d016fb9a02fc05da472)  
+* [vue-cli设置css不生效](https://www.daozhao.com/8817.html)  
+* [Vue实现一个全屏加载插件并发布至npm仓库](https://juejin.im/post/5e3307145188252c30002fa7)  
+* [Vue-5个进阶属性（指令等）](https://juejin.im/post/5e34378751882536c964f427)  
+* [Vue 中 强制组件重新渲染的正确方法](https://segmentfault.com/a/1190000021599461)  
+* [面相 vue 开发者的 react 入坑指南](https://blog.rxliuli.com/p/b6a3c3df/)  
+* [从头为 Vue.js 3 实现 Vuex](https://mp.weixin.qq.com/s?__biz=MzI0MDYzOTEyOA==&mid=2247484352&idx=1&sn=2004fefa92ea13332bc906412f41cf60)  
+* [vue 源码学习（一）入门和响应式原理](https://segmentfault.com/a/1190000021673620)  
+* [修改vue源码实现动态路由缓存 动态路由](https://juejin.im/post/5e36c148f265da3e240b361b)  
+* [花括号匹配变量组件实现记录，vue字符串渲染成组件的两种方式](https://juejin.im/post/5e37dee95188254d9032ab71)  
+* [基于vue实现一个新型肺炎疫情动态Demo](https://juejin.im/post/5e38f1d151882549281bdf61)  
+* [整合 Django 2.x + Vue.js 框架快速搭建web项目](https://juejin.im/post/5e36d5dc51882520ea398f21)  
+* [Vue如何使用混合Mixins和插件开发](https://segmentfault.com/a/1190000021679760)  
+
+#### 正月风光好，逢君上客稀。
+
 * [Vue3 尝鲜](https://juejin.im/post/5e13ecbe6fb9a04846508ab2)  
 * [Vue v-model组件封装(类似弹窗组件)](https://juejin.im/post/5e13fe02f265da5d12564fb8)  
 * [electron+vue实现div contenteditable功能|截图](https://segmentfault.com/a/1190000021510872)  
