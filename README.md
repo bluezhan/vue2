@@ -75,9 +75,65 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![](https://github.com/itemsets/vue2/raw/master/blog/2020.png)
 
-新的一年，新的方向，新的开始！加油ヾ(◍°∇°◍)ﾉﾞ  
+新的一年，新的方向，新的开始！加油ヾ(◍°∇°◍)ﾉﾞ    
+Hello, 2020, please be nice to me！  
 
-### *`新年好`： 一切都要讲究规划* 
+### *拜托，三月疫情结束，大家平平安安* 
+
+《蝶恋花·柳絮年年三月暮》  
+[清]周济  
+柳絮年年三月暮，断送莺花，十里湖边路。  
+万转千回无落处，随侬只恁低低去。  
+满眼颓垣欹病树，纵有余英，不值风姨炉。  
+烟里黄沙遮不住，河流日夜东南注。  
+
+* [Vue-Cli@2项目迁移日志](https://blog.ixk.me/vue-cli2-project-migration-log.html)  
+* [如何构建运行良好的Vue组件](https://segmentfault.com/a/1190000021615618)  
+* [记一次惨痛的Vue-cli + VueX + SSR经历](https://juejin.im/post/5e4f43b9518825492a71fddb)  
+* [vue3.0源码速读](https://juejin.im/post/5e4eb264f265da575c16bc14)  
+* [21天完美搞定Vue框架技术（第2天）](https://segmentfault.com/a/1190000021806757)  
+* [Ant Design Vue Pro 项目实战-项目初始化（一）](https://www.cnblogs.com/wzgj/p/12344846.html)  
+* [vue路由核心要点（vue-router）](https://www.cnblogs.com/halfsoul/p/12347148.html)  
+* [vue中实现简易购物车（麻雀小，五脏全）](https://segmentfault.com/a/1190000021812737)  
+* [Vue的完整版和非完整版的差异](https://juejin.im/post/5e51e912e51d4526cf47f7af)  
+* [Vue响应式原理简单实现](https://juejin.im/post/5e522eb2518825497467f353)  
+* [笔记：关于 Vue-SSR 的实践性测试](https://segmentfault.com/a/1190000021820780)  
+* [[Vue源码学习]1-从零跑通Vue实例化过程](https://juejin.im/post/5e523e22e51d4527066e8fed)  
+* [vuex知识笔记，及与localStorage和sessionStorage的区别](https://www.cnblogs.com/tandaxia/p/12353218.html)  
+* [Vue项目总结（1）-基本概念+Nodejs+VUE+VSCode](https://juejin.im/post/5e512734518825495853bf36)  
+* [搞清Vue生命周期执行顺序](https://juejin.im/post/5e527ecae51d4526cb161b46)  
+* [Vue深入响应式原理](https://juejin.im/post/5e527eabe51d4526d6405da8)  
+* [Vue实例$mount](http://link.caibaojian.com?url=https://juejin.im/post/5e5364e16fb9a07cbe3465d2)  
+* [VUE源码系列五：组件是怎样生成的？(附详细源码解析)](http://link.caibaojian.com?url=https://juejin.im/post/5e2804e1e51d453c9e155f08)  
+* [从源码分析Vue的响应式原理](http://link.caibaojian.com?url=https://juejin.im/post/5e50c285f265da57375c3c94)  
+* [高级 Vue 技巧：控制父类的 slot](http://link.caibaojian.com?url=https://segmentfault.com/a/1190000021662927)  
+* [Vue中你可能认为是bug的情况原来是这样的](http://link.caibaojian.com?url=https://www.cnblogs.com/qidaoxueyuan/p/12358157.html)  
+* [vue配置命令打包不同的生产环境与测试环境](http://link.caibaojian.com?url=https://www.teaxia.com/archives/1140/)  
+* [从零开始搭建Electron+Vue+Webpack项目框架，一套代码，同时构建客户端、web端（四）](http://link.caibaojian.com?url=https://www.cnblogs.com/kakayang/p/12165742.html)  
+* [浅析vue-router源码并尝试实现一个简单的前端路由](http://link.caibaojian.com?url=https://juejin.im/post/5e435815f265da57340233ee)  
+* [记一次vue-cli3 webpack简单性能优化](http://link.caibaojian.com?url=https://juejin.im/post/5e54c9d06fb9a07cd614d2a0)  
+* [Vue.js 学习教程指南](http://link.caibaojian.com?url=https://zhuanlan.zhihu.com/p/109095281)  
+* [轻松理解vuex的运用和常见问题，顺便学会vue企业必备实例](http://link.caibaojian.com?url=https://developer.51cto.com/art/202002/611272.htm)  
+* [Vue必须掌握之组件通信（7种方法）](http://link.caibaojian.com?url=https://www.maiyewang.com/archives/80712)  
+* [vue插槽（slot）的模板与JSX写法](http://link.caibaojian.com?url=https://www.maiyewang.com/archives/81461)  
+* [Vue – 自定义组件双向绑定](http://link.caibaojian.com?url=https://www.maiyewang.com/archives/81466)  
+* [手把手教你搞定权限管理，结合Vue实现菜单的动态权限控制](http://link.caibaojian.com?url=https://juejin.im/post/5e57c8236fb9a07caf445ddc)  
+* [基于 Serverless 的 VuePress 极简静态网站](http://link.caibaojian.com?url=https://china.serverless.com/best-practice/2020-02-04-vuepress-serverless/)  
+* [Vue自定义alertTip组件，Go发邮件email的简单使用](http://link.caibaojian.com?url=https://juejin.im/post/5e57d7f9518825495f4546b8)  
+* [（三）complier模板编译-vue源码动手写系列](http://link.caibaojian.com?url=https://juejin.im/post/5e57df48e51d4527271e99c9)  
+* [Vue组件化开发之通用型弹出框](http://link.caibaojian.com?url=https://juejin.im/post/5e58015ce51d4526f65cc73a)  
+* [Vue代理解决生产环境跨域问题  部署必备干货](http://link.caibaojian.com?url=https://segmentfault.com/a/1190000021866670)  
+* [了解vue计算属性和methods、watched](http://link.caibaojian.com?url=https://juejin.im/post/5e58cc3c518825490966dfc1)  
+* [Vue  中 render 函数有点意思](http://link.caibaojian.com?url=https://segmentfault.com/a/1190000021790899)  
+* [为什么 Vue 实例只能有一个根元素？](http://link.caibaojian.com?url=https://juejin.im/post/5e57d0f3e51d4526ec0d39ca)  
+* [一个指令为各大vue组件库的table组件加上动态编辑功能](http://link.caibaojian.com?url=https://segmentfault.com/a/1190000021871839)  
+* [Vue2.0变化侦测Array类型的处理](http://link.caibaojian.com?url=https://juejin.im/post/5e5924396fb9a07c7f607362)  
+* [基于Vue的跨移动端和PC端适应](http://link.caibaojian.com?url=https://juejin.im/post/5e5a2aa85188254946705c60)  
+* [Vue.js × 尤雨溪 30分钟纪录片 | 中文字幕](http://link.caibaojian.com?url=https://mp.weixin.qq.com/s?__biz=MzI1NDU3NzM5Mg==&mid=2247484359&idx=1&sn=c20d6a44a92f28f9e9f6a14b3a957a8f)  
+* [VueJs best practices](http://link.caibaojian.com?url=https://juejin.im/post/5e5a4cd1f265da57133b2ccd)  
+
+
+### *`王安石`： 一岁除换旧符* 
 
 __元日__   
 [宋]王安石     
